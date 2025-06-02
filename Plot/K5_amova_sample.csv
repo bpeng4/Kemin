@@ -1,0 +1,278 @@
+"","Sample1","Sample2","Fs_value","p_value"
+"1","Overall","",12.5488501694075,0.001
+"2","beetroot powder","BetaVia Pure WD",21.3272793411096,0.001
+"3","beetroot powder","carrot powder",1.15369877202806,0.315
+"4","BetaVia Pure WD","carrot powder",15.194908999683,0.002
+"5","beetroot powder","Cellulose",8.48493589371717,0.013
+"6","BetaVia Pure WD","Cellulose",1.45859494910382,0.257
+"7","carrot powder","Cellulose",4.18763759734609,0.057
+"8","beetroot powder","dried apple pomace",4.02738467804947,0.066
+"9","BetaVia Pure WD","dried apple pomace",7.28086588904038,0.014
+"10","carrot powder","dried apple pomace",1.03909254080036,0.324
+"11","Cellulose","dried apple pomace",1.16302989532793,0.262
+"12","beetroot powder","dried spinich powder",4.22283697202549,0.06
+"13","BetaVia Pure WD","dried spinich powder",2.24882287576601,0.159
+"14","carrot powder","dried spinich powder",1.49887222572904,0.246
+"15","Cellulose","dried spinich powder",0.235747218129171,0.618
+"16","dried apple pomace","dried spinich powder",0.161391063778591,0.704
+"17","beetroot powder","FBB16",9.19202223581629,0.015
+"18","BetaVia Pure WD","FBB16",204.820667457344,0.002
+"19","carrot powder","FBB16",20.0127724893469,0.002
+"20","Cellulose","FBB16",33.3318611012349,0.001
+"21","dried apple pomace","FBB16",28.8438667956497,0.002
+"22","dried spinich powder","FBB16",15.8356359517479,0.005
+"23","beetroot powder","ginger powder",34.597580591635,0.001
+"24","BetaVia Pure WD","ginger powder",7.63580070954429,0.011
+"25","carrot powder","ginger powder",28.6253589511995,0.001
+"26","Cellulose","ginger powder",8.74036219007277,0.012
+"27","dried apple pomace","ginger powder",18.7023704748705,0.001
+"28","dried spinich powder","ginger powder",8.44573440344113,0.009
+"29","FBB16","ginger powder",108.227210365216,0.002
+"30","beetroot powder","Ground Beet Pulp",0.150894153704403,0.716
+"31","BetaVia Pure WD","Ground Beet Pulp",12.6425562003126,0.003
+"32","carrot powder","Ground Beet Pulp",0.314618259691396,0.569
+"33","Cellulose","Ground Beet Pulp",5.02871490215824,0.03
+"34","dried apple pomace","Ground Beet Pulp",1.95947848465344,0.189
+"35","dried spinich powder","Ground Beet Pulp",2.40646319808922,0.135
+"36","FBB16","Ground Beet Pulp",8.21499676137008,0.011
+"37","ginger powder","Ground Beet Pulp",23.0623484216771,0.001
+"38","beetroot powder","guar gum",0.764989856450347,0.399
+"39","BetaVia Pure WD","guar gum",11.4452696742945,0.005
+"40","carrot powder","guar gum",0.0119834017129321,0.916
+"41","Cellulose","guar gum",3.73914135068532,0.082
+"42","dried apple pomace","guar gum",1.02950383332179,0.331
+"43","dried spinich powder","guar gum",1.49027702066249,0.215
+"44","FBB16","guar gum",12.6977633377815,0.013
+"45","ginger powder","guar gum",22.4798245940825,0.001
+"46","Ground Beet Pulp","guar gum",0.17976761410272,0.632
+"47","beetroot powder","HiSmooth flax seed fiber",4.90266221789841,0.04
+"48","BetaVia Pure WD","HiSmooth flax seed fiber",2.04017426009208,0.164
+"49","carrot powder","HiSmooth flax seed fiber",1.89252643661267,0.169
+"50","Cellulose","HiSmooth flax seed fiber",0.149716188031086,0.696
+"51","dried apple pomace","HiSmooth flax seed fiber",0.280990084252779,0.592
+"52","dried spinich powder","HiSmooth flax seed fiber",0.00976142491668879,0.943
+"53","FBB16","HiSmooth flax seed fiber",17.9514768689012,0.004
+"54","ginger powder","HiSmooth flax seed fiber",8.33749957313565,0.003
+"55","Ground Beet Pulp","HiSmooth flax seed fiber",2.83734792271328,0.106
+"56","guar gum","HiSmooth flax seed fiber",1.84034497159105,0.212
+"57","beetroot powder","Jerusalum articohoke powder (inulin)",0.327139216259335,0.607
+"58","BetaVia Pure WD","Jerusalum articohoke powder (inulin)",75.3618828739461,0.001
+"59","carrot powder","Jerusalum articohoke powder (inulin)",4.33593007762537,0.036
+"60","Cellulose","Jerusalum articohoke powder (inulin)",20.1242070880946,0.001
+"61","dried apple pomace","Jerusalum articohoke powder (inulin)",11.3659237708565,0.005
+"62","dried spinich powder","Jerusalum articohoke powder (inulin)",8.96897661162422,0.005
+"63","FBB16","Jerusalum articohoke powder (inulin)",26.1361838711011,0.003
+"64","ginger powder","Jerusalum articohoke powder (inulin)",87.9317322030391,0.001
+"65","Ground Beet Pulp","Jerusalum articohoke powder (inulin)",0.95008111101717,0.354
+"66","guar gum","Jerusalum articohoke powder (inulin)",2.72719872233318,0.105
+"67","HiSmooth flax seed fiber","Jerusalum articohoke powder (inulin)",10.4981570983907,0.008
+"68","beetroot powder","kappa carageenan ",25.7708805982001,0.001
+"69","BetaVia Pure WD","kappa carageenan ",1.09003178827029,0.308
+"70","carrot powder","kappa carageenan ",19.6714614625463,0.001
+"71","Cellulose","kappa carageenan ",3.23227701162245,0.097
+"72","dried apple pomace","kappa carageenan ",10.7560366228762,0.004
+"73","dried spinich powder","kappa carageenan ",3.82898719622129,0.051
+"74","FBB16","kappa carageenan ",178.540328183047,0.003
+"75","ginger powder","kappa carageenan ",3.51221523030182,0.072
+"76","Ground Beet Pulp","kappa carageenan ",15.8453676012035,0.003
+"77","guar gum","kappa carageenan ",14.8588698230057,0.002
+"78","HiSmooth flax seed fiber","kappa carageenan ",3.62802036132235,0.076
+"79","Jerusalum articohoke powder (inulin)","kappa carageenan ",83.9511110735106,0.001
+"80","beetroot powder","lemon powder",15.8333278791299,0.001
+"81","BetaVia Pure WD","lemon powder",0.665641809216701,0.428
+"82","carrot powder","lemon powder",10.7641560289511,0.006
+"83","Cellulose","lemon powder",2.2223439760757,0.135
+"84","dried apple pomace","lemon powder",6.03840754556786,0.023
+"85","dried spinich powder","lemon powder",3.01884873857271,0.093
+"86","FBB16","lemon powder",29.6537251576678,0.003
+"87","ginger powder","lemon powder",0.695656867284631,0.439
+"88","Ground Beet Pulp","lemon powder",11.0183857851727,0.007
+"89","guar gum","lemon powder",9.60288387646651,0.007
+"90","HiSmooth flax seed fiber","lemon powder",2.815954802804,0.108
+"91","Jerusalum articohoke powder (inulin)","lemon powder",29.3645742558575,0.001
+"92","kappa carageenan ","lemon powder",0.0909635431063867,0.756
+"93","beetroot powder","locust bean gum",0.299224025745461,0.585
+"94","BetaVia Pure WD","locust bean gum",49.4521962769014,0.001
+"95","carrot powder","locust bean gum",0.665559313078309,0.43
+"96","Cellulose","locust bean gum",10.7671327909158,0.002
+"97","dried apple pomace","locust bean gum",4.38088322888249,0.041
+"98","dried spinich powder","locust bean gum",4.07728890536884,0.038
+"99","FBB16","locust bean gum",44.6463790213922,0.004
+"100","ginger powder","locust bean gum",64.5858585303748,0.001
+"101","Ground Beet Pulp","locust bean gum",0.000132817648554182,0.994
+"102","guar gum","locust bean gum",0.319820851996644,0.59
+"103","HiSmooth flax seed fiber","locust bean gum",4.97322769830907,0.035
+"104","Jerusalum articohoke powder (inulin)","locust bean gum",3.0490678933617,0.109
+"105","kappa carageenan ","locust bean gum",57.6900089474952,0.001
+"106","lemon powder","locust bean gum",19.5912550184586,0.001
+"107","beetroot powder","Micronized cassava fiber",0.0156758201364353,0.904
+"108","BetaVia Pure WD","Micronized cassava fiber",35.6230435003942,0.001
+"109","carrot powder","Micronized cassava fiber",1.29649045612474,0.262
+"110","Cellulose","Micronized cassava fiber",11.0178480991254,0.002
+"111","dried apple pomace","Micronized cassava fiber",5.1226720640007,0.038
+"112","dried spinich powder","Micronized cassava fiber",4.86731673686127,0.033
+"113","FBB16","Micronized cassava fiber",19.0126712272763,0.005
+"114","ginger powder","Micronized cassava fiber",51.9548102692598,0.001
+"115","Ground Beet Pulp","Micronized cassava fiber",0.105423216018661,0.75
+"116","guar gum","Micronized cassava fiber",0.778100991572179,0.424
+"117","HiSmooth flax seed fiber","Micronized cassava fiber",5.76279840366102,0.032
+"118","Jerusalum articohoke powder (inulin)","Micronized cassava fiber",0.820823670722578,0.396
+"119","kappa carageenan ","Micronized cassava fiber",42.2472133970578,0.001
+"120","lemon powder","Micronized cassava fiber",19.5016175947864,0.001
+"121","locust bean gum","Micronized cassava fiber",0.279438558289143,0.613
+"122","beetroot powder","Mushroom chitosan",50.4324581301908,0.001
+"123","BetaVia Pure WD","Mushroom chitosan",23.5305503895964,0.001
+"124","carrot powder","Mushroom chitosan",45.8446744838637,0.001
+"125","Cellulose","Mushroom chitosan",17.8903595201394,0.002
+"126","dried apple pomace","Mushroom chitosan",32.9288831306768,0.001
+"127","dried spinich powder","Mushroom chitosan",15.0796771846477,0.003
+"128","FBB16","Mushroom chitosan",175.252248132332,0.002
+"129","ginger powder","Mushroom chitosan",1.93491083571458,0.173
+"130","Ground Beet Pulp","Mushroom chitosan",33.9460215068646,0.001
+"131","guar gum","Mushroom chitosan",34.730536939222,0.001
+"132","HiSmooth flax seed fiber","Mushroom chitosan",15.2559604425228,0.002
+"133","Jerusalum articohoke powder (inulin)","Mushroom chitosan",137.818013216233,0.001
+"134","kappa carageenan ","Mushroom chitosan",14.095517960435,0.002
+"135","lemon powder","Mushroom chitosan",3.20613889862102,0.092
+"136","locust bean gum","Mushroom chitosan",107.685634739812,0.001
+"137","Micronized cassava fiber","Mushroom chitosan",79.9481971421161,0.001
+"138","beetroot powder","Oat Bagasse hydrolysate-(B)",8.64723693547019,0.013
+"139","BetaVia Pure WD","Oat Bagasse hydrolysate-(B)",3.74327963820684,0.074
+"140","carrot powder","Oat Bagasse hydrolysate-(B)",4.02626833321785,0.046
+"141","Cellulose","Oat Bagasse hydrolysate-(B)",0.0901425859028897,0.782
+"142","dried apple pomace","Oat Bagasse hydrolysate-(B)",0.833021976094723,0.373
+"143","dried spinich powder","Oat Bagasse hydrolysate-(B)",0.0804879269876649,0.8
+"144","FBB16","Oat Bagasse hydrolysate-(B)",53.6574236847033,0.004
+"145","ginger powder","Oat Bagasse hydrolysate-(B)",14.7540972742398,0.001
+"146","Ground Beet Pulp","Oat Bagasse hydrolysate-(B)",4.78282573804967,0.038
+"147","guar gum","Oat Bagasse hydrolysate-(B)",3.46187020950553,0.08
+"148","HiSmooth flax seed fiber","Oat Bagasse hydrolysate-(B)",0.0290436565010699,0.871
+"149","Jerusalum articohoke powder (inulin)","Oat Bagasse hydrolysate-(B)",24.9557902206933,0.001
+"150","kappa carageenan ","Oat Bagasse hydrolysate-(B)",6.90920396470948,0.016
+"151","lemon powder","Oat Bagasse hydrolysate-(B)",3.53714748076272,0.075
+"152","locust bean gum","Oat Bagasse hydrolysate-(B)",12.7675373448728,0.004
+"153","Micronized cassava fiber","Oat Bagasse hydrolysate-(B)",12.2091198060347,0.003
+"154","Mushroom chitosan","Oat Bagasse hydrolysate-(B)",29.9448041951696,0.001
+"155","beetroot powder","Oat Bagasse-Control",0.0675284203462413,0.799
+"156","BetaVia Pure WD","Oat Bagasse-Control",29.5325501657824,0.001
+"157","carrot powder","Oat Bagasse-Control",0.854203068662427,0.358
+"158","Cellulose","Oat Bagasse-Control",8.99636726632549,0.007
+"159","dried apple pomace","Oat Bagasse-Control",3.95683053154462,0.059
+"160","dried spinich powder","Oat Bagasse-Control",3.8913090711795,0.061
+"161","FBB16","Oat Bagasse-Control",17.7991207997589,0.007
+"162","ginger powder","Oat Bagasse-Control",44.292831451278,0.001
+"163","Ground Beet Pulp","Oat Bagasse-Control",0.0332067800723227,0.847
+"164","guar gum","Oat Bagasse-Control",0.491059975001698,0.511
+"165","HiSmooth flax seed fiber","Oat Bagasse-Control",4.63510393347755,0.052
+"166","Jerusalum articohoke powder (inulin)","Oat Bagasse-Control",1.11029983989017,0.3
+"167","kappa carageenan ","Oat Bagasse-Control",35.3635202877169,0.001
+"168","lemon powder","Oat Bagasse-Control",16.5686295570004,0.002
+"169","locust bean gum","Oat Bagasse-Control",0.0910792563093399,0.78
+"170","Micronized cassava fiber","Oat Bagasse-Control",0.029471161834663,0.876
+"171","Mushroom chitosan","Oat Bagasse-Control",68.564173986305,0.001
+"172","Oat Bagasse hydrolysate-(B)","Oat Bagasse-Control",9.83800407231784,0.01
+"173","Oat Bagasse hydrolysate-(PBV)","Oat Bagasse-Control",7.00260274338315,0.017
+"174","beetroot powder","Oat Bagasse hydrolysate-(PBV)",6.6042558626523,0.019
+"175","BetaVia Pure WD","Oat Bagasse hydrolysate-(PBV)",4.07845027322114,0.054
+"176","carrot powder","Oat Bagasse hydrolysate-(PBV)",2.66311231475963,0.128
+"177","Cellulose","Oat Bagasse hydrolysate-(PBV)",0.269185253934101,0.586
+"178","dried apple pomace","Oat Bagasse hydrolysate-(PBV)",0.363369655285694,0.565
+"179","dried spinich powder","Oat Bagasse hydrolysate-(PBV)",0.00552523256877476,0.946
+"180","FBB16","Oat Bagasse hydrolysate-(PBV)",36.5978078008805,0.004
+"181","ginger powder","Oat Bagasse hydrolysate-(PBV)",14.2334686155049,0.001
+"182","Ground Beet Pulp","Oat Bagasse hydrolysate-(PBV)",3.60123994899221,0.068
+"183","guar gum","Oat Bagasse hydrolysate-(PBV)",2.41012060659939,0.141
+"184","HiSmooth flax seed fiber","Oat Bagasse hydrolysate-(PBV)",0.00166830167394931,0.961
+"185","Jerusalum articohoke powder (inulin)","Oat Bagasse hydrolysate-(PBV)",17.6433533879527,0.001
+"186","kappa carageenan ","Oat Bagasse hydrolysate-(PBV)",6.95899118024078,0.021
+"187","lemon powder","Oat Bagasse hydrolysate-(PBV)",3.98236719072997,0.054
+"188","locust bean gum","Oat Bagasse hydrolysate-(PBV)",8.39933525551853,0.011
+"189","Micronized cassava fiber","Oat Bagasse hydrolysate-(PBV)",8.76123932182653,0.014
+"190","Mushroom chitosan","Oat Bagasse hydrolysate-(PBV)",27.1316890351033,0.001
+"191","Oat Bagasse hydrolysate-(B)","Oat Bagasse hydrolysate-(PBV)",0.0740964030049886,0.779
+"192","beetroot powder","Olive Flour",12.4486639812034,0.002
+"193","BetaVia Pure WD","Olive Flour",0.83436493689029,0.416
+"194","carrot powder","Olive Flour",7.17789448559688,0.019
+"195","Cellulose","Olive Flour",0.153555233158042,0.702
+"196","dried apple pomace","Olive Flour",2.60976921855153,0.132
+"197","dried spinich powder","Olive Flour",0.706013707877953,0.394
+"198","FBB16","Olive Flour",58.3392642962621,0.005
+"199","ginger powder","Olive Flour",8.72822728256378,0.003
+"200","Ground Beet Pulp","Olive Flour",7.41452620798973,0.015
+"201","guar gum","Olive Flour",6.00306304870082,0.028
+"202","HiSmooth flax seed fiber","Olive Flour",0.558525263274029,0.444
+"203","Jerusalum articohoke powder (inulin)","Olive Flour",33.3392719904363,0.001
+"204","kappa carageenan ","Olive Flour",2.64488547056881,0.12
+"205","lemon powder","Olive Flour",1.641663122855,0.225
+"206","locust bean gum","Olive Flour",19.3386394062702,0.001
+"207","Micronized cassava fiber","Olive Flour",17.679352988409,0.001
+"208","Mushroom chitosan","Olive Flour",20.1216730877275,0.001
+"209","Oat Bagasse hydrolysate-(B)","Olive Flour",0.642335557768911,0.437
+"210","Oat Bagasse-Control","Olive Flour",14.5489036397028,0.001
+"211","Oat Bagasse hydrolysate-(PBV)","Olive Flour",1.00572991527281,0.311
+"212","beetroot powder","pomegranate powder",39.0589057152303,0.002
+"213","BetaVia Pure WD","pomegranate powder",16.5337281312495,0.002
+"214","carrot powder","pomegranate powder",34.1072567471977,0.001
+"215","Cellulose","pomegranate powder",16.3918065143635,0.002
+"216","dried apple pomace","pomegranate powder",25.8075360640094,0.001
+"217","dried spinich powder","pomegranate powder",15.0361869834579,0.002
+"218","FBB16","pomegranate powder",53.2506289489944,0.004
+"219","ginger powder","pomegranate powder",4.29328721028672,0.058
+"220","Ground Beet Pulp","pomegranate powder",28.9719254983539,0.001
+"221","guar gum","pomegranate powder",28.7461478379805,0.001
+"222","HiSmooth flax seed fiber","pomegranate powder",15.1034766007125,0.003
+"223","Jerusalum articohoke powder (inulin)","pomegranate powder",72.5275821414861,0.001
+"224","kappa carageenan ","pomegranate powder",12.0866732486174,0.003
+"225","lemon powder","pomegranate powder",5.18334445337383,0.031
+"226","locust bean gum","pomegranate powder",57.3262792717033,0.001
+"227","Micronized cassava fiber","pomegranate powder",51.3904751119357,0.001
+"228","Mushroom chitosan","pomegranate powder",1.49700768771462,0.228
+"229","Oat Bagasse hydrolysate-(B)","pomegranate powder",22.5623085874774,0.001
+"230","Oat Bagasse-Control","pomegranate powder",44.6734076288968,0.001
+"231","Oat Bagasse hydrolysate-(PBV)","pomegranate powder",21.9087298197493,0.001
+"232","Olive Flour","pomegranate powder",16.9493124381173,0.001
+"233","beetroot powder","Psyllium Husk",16.488080120395,0.002
+"234","BetaVia Pure WD","Psyllium Husk",1.80957063871546,0.187
+"235","carrot powder","Psyllium Husk",11.7436896362174,0.002
+"236","Cellulose","Psyllium Husk",3.54256078143045,0.07
+"237","dried apple pomace","Psyllium Husk",7.37169520090693,0.014
+"238","dried spinich powder","Psyllium Husk",4.34073770004142,0.044
+"239","FBB16","Psyllium Husk",22.3199055774054,0.003
+"240","ginger powder","Psyllium Husk",0.00380157629721041,0.953
+"241","Ground Beet Pulp","Psyllium Husk",12.2186787549974,0.004
+"242","guar gum","Psyllium Husk",10.8138576669186,0.005
+"243","HiSmooth flax seed fiber","Psyllium Husk",4.13408515261184,0.056
+"244","Jerusalum articohoke powder (inulin)","Psyllium Husk",26.6868576377988,0.001
+"245","kappa carageenan ","Psyllium Husk",0.843477627591263,0.372
+"246","lemon powder","Psyllium Husk",0.299214057687944,0.586
+"247","locust bean gum","Psyllium Husk",18.7553174362942,0.001
+"248","Micronized cassava fiber","Psyllium Husk",19.1588288289504,0.002
+"249","Mushroom chitosan","Psyllium Husk",0.695504643227164,0.416
+"250","Oat Bagasse hydrolysate-(B)","Psyllium Husk",4.92966944295796,0.043
+"251","Oat Bagasse-Control","Psyllium Husk",16.4626175645904,0.001
+"252","Oat Bagasse hydrolysate-(PBV)","Psyllium Husk",5.37448993416512,0.036
+"253","Olive Flour","Psyllium Husk",2.93522675212909,0.099
+"254","pomegranate powder","Psyllium Husk",2.14766730136986,0.133
+"255","beetroot powder","xanthan gum",44.1459421301782,0.001
+"256","BetaVia Pure WD","xanthan gum",16.3444581078623,0.002
+"257","carrot powder","xanthan gum",39.0157310510616,0.001
+"258","Cellulose","xanthan gum",13.6441656702176,0.002
+"259","dried apple pomace","xanthan gum",26.9499828902203,0.001
+"260","dried spinich powder","xanthan gum",11.9408532123516,0.002
+"261","FBB16","xanthan gum",170.379922514127,0.003
+"262","ginger powder","xanthan gum",0.491403734824758,0.492
+"263","Ground Beet Pulp","xanthan gum",29.2899639377148,0.001
+"264","guar gum","xanthan gum",29.5544734111735,0.001
+"265","HiSmooth flax seed fiber","xanthan gum",11.9860388752976,0.003
+"266","Jerusalum articohoke powder (inulin)","xanthan gum",123.80335622513,0.001
+"267","kappa carageenan ","xanthan gum",8.77943715232922,0.01
+"268","lemon powder","xanthan gum",1.77471347247779,0.19
+"269","locust bean gum","xanthan gum",94.6584763806969,0.001
+"270","Micronized cassava fiber","xanthan gum",70.2757722277032,0.001
+"271","Mushroom chitosan","xanthan gum",0.597310405974271,0.428
+"272","Oat Bagasse hydrolysate-(B)","xanthan gum",23.4838800479536,0.001
+"273","Oat Bagasse-Control","xanthan gum",60.0344416002396,0.001
+"274","Oat Bagasse hydrolysate-(PBV)","xanthan gum",21.5321331686412,0.002
+"275","Olive Flour","xanthan gum",14.9077890058959,0.001
+"276","pomegranate powder","xanthan gum",2.90788938578054,0.114
+"277","Psyllium Husk","xanthan gum",0.201505178141969,0.653

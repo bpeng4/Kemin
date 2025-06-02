@@ -1,0 +1,23 @@
+"","Category1","Category2","Fs_value","p_value"
+"1","Overall","",15.2708745011943,0.001
+"2","b-glucan","Botanicals",8.23816883024781,0.01
+"3","Botanicals","Complex fiber",2.43954860252288,0.134
+"4","b-glucan","Complex fiber",14.4399118072528,0.001
+"5","Botanicals","Waste Stream",55.4183065305611,0.001
+"6","b-glucan","Waste Stream",103.259526332397,0.001
+"7","Complex fiber","Waste Stream",28.4600922915318,0.001
+"8","FBB16","Waste Stream",0.233943485340107,0.606
+"9","Gums","Waste Stream",66.0767141885396,0.001
+"10","Oligosaccharrides","Waste Stream",29.392388621494,0.001
+"11","Botanicals","FBB16",11.9574589896206,0.001
+"12","b-glucan","FBB16",30.1458244381324,0.002
+"13","Complex fiber","FBB16",5.75800275263216,0.015
+"14","Botanicals","Gums",5.72661249471501,0.024
+"15","b-glucan","Gums",0.0476613203774519,0.827
+"16","Complex fiber","Gums",10.8805813446545,0.002
+"17","FBB16","Gums",16.3370275367165,0.001
+"18","Botanicals","Oligosaccharrides",0.567619529451122,0.463
+"19","b-glucan","Oligosaccharrides",1.28540279938469,0.265
+"20","Complex fiber","Oligosaccharrides",2.46653634223625,0.14
+"21","FBB16","Oligosaccharrides",7.17784764207954,0.006
+"22","Gums","Oligosaccharrides",0.725848851774257,0.385

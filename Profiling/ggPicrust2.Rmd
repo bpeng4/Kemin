@@ -1,0 +1,219 @@
+---
+title: "ggPicrust2"
+output: html_document
+date: "2025-05-06"
+---
+
+```{r, eval=FALSE}
+rm(list = ls())
+suppressMessages({
+        library("tidyverse")
+        library("phyloseq")
+        library("rstatix")
+        library("vegan")
+        library("picante")
+        library("kableExtra")
+        library("reticulate")
+        library("ALDEx2")
+        library("data.table")
+        library(dplyr)
+        library(tidyr)
+        library(BiocGenerics)
+        library(Biostrings)
+})
+
+no_of_cores = 16
+setwd("/work/benson/bpeng4/Kemin/Kemin_All")
+load("intermediate/Kemin_ps.rda")
+ls()
+ps
+
+###Pre-arrangement on  the phyloseq file
+################
+ps.clean <- subset_taxa(ps, Kingdom == "Bacteria") %>%
+  subset_taxa(!is.na(Phylum)) %>%
+  subset_taxa(!Class %in% c("Chloroplast")) %>%
+  subset_taxa(!Family %in% c("Mitochondria"))
+ps.clean
+#Filter Out Taxa Exist in At Least 25% samples
+ps.clean.p0 <- filter_taxa(ps.clean, function (x) {sum(x > 0) >= 282}, prune=TRUE)
+ps.clean.p0
+
+#Average by Category
+ps_melt <- psmelt(ps.clean.p0)  # Long-format data frame
+# Average abundance for each taxon by Category.
+group_var <- "Category." 
+mean_abund_df <- ps_melt %>%
+  group_by(OTU, !!sym(group_var)) %>%
+  summarise(Abundance = mean(Abundance), .groups = "drop") %>%
+  pivot_wider(names_from = !!sym(group_var), values_from = Abundance)
+# Build New OTU table
+otu_avg_mat <- as.matrix(mean_abund_df[,-1])
+rownames(otu_avg_mat) <- mean_abund_df$OTU
+otu_avg <- otu_table(otu_avg_mat, taxa_are_rows = TRUE)
+#Subset tax_table and build sample_data
+tax <- tax_table(ps)
+tax <- tax[rownames(otu_avg_mat), ]
+group_names <- colnames(otu_avg_mat)
+sample_df <- data.frame(Group = group_names)
+rownames(sample_df) <- group_names
+sample_data_avg <- sample_data(sample_df)
+#Assemble the new phyloseq file
+ps_avg <- phyloseq(otu_avg, tax, sample_data_avg)
+#Assign refseq to ps_avg
+ps_avg <- merge_phyloseq(
+  otu_table(ps_avg),
+  tax_table(ps_avg),
+  sample_data(ps_avg),
+  refseq(ps.clean.p0)[taxa_names(ps_avg)]
+)
+
+##Prepare Files for Picrust
+#Difine Functions
+phyloseq_counts_to_df <- function(ps) {
+  df <- as.data.frame(t(otu_table(ps)))
+  df <- cbind("#OTU ID" = rownames(df), df)  # Cheeky way to add a comment to first line
+  
+  # Note: we use OTU ID above since at the moment this function is meanly used
+  # to pipe files into picrust, which needs the 'OTU ID'.
+  return(df)
+}
+
+write_counts_to_file <- function(ps, filename) {
+  df <- phyloseq_counts_to_df(ps)
+  
+  write.table(df,
+              file=filename,
+              sep = "\t",
+              row.names = FALSE)
+}
+
+write_seqs_to_file <- function(ps, filename) {
+  df <- as.data.frame(refseq(ps))
+  
+  unlink(filename)  # make sure we delete before we concatenate below
+  
+  names <- rownames(df)
+  for (i in 1:nrow(df)) {
+    cat(paste0(">", names[i]), file=filename, sep="\n", append=TRUE)
+    cat(df[i,1], file=filename, sep="\n", append=TRUE)
+  }
+  message(paste0("Wrote ", nrow(df), " ASV sequences to file ", filename))
+}
+
+dir.create("picrust2", showWarnings = FALSE)
+write_counts_to_file(ps_avg, filename = "picrust2/raw_counts.tsv")
+write_seqs_to_file(ps_avg, filename = "picrust2/seqs.fna")
+```
+
+
+
+```{bash, eval=FALSE}
+module load picrust2/2.4
+# Use an extra cd to go to your work directory (not shown)
+cd picrust2
+
+picrust2_pipeline.py -s seqs.fna -i raw_counts.tsv -p 2 -o results \
+                     --stratified --verbose
+
+cd /work/benson/bpeng4/Kemin/Kemin_All/picrust2/results
+
+add_descriptions.py -i EC_metagenome_out/pred_metagenome_unstrat.tsv.gz -m EC \
+-o EC_metagenome_out/pred_metagenome_unstrat_descrip.tsv.gz
+
+add_descriptions.py -i KO_metagenome_out/pred_metagenome_unstrat.tsv.gz -m KO \
+-o KO_metagenome_out/pred_metagenome_unstrat_descrip.tsv.gz
+
+add_descriptions.py -i pathways_out/path_abun_unstrat.tsv.gz -m METACYC \
+-o pathways_out/path_abun_unstrat_descrip.tsv.gz
+
+# Decompress tsv files
+find . -name "*desc*" -exec pigz -dkv \{\} \;
+
+cp ./picrust2/results/EC_metagenome_out/pred_metagenome_unstrat_descrip.tsv  ./picrust2/EC.tsv
+cp ./picrust2/results/KO_metagenome_out/pred_metagenome_unstrat_descrip.tsv  ./picrust2/KO.tsv
+cp ./picrust2/results/pathways_out/path_abun_unstrat_descrip.tsv  ./picrust2/path.tsv
+```
+
+#Enzyme Commission number(EC) Output
+```{r, eval=FALSE}
+setwd("/work/benson/bpeng4/Kemin/Kemin_All/")
+p2_EC = paste0("picrust2", "/EC.tsv")
+p2EC = as.data.frame(fread(p2_EC))
+rownames(p2EC) = p2EC$"function"
+p2EC = p2EC %>%
+        mutate(across(-c(`function`, description), round ))
+p2EC = as.matrix(p2EC[,-1]) # drop off function column as we have it as row names
+```
+
+#KEGG Orthology(KO) Output
+```{r, eval=FALSE}
+p2_KO = paste0("picrust2", "/KO.tsv")
+p2KO = as.data.frame(fread(p2_KO))
+rownames(p2KO) = p2KO$"function"
+p2KO = p2KO %>%
+        mutate(across(-c(`function`, description), round ))
+p2KO = as.matrix(p2KO[,-1])
+```
+
+####ggpicrust2
+#library packages
+```{r}
+library(magrittr)
+library(ggpicrust2) 
+library(tibble) 
+library(fgsea)
+library("enrichplot")
+library("ComplexHeatmap")
+library("circlize")
+```
+
+#Visualization for Gene Set Enrichment Analysis(GSEA) results
+```{r}
+# Prepare abundance data
+abundance_data0 <- as.data.frame(p2KO) 
+abundance_data0 <- abundance_data0[, -1]
+
+list <- metadata0[metadata0$Category. %in% c("Botanicals", "FBB0"), "Sample_Name"]
+list <- rownames(list)
+abundance_data1 <- abundance_data0[, colnames(abundance_data0) %in% list]
+abundance_data2 <- as.data.frame(lapply(abundance_data1, as.numeric))
+rownames(abundance_data2) <- rownames(abundance_data1)
+colnames(abundance_data2) <- colnames(abundance_data1)
+
+# Prepare metadata
+metadata0 <- ps.clean.p0@sam_data
+
+metadata2 <- metadata0[metadata0$Sample_Name %in% list,]
+
+# Run GSEA analysis 
+gsea_results <- pathway_gsea( abundance = abundance_data2, 
+                              metadata = metadata2,
+                              group = "Category.", 
+                              pathway_type = "KEGG", 
+                              method = "fgsea"
+                              )
+                              
+# Create enrichment plot
+visualize_gsea(gsea_results, plot_type = "enrichment_plot", n_pathways = 10)
+
+# Create dotplot
+visualize_gsea(gsea_results, plot_type = "dotplot", n_pathways = 20)
+
+# Create barplot
+visualize_gsea(gsea_results, plot_type = "barplot", n_pathways = 15)
+
+# Create network plot
+visualize_gsea(gsea_results, plot_type = "network", n_pathways = 15)
+
+# Create heatmap 
+visualize_gsea(gsea_results,
+                plot_type = "heatmap",
+                n_pathways = 15,
+                abundance = abundance_data2, 
+                metadata = metadata2,
+                group = "Category."
+                )
+
+```
+

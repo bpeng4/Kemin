@@ -1,0 +1,1129 @@
+Sample_Name,Sample_Project,Amount,Microbiome,Category.,X,Sample,Highest.Dose.,Further.Dilutions.,fq1,fq2,Rep,Sample_Abbrv
+beetroot-1-K10-1,KeminCaninePartOne,1,K10,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-1-K10-1_L001_R1_001.fastq.gz,beetroot-1-K10-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-1-K10-2,KeminCaninePartThree,1,K10,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-1-K10-2_L001_R1_001.fastq.gz,beetroot-1-K10-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-1-K10-3,KeminCaninePartTwo,1,K10,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-1-K10-3_L001_R1_001.fastq.gz,beetroot-1-K10-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-1-K3-1,KeminCaninePartOne,1,K3,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-1-K3-1_L001_R1_001.fastq.gz,beetroot-1-K3-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-1-K3-2,KeminCaninePartThree,1,K3,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-1-K3-2_L001_R1_001.fastq.gz,beetroot-1-K3-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-1-K3-3,KeminCaninePartTwo,1,K3,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-1-K3-3_L001_R1_001.fastq.gz,beetroot-1-K3-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-1-K5-1,KeminCaninePartThree,1,K5,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-1-K5-1_L001_R1_001.fastq.gz,beetroot-1-K5-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-1-K5-2,KeminCaninePartOne,1,K5,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-1-K5-2_L001_R1_001.fastq.gz,beetroot-1-K5-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-1-K5-3,KeminCaninePartTwo,1,K5,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-1-K5-3_L001_R1_001.fastq.gz,beetroot-1-K5-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-1-K7-1,KeminCaninePartThree,1,K7,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-1-K7-1_L001_R1_001.fastq.gz,beetroot-1-K7-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-1-K7-2,KeminCaninePartTwo,1,K7,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-1-K7-2_L001_R1_001.fastq.gz,beetroot-1-K7-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-1-K7-3,KeminCaninePartOne,1,K7,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-1-K7-3_L001_R1_001.fastq.gz,beetroot-1-K7-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-10-K10-1,KeminCaninePartOne,10,K10,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-10-K10-1_L001_R1_001.fastq.gz,beetroot-10-K10-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-10-K10-2,KeminCaninePartThree,10,K10,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-10-K10-2_L001_R1_001.fastq.gz,beetroot-10-K10-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-10-K10-3,KeminCaninePartTwo,10,K10,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-10-K10-3_L001_R1_001.fastq.gz,beetroot-10-K10-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-10-K3-1,KeminCaninePartTwo,10,K3,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-10-K3-1_L001_R1_001.fastq.gz,beetroot-10-K3-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-10-K3-2,KeminCaninePartThree,10,K3,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-10-K3-2_L001_R1_001.fastq.gz,beetroot-10-K3-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-10-K3-3,KeminCaninePartOne,10,K3,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-10-K3-3_L001_R1_001.fastq.gz,beetroot-10-K3-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-10-K5-1,KeminCaninePartTwo,10,K5,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-10-K5-1_L001_R1_001.fastq.gz,beetroot-10-K5-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-10-K5-2,KeminCaninePartThree,10,K5,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-10-K5-2_L001_R1_001.fastq.gz,beetroot-10-K5-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-10-K5-3,KeminCaninePartOne,10,K5,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-10-K5-3_L001_R1_001.fastq.gz,beetroot-10-K5-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-10-K7-1,KeminCaninePartOne,10,K7,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-10-K7-1_L001_R1_001.fastq.gz,beetroot-10-K7-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-10-K7-2,KeminCaninePartThree,10,K7,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-10-K7-2_L001_R1_001.fastq.gz,beetroot-10-K7-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-10-K7-3,KeminCaninePartTwo,10,K7,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-10-K7-3_L001_R1_001.fastq.gz,beetroot-10-K7-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-20-K10-1,KeminCaninePartOne,20,K10,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-20-K10-1_L001_R1_001.fastq.gz,beetroot-20-K10-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-20-K10-2,KeminCaninePartThree,20,K10,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-20-K10-2_L001_R1_001.fastq.gz,beetroot-20-K10-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-20-K10-3,KeminCaninePartTwo,20,K10,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-20-K10-3_L001_R1_001.fastq.gz,beetroot-20-K10-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-20-K3-1,KeminCaninePartOne,20,K3,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-20-K3-1_L001_R1_001.fastq.gz,beetroot-20-K3-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-20-K3-2,KeminCaninePartTwo,20,K3,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-20-K3-2_L001_R1_001.fastq.gz,beetroot-20-K3-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-20-K3-3,KeminCaninePartThree,20,K3,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-20-K3-3_L001_R1_001.fastq.gz,beetroot-20-K3-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-20-K5-1,KeminCaninePartOne,20,K5,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-20-K5-1_L001_R1_001.fastq.gz,beetroot-20-K5-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-20-K5-2,KeminCaninePartThree,20,K5,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-20-K5-2_L001_R1_001.fastq.gz,beetroot-20-K5-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-20-K5-3,KeminCaninePartTwo,20,K5,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-20-K5-3_L001_R1_001.fastq.gz,beetroot-20-K5-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-20-K7-1,KeminCaninePartThree,20,K7,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-20-K7-1_L001_R1_001.fastq.gz,beetroot-20-K7-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-20-K7-2,KeminCaninePartOne,20,K7,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-20-K7-2_L001_R1_001.fastq.gz,beetroot-20-K7-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-20-K7-3,KeminCaninePartTwo,20,K7,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-20-K7-3_L001_R1_001.fastq.gz,beetroot-20-K7-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-5-K10-1,KeminCaninePartThree,5,K10,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-5-K10-1_L001_R1_001.fastq.gz,beetroot-5-K10-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-5-K10-2,KeminCaninePartTwo,5,K10,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-5-K10-2_L001_R1_001.fastq.gz,beetroot-5-K10-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-5-K10-3,KeminCaninePartOne,5,K10,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-5-K10-3_L001_R1_001.fastq.gz,beetroot-5-K10-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-5-K3-1,KeminCaninePartTwo,5,K3,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-5-K3-1_L001_R1_001.fastq.gz,beetroot-5-K3-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-5-K3-2,KeminCaninePartThree,5,K3,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-5-K3-2_L001_R1_001.fastq.gz,beetroot-5-K3-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-5-K3-3,KeminCaninePartOne,5,K3,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-5-K3-3_L001_R1_001.fastq.gz,beetroot-5-K3-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-5-K5-1,KeminCaninePartTwo,5,K5,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-5-K5-1_L001_R1_001.fastq.gz,beetroot-5-K5-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-5-K5-2,KeminCaninePartThree,5,K5,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-5-K5-2_L001_R1_001.fastq.gz,beetroot-5-K5-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-5-K5-3,KeminCaninePartOne,5,K5,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-5-K5-3_L001_R1_001.fastq.gz,beetroot-5-K5-3_L001_R2_001.fastq.gz,3,beetroot
+beetroot-5-K7-1,KeminCaninePartThree,5,K7,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-5-K7-1_L001_R1_001.fastq.gz,beetroot-5-K7-1_L001_R2_001.fastq.gz,1,beetroot
+beetroot-5-K7-2,KeminCaninePartTwo,5,K7,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-5-K7-2_L001_R1_001.fastq.gz,beetroot-5-K7-2_L001_R2_001.fastq.gz,2,beetroot
+beetroot-5-K7-3,KeminCaninePartOne,5,K7,Botanicals,10,beetroot powder,20mg,"10,5,1mg",beetroot-5-K7-3_L001_R1_001.fastq.gz,beetroot-5-K7-3_L001_R2_001.fastq.gz,3,beetroot
+BetaVia-1-K10-1,KeminCaninePartThree,1,K10,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-1-K10-1_L001_R1_001.fastq.gz,BetaVia-1-K10-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-1-K10-2,KeminCaninePartTwo,1,K10,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-1-K10-2_L001_R1_001.fastq.gz,BetaVia-1-K10-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-1-K10-3,KeminCaninePartOne,1,K10,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-1-K10-3_L001_R1_001.fastq.gz,BetaVia-1-K10-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-1-K3-1,KeminCaninePartOne,1,K3,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-1-K3-1_L001_R1_001.fastq.gz,BetaVia-1-K3-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-1-K3-2,KeminCaninePartThree,1,K3,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-1-K3-2_L001_R1_001.fastq.gz,BetaVia-1-K3-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-1-K3-3,KeminCaninePartTwo,1,K3,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-1-K3-3_L001_R1_001.fastq.gz,BetaVia-1-K3-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-1-K5-1,KeminCaninePartOne,1,K5,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-1-K5-1_L001_R1_001.fastq.gz,BetaVia-1-K5-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-1-K5-2,KeminCaninePartThree,1,K5,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-1-K5-2_L001_R1_001.fastq.gz,BetaVia-1-K5-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-1-K5-3,KeminCaninePartTwo,1,K5,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-1-K5-3_L001_R1_001.fastq.gz,BetaVia-1-K5-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-1-K7-1,KeminCaninePartThree,1,K7,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-1-K7-1_L001_R1_001.fastq.gz,BetaVia-1-K7-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-1-K7-2,KeminCaninePartOne,1,K7,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-1-K7-2_L001_R1_001.fastq.gz,BetaVia-1-K7-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-1-K7-3,KeminCaninePartTwo,1,K7,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-1-K7-3_L001_R1_001.fastq.gz,BetaVia-1-K7-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-10-K10-1,KeminCaninePartOne,10,K10,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-10-K10-1_L001_R1_001.fastq.gz,BetaVia-10-K10-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-10-K10-2,KeminCaninePartThree,10,K10,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-10-K10-2_L001_R1_001.fastq.gz,BetaVia-10-K10-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-10-K10-3,KeminCaninePartTwo,10,K10,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-10-K10-3_L001_R1_001.fastq.gz,BetaVia-10-K10-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-10-K3-1,KeminCaninePartThree,10,K3,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-10-K3-1_L001_R1_001.fastq.gz,BetaVia-10-K3-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-10-K3-2,KeminCaninePartOne,10,K3,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-10-K3-2_L001_R1_001.fastq.gz,BetaVia-10-K3-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-10-K3-3,KeminCaninePartTwo,10,K3,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-10-K3-3_L001_R1_001.fastq.gz,BetaVia-10-K3-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-10-K5-1,KeminCaninePartTwo,10,K5,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-10-K5-1_L001_R1_001.fastq.gz,BetaVia-10-K5-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-10-K5-2,KeminCaninePartThree,10,K5,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-10-K5-2_L001_R1_001.fastq.gz,BetaVia-10-K5-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-10-K5-3,KeminCaninePartOne,10,K5,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-10-K5-3_L001_R1_001.fastq.gz,BetaVia-10-K5-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-10-K7-1,KeminCaninePartTwo,10,K7,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-10-K7-1_L001_R1_001.fastq.gz,BetaVia-10-K7-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-10-K7-2,KeminCaninePartOne,10,K7,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-10-K7-2_L001_R1_001.fastq.gz,BetaVia-10-K7-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-10-K7-3,KeminCaninePartThree,10,K7,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-10-K7-3_L001_R1_001.fastq.gz,BetaVia-10-K7-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-20-K10-1,KeminCaninePartThree,20,K10,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-20-K10-1_L001_R1_001.fastq.gz,BetaVia-20-K10-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-20-K10-2,KeminCaninePartTwo,20,K10,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-20-K10-2_L001_R1_001.fastq.gz,BetaVia-20-K10-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-20-K10-3,KeminCaninePartOne,20,K10,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-20-K10-3_L001_R1_001.fastq.gz,BetaVia-20-K10-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-20-K3-1,KeminCaninePartTwo,20,K3,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-20-K3-1_L001_R1_001.fastq.gz,BetaVia-20-K3-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-20-K3-2,KeminCaninePartThree,20,K3,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-20-K3-2_L001_R1_001.fastq.gz,BetaVia-20-K3-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-20-K3-3,KeminCaninePartOne,20,K3,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-20-K3-3_L001_R1_001.fastq.gz,BetaVia-20-K3-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-20-K5-1,KeminCaninePartThree,20,K5,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-20-K5-1_L001_R1_001.fastq.gz,BetaVia-20-K5-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-20-K5-2,KeminCaninePartOne,20,K5,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-20-K5-2_L001_R1_001.fastq.gz,BetaVia-20-K5-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-20-K5-3,KeminCaninePartTwo,20,K5,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-20-K5-3_L001_R1_001.fastq.gz,BetaVia-20-K5-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-20-K7-1,KeminCaninePartThree,20,K7,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-20-K7-1_L001_R1_001.fastq.gz,BetaVia-20-K7-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-20-K7-2,KeminCaninePartTwo,20,K7,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-20-K7-2_L001_R1_001.fastq.gz,BetaVia-20-K7-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-20-K7-3,KeminCaninePartOne,20,K7,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-20-K7-3_L001_R1_001.fastq.gz,BetaVia-20-K7-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-5-K10-1,KeminCaninePartThree,5,K10,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-5-K10-1_L001_R1_001.fastq.gz,BetaVia-5-K10-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-5-K10-2,KeminCaninePartOne,5,K10,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-5-K10-2_L001_R1_001.fastq.gz,BetaVia-5-K10-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-5-K10-3,KeminCaninePartTwo,5,K10,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-5-K10-3_L001_R1_001.fastq.gz,BetaVia-5-K10-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-5-K3-1,KeminCaninePartOne,5,K3,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-5-K3-1_L001_R1_001.fastq.gz,BetaVia-5-K3-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-5-K3-2,KeminCaninePartTwo,5,K3,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-5-K3-2_L001_R1_001.fastq.gz,BetaVia-5-K3-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-5-K3-3,KeminCaninePartThree,5,K3,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-5-K3-3_L001_R1_001.fastq.gz,BetaVia-5-K3-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-5-K5-1,KeminCaninePartThree,5,K5,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-5-K5-1_L001_R1_001.fastq.gz,BetaVia-5-K5-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-5-K5-2,KeminCaninePartOne,5,K5,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-5-K5-2_L001_R1_001.fastq.gz,BetaVia-5-K5-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-5-K5-3,KeminCaninePartTwo,5,K5,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-5-K5-3_L001_R1_001.fastq.gz,BetaVia-5-K5-3_L001_R2_001.fastq.gz,3,BetaVia
+BetaVia-5-K7-1,KeminCaninePartThree,5,K7,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-5-K7-1_L001_R1_001.fastq.gz,BetaVia-5-K7-1_L001_R2_001.fastq.gz,1,BetaVia
+BetaVia-5-K7-2,KeminCaninePartTwo,5,K7,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-5-K7-2_L001_R1_001.fastq.gz,BetaVia-5-K7-2_L001_R2_001.fastq.gz,2,BetaVia
+BetaVia-5-K7-3,KeminCaninePartOne,5,K7,b-glucan,9,BetaVia Pure WD,20mg,"10,5,1mg",BetaVia-5-K7-3_L001_R1_001.fastq.gz,BetaVia-5-K7-3_L001_R2_001.fastq.gz,3,BetaVia
+Carrot-1-K10-1,KeminCaninePartTwo,1,K10,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-1-K10-1_L001_R1_001.fastq.gz,Carrot-1-K10-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-1-K10-2,KeminCaninePartOne,1,K10,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-1-K10-2_L001_R1_001.fastq.gz,Carrot-1-K10-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-1-K10-3,KeminCaninePartThree,1,K10,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-1-K10-3_L001_R1_001.fastq.gz,Carrot-1-K10-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-1-K3-1,KeminCaninePartThree,1,K3,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-1-K3-1_L001_R1_001.fastq.gz,Carrot-1-K3-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-1-K3-2,KeminCaninePartTwo,1,K3,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-1-K3-2_L001_R1_001.fastq.gz,Carrot-1-K3-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-1-K3-3,KeminCaninePartOne,1,K3,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-1-K3-3_L001_R1_001.fastq.gz,Carrot-1-K3-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-1-K5-1,KeminCaninePartTwo,1,K5,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-1-K5-1_L001_R1_001.fastq.gz,Carrot-1-K5-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-1-K5-2,KeminCaninePartOne,1,K5,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-1-K5-2_L001_R1_001.fastq.gz,Carrot-1-K5-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-1-K5-3,KeminCaninePartThree,1,K5,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-1-K5-3_L001_R1_001.fastq.gz,Carrot-1-K5-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-1-K7-1,KeminCaninePartThree,1,K7,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-1-K7-1_L001_R1_001.fastq.gz,Carrot-1-K7-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-1-K7-2,KeminCaninePartTwo,1,K7,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-1-K7-2_L001_R1_001.fastq.gz,Carrot-1-K7-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-1-K7-3,KeminCaninePartOne,1,K7,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-1-K7-3_L001_R1_001.fastq.gz,Carrot-1-K7-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-10-K10-1,KeminCaninePartTwo,10,K10,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-10-K10-1_L001_R1_001.fastq.gz,Carrot-10-K10-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-10-K10-2,KeminCaninePartOne,10,K10,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-10-K10-2_L001_R1_001.fastq.gz,Carrot-10-K10-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-10-K10-3,KeminCaninePartThree,10,K10,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-10-K10-3_L001_R1_001.fastq.gz,Carrot-10-K10-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-10-K3-1,KeminCaninePartOne,10,K3,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-10-K3-1_L001_R1_001.fastq.gz,Carrot-10-K3-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-10-K3-2,KeminCaninePartTwo,10,K3,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-10-K3-2_L001_R1_001.fastq.gz,Carrot-10-K3-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-10-K3-3,KeminCaninePartThree,10,K3,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-10-K3-3_L001_R1_001.fastq.gz,Carrot-10-K3-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-10-K5-1,KeminCaninePartTwo,10,K5,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-10-K5-1_L001_R1_001.fastq.gz,Carrot-10-K5-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-10-K5-2,KeminCaninePartThree,10,K5,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-10-K5-2_L001_R1_001.fastq.gz,Carrot-10-K5-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-10-K5-3,KeminCaninePartOne,10,K5,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-10-K5-3_L001_R1_001.fastq.gz,Carrot-10-K5-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-10-K7-1,KeminCaninePartOne,10,K7,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-10-K7-1_L001_R1_001.fastq.gz,Carrot-10-K7-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-10-K7-2,KeminCaninePartTwo,10,K7,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-10-K7-2_L001_R1_001.fastq.gz,Carrot-10-K7-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-10-K7-3,KeminCaninePartThree,10,K7,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-10-K7-3_L001_R1_001.fastq.gz,Carrot-10-K7-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-20-K10-1,KeminCaninePartOne,20,K10,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-20-K10-1_L001_R1_001.fastq.gz,Carrot-20-K10-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-20-K10-2,KeminCaninePartTwo,20,K10,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-20-K10-2_L001_R1_001.fastq.gz,Carrot-20-K10-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-20-K10-3,KeminCaninePartThree,20,K10,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-20-K10-3_L001_R1_001.fastq.gz,Carrot-20-K10-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-20-K3-1,KeminCaninePartOne,20,K3,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-20-K3-1_L001_R1_001.fastq.gz,Carrot-20-K3-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-20-K3-2,KeminCaninePartTwo,20,K3,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-20-K3-2_L001_R1_001.fastq.gz,Carrot-20-K3-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-20-K3-3,KeminCaninePartThree,20,K3,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-20-K3-3_L001_R1_001.fastq.gz,Carrot-20-K3-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-20-K5-1,KeminCaninePartTwo,20,K5,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-20-K5-1_L001_R1_001.fastq.gz,Carrot-20-K5-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-20-K5-2,KeminCaninePartOne,20,K5,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-20-K5-2_L001_R1_001.fastq.gz,Carrot-20-K5-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-20-K5-3,KeminCaninePartThree,20,K5,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-20-K5-3_L001_R1_001.fastq.gz,Carrot-20-K5-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-20-K7-1,KeminCaninePartTwo,20,K7,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-20-K7-1_L001_R1_001.fastq.gz,Carrot-20-K7-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-20-K7-2,KeminCaninePartThree,20,K7,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-20-K7-2_L001_R1_001.fastq.gz,Carrot-20-K7-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-20-K7-3,KeminCaninePartOne,20,K7,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-20-K7-3_L001_R1_001.fastq.gz,Carrot-20-K7-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-5-K10-1,KeminCaninePartOne,5,K10,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-5-K10-1_L001_R1_001.fastq.gz,Carrot-5-K10-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-5-K10-2,KeminCaninePartTwo,5,K10,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-5-K10-2_L001_R1_001.fastq.gz,Carrot-5-K10-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-5-K10-3,KeminCaninePartThree,5,K10,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-5-K10-3_L001_R1_001.fastq.gz,Carrot-5-K10-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-5-K3-1,KeminCaninePartTwo,5,K3,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-5-K3-1_L001_R1_001.fastq.gz,Carrot-5-K3-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-5-K3-2,KeminCaninePartThree,5,K3,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-5-K3-2_L001_R1_001.fastq.gz,Carrot-5-K3-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-5-K3-3,KeminCaninePartOne,5,K3,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-5-K3-3_L001_R1_001.fastq.gz,Carrot-5-K3-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-5-K5-1,KeminCaninePartOne,5,K5,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-5-K5-1_L001_R1_001.fastq.gz,Carrot-5-K5-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-5-K5-2,KeminCaninePartTwo,5,K5,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-5-K5-2_L001_R1_001.fastq.gz,Carrot-5-K5-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-5-K5-3,KeminCaninePartThree,5,K5,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-5-K5-3_L001_R1_001.fastq.gz,Carrot-5-K5-3_L001_R2_001.fastq.gz,3,Carrot
+Carrot-5-K7-1,KeminCaninePartThree,5,K7,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-5-K7-1_L001_R1_001.fastq.gz,Carrot-5-K7-1_L001_R2_001.fastq.gz,1,Carrot
+Carrot-5-K7-2,KeminCaninePartTwo,5,K7,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-5-K7-2_L001_R1_001.fastq.gz,Carrot-5-K7-2_L001_R2_001.fastq.gz,2,Carrot
+Carrot-5-K7-3,KeminCaninePartOne,5,K7,Botanicals,12,carrot powder,20mg,"10,5,1mg",Carrot-5-K7-3_L001_R1_001.fastq.gz,Carrot-5-K7-3_L001_R2_001.fastq.gz,3,Carrot
+Cellulose-1-K10-1,KeminCaninePartThree,1,K10,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-1-K10-1_L001_R1_001.fastq.gz,Cellulose-1-K10-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-1-K10-2,KeminCaninePartOne,1,K10,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-1-K10-2_L001_R1_001.fastq.gz,Cellulose-1-K10-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-1-K10-3,KeminCaninePartTwo,1,K10,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-1-K10-3_L001_R1_001.fastq.gz,Cellulose-1-K10-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-1-K3-1,KeminCaninePartTwo,1,K3,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-1-K3-1_L001_R1_001.fastq.gz,Cellulose-1-K3-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-1-K3-2,KeminCaninePartThree,1,K3,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-1-K3-2_L001_R1_001.fastq.gz,Cellulose-1-K3-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-1-K3-3,KeminCaninePartOne,1,K3,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-1-K3-3_L001_R1_001.fastq.gz,Cellulose-1-K3-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-1-K5-1,KeminCaninePartOne,1,K5,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-1-K5-1_L001_R1_001.fastq.gz,Cellulose-1-K5-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-1-K5-2,KeminCaninePartTwo,1,K5,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-1-K5-2_L001_R1_001.fastq.gz,Cellulose-1-K5-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-1-K5-3,KeminCaninePartThree,1,K5,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-1-K5-3_L001_R1_001.fastq.gz,Cellulose-1-K5-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-1-K7-1,KeminCaninePartOne,1,K7,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-1-K7-1_L001_R1_001.fastq.gz,Cellulose-1-K7-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-1-K7-2,KeminCaninePartTwo,1,K7,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-1-K7-2_L001_R1_001.fastq.gz,Cellulose-1-K7-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-1-K7-3,KeminCaninePartThree,1,K7,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-1-K7-3_L001_R1_001.fastq.gz,Cellulose-1-K7-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-10-K10-1,KeminCaninePartOne,10,K10,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-10-K10-1_L001_R1_001.fastq.gz,Cellulose-10-K10-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-10-K10-2,KeminCaninePartThree,10,K10,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-10-K10-2_L001_R1_001.fastq.gz,Cellulose-10-K10-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-10-K10-3,KeminCaninePartTwo,10,K10,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-10-K10-3_L001_R1_001.fastq.gz,Cellulose-10-K10-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-10-K3-1,KeminCaninePartTwo,10,K3,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-10-K3-1_L001_R1_001.fastq.gz,Cellulose-10-K3-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-10-K3-2,KeminCaninePartOne,10,K3,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-10-K3-2_L001_R1_001.fastq.gz,Cellulose-10-K3-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-10-K3-3,KeminCaninePartThree,10,K3,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-10-K3-3_L001_R1_001.fastq.gz,Cellulose-10-K3-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-10-K5-1,KeminCaninePartTwo,10,K5,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-10-K5-1_L001_R1_001.fastq.gz,Cellulose-10-K5-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-10-K5-2,KeminCaninePartOne,10,K5,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-10-K5-2_L001_R1_001.fastq.gz,Cellulose-10-K5-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-10-K5-3,KeminCaninePartThree,10,K5,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-10-K5-3_L001_R1_001.fastq.gz,Cellulose-10-K5-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-10-K7-1,KeminCaninePartTwo,10,K7,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-10-K7-1_L001_R1_001.fastq.gz,Cellulose-10-K7-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-10-K7-2,KeminCaninePartOne,10,K7,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-10-K7-2_L001_R1_001.fastq.gz,Cellulose-10-K7-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-10-K7-3,KeminCaninePartThree,10,K7,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-10-K7-3_L001_R1_001.fastq.gz,Cellulose-10-K7-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-20-K10-1,KeminCaninePartThree,20,K10,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-20-K10-1_L001_R1_001.fastq.gz,Cellulose-20-K10-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-20-K10-2,KeminCaninePartTwo,20,K10,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-20-K10-2_L001_R1_001.fastq.gz,Cellulose-20-K10-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-20-K10-3,KeminCaninePartOne,20,K10,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-20-K10-3_L001_R1_001.fastq.gz,Cellulose-20-K10-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-20-K3-1,KeminCaninePartThree,20,K3,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-20-K3-1_L001_R1_001.fastq.gz,Cellulose-20-K3-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-20-K3-2,KeminCaninePartOne,20,K3,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-20-K3-2_L001_R1_001.fastq.gz,Cellulose-20-K3-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-20-K3-3,KeminCaninePartTwo,20,K3,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-20-K3-3_L001_R1_001.fastq.gz,Cellulose-20-K3-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-20-K5-1,KeminCaninePartThree,20,K5,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-20-K5-1_L001_R1_001.fastq.gz,Cellulose-20-K5-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-20-K5-2,KeminCaninePartOne,20,K5,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-20-K5-2_L001_R1_001.fastq.gz,Cellulose-20-K5-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-20-K5-3,KeminCaninePartTwo,20,K5,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-20-K5-3_L001_R1_001.fastq.gz,Cellulose-20-K5-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-20-K7-1,KeminCaninePartTwo,20,K7,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-20-K7-1_L001_R1_001.fastq.gz,Cellulose-20-K7-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-20-K7-2,KeminCaninePartOne,20,K7,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-20-K7-2_L001_R1_001.fastq.gz,Cellulose-20-K7-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-20-K7-3,KeminCaninePartThree,20,K7,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-20-K7-3_L001_R1_001.fastq.gz,Cellulose-20-K7-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-5-K10-1,KeminCaninePartTwo,5,K10,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-5-K10-1_L001_R1_001.fastq.gz,Cellulose-5-K10-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-5-K10-2,KeminCaninePartOne,5,K10,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-5-K10-2_L001_R1_001.fastq.gz,Cellulose-5-K10-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-5-K10-3,KeminCaninePartThree,5,K10,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-5-K10-3_L001_R1_001.fastq.gz,Cellulose-5-K10-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-5-K3-1,KeminCaninePartOne,5,K3,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-5-K3-1_L001_R1_001.fastq.gz,Cellulose-5-K3-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-5-K3-2,KeminCaninePartTwo,5,K3,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-5-K3-2_L001_R1_001.fastq.gz,Cellulose-5-K3-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-5-K3-3,KeminCaninePartThree,5,K3,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-5-K3-3_L001_R1_001.fastq.gz,Cellulose-5-K3-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-5-K5-1,KeminCaninePartTwo,5,K5,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-5-K5-1_L001_R1_001.fastq.gz,Cellulose-5-K5-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-5-K5-2,KeminCaninePartOne,5,K5,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-5-K5-2_L001_R1_001.fastq.gz,Cellulose-5-K5-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-5-K5-3,KeminCaninePartThree,5,K5,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-5-K5-3_L001_R1_001.fastq.gz,Cellulose-5-K5-3_L001_R2_001.fastq.gz,3,Cellulose
+Cellulose-5-K7-1,KeminCaninePartTwo,5,K7,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-5-K7-1_L001_R1_001.fastq.gz,Cellulose-5-K7-1_L001_R2_001.fastq.gz,1,Cellulose
+Cellulose-5-K7-2,KeminCaninePartOne,5,K7,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-5-K7-2_L001_R1_001.fastq.gz,Cellulose-5-K7-2_L001_R2_001.fastq.gz,2,Cellulose
+Cellulose-5-K7-3,KeminCaninePartThree,5,K7,Complex fiber,6,Cellulose,20mg,"10,5,1mg",Cellulose-5-K7-3_L001_R1_001.fastq.gz,Cellulose-5-K7-3_L001_R2_001.fastq.gz,3,Cellulose
+Dryapple-1-K10-1,KeminCaninePartTwo,1,K10,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-1-K10-1_L001_R1_001.fastq.gz,Dryapple-1-K10-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-1-K10-2,KeminCaninePartThree,1,K10,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-1-K10-2_L001_R1_001.fastq.gz,Dryapple-1-K10-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-1-K10-3,KeminCaninePartOne,1,K10,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-1-K10-3_L001_R1_001.fastq.gz,Dryapple-1-K10-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-1-K3-1,KeminCaninePartOne,1,K3,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-1-K3-1_L001_R1_001.fastq.gz,Dryapple-1-K3-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-1-K3-2,KeminCaninePartTwo,1,K3,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-1-K3-2_L001_R1_001.fastq.gz,Dryapple-1-K3-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-1-K3-3,KeminCaninePartThree,1,K3,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-1-K3-3_L001_R1_001.fastq.gz,Dryapple-1-K3-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-1-K5-1,KeminCaninePartOne,1,K5,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-1-K5-1_L001_R1_001.fastq.gz,Dryapple-1-K5-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-1-K5-2,KeminCaninePartTwo,1,K5,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-1-K5-2_L001_R1_001.fastq.gz,Dryapple-1-K5-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-1-K5-3,KeminCaninePartThree,1,K5,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-1-K5-3_L001_R1_001.fastq.gz,Dryapple-1-K5-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-1-K7-1,KeminCaninePartOne,1,K7,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-1-K7-1_L001_R1_001.fastq.gz,Dryapple-1-K7-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-1-K7-2,KeminCaninePartTwo,1,K7,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-1-K7-2_L001_R1_001.fastq.gz,Dryapple-1-K7-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-1-K7-3,KeminCaninePartThree,1,K7,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-1-K7-3_L001_R1_001.fastq.gz,Dryapple-1-K7-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-10-K10-1,KeminCaninePartThree,10,K10,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-10-K10-1_L001_R1_001.fastq.gz,Dryapple-10-K10-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-10-K10-2,KeminCaninePartTwo,10,K10,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-10-K10-2_L001_R1_001.fastq.gz,Dryapple-10-K10-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-10-K10-3,KeminCaninePartOne,10,K10,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-10-K10-3_L001_R1_001.fastq.gz,Dryapple-10-K10-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-10-K3-1,KeminCaninePartThree,10,K3,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-10-K3-1_L001_R1_001.fastq.gz,Dryapple-10-K3-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-10-K3-2,KeminCaninePartOne,10,K3,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-10-K3-2_L001_R1_001.fastq.gz,Dryapple-10-K3-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-10-K3-3,KeminCaninePartTwo,10,K3,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-10-K3-3_L001_R1_001.fastq.gz,Dryapple-10-K3-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-10-K5-1,KeminCaninePartTwo,10,K5,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-10-K5-1_L001_R1_001.fastq.gz,Dryapple-10-K5-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-10-K5-2,KeminCaninePartOne,10,K5,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-10-K5-2_L001_R1_001.fastq.gz,Dryapple-10-K5-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-10-K5-3,KeminCaninePartThree,10,K5,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-10-K5-3_L001_R1_001.fastq.gz,Dryapple-10-K5-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-10-K7-1,KeminCaninePartThree,10,K7,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-10-K7-1_L001_R1_001.fastq.gz,Dryapple-10-K7-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-10-K7-2,KeminCaninePartOne,10,K7,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-10-K7-2_L001_R1_001.fastq.gz,Dryapple-10-K7-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-10-K7-3,KeminCaninePartTwo,10,K7,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-10-K7-3_L001_R1_001.fastq.gz,Dryapple-10-K7-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-20-K10-1,KeminCaninePartThree,20,K10,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-20-K10-1_L001_R1_001.fastq.gz,Dryapple-20-K10-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-20-K10-2,KeminCaninePartOne,20,K10,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-20-K10-2_L001_R1_001.fastq.gz,Dryapple-20-K10-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-20-K10-3,KeminCaninePartTwo,20,K10,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-20-K10-3_L001_R1_001.fastq.gz,Dryapple-20-K10-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-20-K3-1,KeminCaninePartOne,20,K3,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-20-K3-1_L001_R1_001.fastq.gz,Dryapple-20-K3-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-20-K3-2,KeminCaninePartThree,20,K3,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-20-K3-2_L001_R1_001.fastq.gz,Dryapple-20-K3-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-20-K3-3,KeminCaninePartTwo,20,K3,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-20-K3-3_L001_R1_001.fastq.gz,Dryapple-20-K3-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-20-K5-1,KeminCaninePartOne,20,K5,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-20-K5-1_L001_R1_001.fastq.gz,Dryapple-20-K5-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-20-K5-2,KeminCaninePartTwo,20,K5,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-20-K5-2_L001_R1_001.fastq.gz,Dryapple-20-K5-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-20-K5-3,KeminCaninePartThree,20,K5,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-20-K5-3_L001_R1_001.fastq.gz,Dryapple-20-K5-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-20-K7-1,KeminCaninePartOne,20,K7,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-20-K7-1_L001_R1_001.fastq.gz,Dryapple-20-K7-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-20-K7-2,KeminCaninePartTwo,20,K7,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-20-K7-2_L001_R1_001.fastq.gz,Dryapple-20-K7-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-20-K7-3,KeminCaninePartThree,20,K7,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-20-K7-3_L001_R1_001.fastq.gz,Dryapple-20-K7-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-5-K10-1,KeminCaninePartThree,5,K10,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-5-K10-1_L001_R1_001.fastq.gz,Dryapple-5-K10-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-5-K10-2,KeminCaninePartTwo,5,K10,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-5-K10-2_L001_R1_001.fastq.gz,Dryapple-5-K10-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-5-K10-3,KeminCaninePartOne,5,K10,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-5-K10-3_L001_R1_001.fastq.gz,Dryapple-5-K10-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-5-K3-1,KeminCaninePartThree,5,K3,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-5-K3-1_L001_R1_001.fastq.gz,Dryapple-5-K3-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-5-K3-2,KeminCaninePartOne,5,K3,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-5-K3-2_L001_R1_001.fastq.gz,Dryapple-5-K3-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-5-K3-3,KeminCaninePartTwo,5,K3,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-5-K3-3_L001_R1_001.fastq.gz,Dryapple-5-K3-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-5-K5-1,KeminCaninePartTwo,5,K5,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-5-K5-1_L001_R1_001.fastq.gz,Dryapple-5-K5-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-5-K5-2,KeminCaninePartOne,5,K5,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-5-K5-2_L001_R1_001.fastq.gz,Dryapple-5-K5-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-5-K5-3,KeminCaninePartThree,5,K5,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-5-K5-3_L001_R1_001.fastq.gz,Dryapple-5-K5-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryapple-5-K7-1,KeminCaninePartTwo,5,K7,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-5-K7-1_L001_R1_001.fastq.gz,Dryapple-5-K7-1_L001_R2_001.fastq.gz,1,Dryapple
+Dryapple-5-K7-2,KeminCaninePartThree,5,K7,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-5-K7-2_L001_R1_001.fastq.gz,Dryapple-5-K7-2_L001_R2_001.fastq.gz,2,Dryapple
+Dryapple-5-K7-3,KeminCaninePartOne,5,K7,Waste Stream,17,dried apple pomace,20mg,"10,5,1mg",Dryapple-5-K7-3_L001_R1_001.fastq.gz,Dryapple-5-K7-3_L001_R2_001.fastq.gz,3,Dryapple
+Dryspinach-1-K10-1,KeminCaninePartOne,1,K10,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-1-K10-1_L001_R1_001.fastq.gz,Dryspinach-1-K10-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-1-K10-2,KeminCaninePartTwo,1,K10,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-1-K10-2_L001_R1_001.fastq.gz,Dryspinach-1-K10-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-1-K10-3,KeminCaninePartThree,1,K10,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-1-K10-3_L001_R1_001.fastq.gz,Dryspinach-1-K10-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-1-K3-1,KeminCaninePartTwo,1,K3,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-1-K3-1_L001_R1_001.fastq.gz,Dryspinach-1-K3-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-1-K3-2,KeminCaninePartOne,1,K3,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-1-K3-2_L001_R1_001.fastq.gz,Dryspinach-1-K3-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-1-K3-3,KeminCaninePartThree,1,K3,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-1-K3-3_L001_R1_001.fastq.gz,Dryspinach-1-K3-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-1-K5-1,KeminCaninePartThree,1,K5,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-1-K5-1_L001_R1_001.fastq.gz,Dryspinach-1-K5-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-1-K5-2,KeminCaninePartTwo,1,K5,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-1-K5-2_L001_R1_001.fastq.gz,Dryspinach-1-K5-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-1-K5-3,KeminCaninePartOne,1,K5,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-1-K5-3_L001_R1_001.fastq.gz,Dryspinach-1-K5-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-1-K7-1,KeminCaninePartThree,1,K7,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-1-K7-1_L001_R1_001.fastq.gz,Dryspinach-1-K7-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-1-K7-2,KeminCaninePartOne,1,K7,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-1-K7-2_L001_R1_001.fastq.gz,Dryspinach-1-K7-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-1-K7-3,KeminCaninePartTwo,1,K7,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-1-K7-3_L001_R1_001.fastq.gz,Dryspinach-1-K7-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-10-K10-1,KeminCaninePartThree,10,K10,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-10-K10-1_L001_R1_001.fastq.gz,Dryspinach-10-K10-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-10-K10-2,KeminCaninePartTwo,10,K10,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-10-K10-2_L001_R1_001.fastq.gz,Dryspinach-10-K10-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-10-K10-3,KeminCaninePartOne,10,K10,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-10-K10-3_L001_R1_001.fastq.gz,Dryspinach-10-K10-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-10-K3-1,KeminCaninePartOne,10,K3,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-10-K3-1_L001_R1_001.fastq.gz,Dryspinach-10-K3-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-10-K3-2,KeminCaninePartTwo,10,K3,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-10-K3-2_L001_R1_001.fastq.gz,Dryspinach-10-K3-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-10-K3-3,KeminCaninePartThree,10,K3,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-10-K3-3_L001_R1_001.fastq.gz,Dryspinach-10-K3-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-10-K5-1,KeminCaninePartOne,10,K5,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-10-K5-1_L001_R1_001.fastq.gz,Dryspinach-10-K5-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-10-K5-2,KeminCaninePartTwo,10,K5,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-10-K5-2_L001_R1_001.fastq.gz,Dryspinach-10-K5-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-10-K5-3,KeminCaninePartThree,10,K5,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-10-K5-3_L001_R1_001.fastq.gz,Dryspinach-10-K5-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-10-K7-1,KeminCaninePartOne,10,K7,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-10-K7-1_L001_R1_001.fastq.gz,Dryspinach-10-K7-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-10-K7-2,KeminCaninePartTwo,10,K7,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-10-K7-2_L001_R1_001.fastq.gz,Dryspinach-10-K7-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-10-K7-3,KeminCaninePartThree,10,K7,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-10-K7-3_L001_R1_001.fastq.gz,Dryspinach-10-K7-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-20-K10-1,KeminCaninePartOne,20,K10,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-20-K10-1_L001_R1_001.fastq.gz,Dryspinach-20-K10-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-20-K10-2,KeminCaninePartThree,20,K10,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-20-K10-2_L001_R1_001.fastq.gz,Dryspinach-20-K10-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-20-K10-3,KeminCaninePartTwo,20,K10,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-20-K10-3_L001_R1_001.fastq.gz,Dryspinach-20-K10-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-20-K3-1,KeminCaninePartTwo,20,K3,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-20-K3-1_L001_R1_001.fastq.gz,Dryspinach-20-K3-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-20-K3-2,KeminCaninePartThree,20,K3,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-20-K3-2_L001_R1_001.fastq.gz,Dryspinach-20-K3-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-20-K3-3,KeminCaninePartOne,20,K3,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-20-K3-3_L001_R1_001.fastq.gz,Dryspinach-20-K3-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-20-K5-1,KeminCaninePartThree,20,K5,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-20-K5-1_L001_R1_001.fastq.gz,Dryspinach-20-K5-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-20-K5-2,KeminCaninePartOne,20,K5,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-20-K5-2_L001_R1_001.fastq.gz,Dryspinach-20-K5-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-20-K5-3,KeminCaninePartTwo,20,K5,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-20-K5-3_L001_R1_001.fastq.gz,Dryspinach-20-K5-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-20-K7-1,KeminCaninePartThree,20,K7,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-20-K7-1_L001_R1_001.fastq.gz,Dryspinach-20-K7-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-20-K7-2,KeminCaninePartOne,20,K7,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-20-K7-2_L001_R1_001.fastq.gz,Dryspinach-20-K7-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-20-K7-3,KeminCaninePartTwo,20,K7,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-20-K7-3_L001_R1_001.fastq.gz,Dryspinach-20-K7-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-5-K10-1,KeminCaninePartOne,5,K10,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-5-K10-1_L001_R1_001.fastq.gz,Dryspinach-5-K10-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-5-K10-2,KeminCaninePartThree,5,K10,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-5-K10-2_L001_R1_001.fastq.gz,Dryspinach-5-K10-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-5-K10-3,KeminCaninePartTwo,5,K10,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-5-K10-3_L001_R1_001.fastq.gz,Dryspinach-5-K10-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-5-K3-1,KeminCaninePartOne,5,K3,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-5-K3-1_L001_R1_001.fastq.gz,Dryspinach-5-K3-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-5-K3-2,KeminCaninePartThree,5,K3,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-5-K3-2_L001_R1_001.fastq.gz,Dryspinach-5-K3-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-5-K3-3,KeminCaninePartTwo,5,K3,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-5-K3-3_L001_R1_001.fastq.gz,Dryspinach-5-K3-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-5-K5-1,KeminCaninePartOne,5,K5,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-5-K5-1_L001_R1_001.fastq.gz,Dryspinach-5-K5-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-5-K5-2,KeminCaninePartTwo,5,K5,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-5-K5-2_L001_R1_001.fastq.gz,Dryspinach-5-K5-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-5-K5-3,KeminCaninePartThree,5,K5,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-5-K5-3_L001_R1_001.fastq.gz,Dryspinach-5-K5-3_L001_R2_001.fastq.gz,3,Dryspinach
+Dryspinach-5-K7-1,KeminCaninePartTwo,5,K7,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-5-K7-1_L001_R1_001.fastq.gz,Dryspinach-5-K7-1_L001_R2_001.fastq.gz,1,Dryspinach
+Dryspinach-5-K7-2,KeminCaninePartThree,5,K7,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-5-K7-2_L001_R1_001.fastq.gz,Dryspinach-5-K7-2_L001_R2_001.fastq.gz,2,Dryspinach
+Dryspinach-5-K7-3,KeminCaninePartOne,5,K7,Botanicals,16,dried spinich powder,20mg,"10,5,1mg",Dryspinach-5-K7-3_L001_R1_001.fastq.gz,Dryspinach-5-K7-3_L001_R2_001.fastq.gz,3,Dryspinach
+FBB0-0-K10-1,KeminCaninePartThree,0,K10,FBB0,FBB0,FBB0,FBB0,FBB0,FBB0-0-K10-1_L001_R1_001.fastq.gz,FBB0-0-K10-1_L001_R2_001.fastq.gz,1,FBB0
+FBB0-0-K10-2,KeminCaninePartTwo,0,K10,FBB0,FBB0,FBB0,FBB0,FBB0,FBB0-0-K10-2_L001_R1_001.fastq.gz,FBB0-0-K10-2_L001_R2_001.fastq.gz,2,FBB0
+FBB0-0-K10-3,KeminCaninePartOne,0,K10,FBB0,FBB0,FBB0,FBB0,FBB0,FBB0-0-K10-3_L001_R1_001.fastq.gz,FBB0-0-K10-3_L001_R2_001.fastq.gz,3,FBB0
+FBB0-0-K3-1,KeminCaninePartOne,0,K3,FBB0,FBB0,FBB0,FBB0,FBB0,FBB0-0-K3-1_L001_R1_001.fastq.gz,FBB0-0-K3-1_L001_R2_001.fastq.gz,1,FBB0
+FBB0-0-K3-2,KeminCaninePartTwo,0,K3,FBB0,FBB0,FBB0,FBB0,FBB0,FBB0-0-K3-2_L001_R1_001.fastq.gz,FBB0-0-K3-2_L001_R2_001.fastq.gz,2,FBB0
+FBB0-0-K3-3,KeminCaninePartThree,0,K3,FBB0,FBB0,FBB0,FBB0,FBB0,FBB0-0-K3-3_L001_R1_001.fastq.gz,FBB0-0-K3-3_L001_R2_001.fastq.gz,3,FBB0
+FBB0-0-K5-1,KeminCaninePartThree,0,K5,FBB0,FBB0,FBB0,FBB0,FBB0,FBB0-0-K5-1_L001_R1_001.fastq.gz,FBB0-0-K5-1_L001_R2_001.fastq.gz,1,FBB0
+FBB0-0-K5-2,KeminCaninePartOne,0,K5,FBB0,FBB0,FBB0,FBB0,FBB0,FBB0-0-K5-2_L001_R1_001.fastq.gz,FBB0-0-K5-2_L001_R2_001.fastq.gz,2,FBB0
+FBB0-0-K5-3,KeminCaninePartTwo,0,K5,FBB0,FBB0,FBB0,FBB0,FBB0,FBB0-0-K5-3_L001_R1_001.fastq.gz,FBB0-0-K5-3_L001_R2_001.fastq.gz,3,FBB0
+FBB0-0-K7-1,KeminCaninePartTwo,0,K7,FBB0,FBB0,FBB0,FBB0,FBB0,FBB0-0-K7-1_L001_R1_001.fastq.gz,FBB0-0-K7-1_L001_R2_001.fastq.gz,1,FBB0
+FBB0-0-K7-2,KeminCaninePartOne,0,K7,FBB0,FBB0,FBB0,FBB0,FBB0,FBB0-0-K7-2_L001_R1_001.fastq.gz,FBB0-0-K7-2_L001_R2_001.fastq.gz,2,FBB0
+FBB0-0-K7-3,KeminCaninePartThree,0,K7,FBB0,FBB0,FBB0,FBB0,FBB0,FBB0-0-K7-3_L001_R1_001.fastq.gz,FBB0-0-K7-3_L001_R2_001.fastq.gz,3,FBB0
+FBB16-0-K10-1,KeminCaninePartOne,0,K10,FBB16,FBB16,FBB16,FBB16,FBB16,FBB16-0-K10-1_L001_R1_001.fastq.gz,FBB16-0-K10-1_L001_R2_001.fastq.gz,1,FBB16
+FBB16-0-K10-2,KeminCaninePartThree,0,K10,FBB16,FBB16,FBB16,FBB16,FBB16,FBB16-0-K10-2_L001_R1_001.fastq.gz,FBB16-0-K10-2_L001_R2_001.fastq.gz,2,FBB16
+FBB16-0-K10-3,KeminCaninePartTwo,0,K10,FBB16,FBB16,FBB16,FBB16,FBB16,FBB16-0-K10-3_L001_R1_001.fastq.gz,FBB16-0-K10-3_L001_R2_001.fastq.gz,3,FBB16
+FBB16-0-K3-1,KeminCaninePartTwo,0,K3,FBB16,FBB16,FBB16,FBB16,FBB16,FBB16-0-K3-1_L001_R1_001.fastq.gz,FBB16-0-K3-1_L001_R2_001.fastq.gz,1,FBB16
+FBB16-0-K3-2,KeminCaninePartThree,0,K3,FBB16,FBB16,FBB16,FBB16,FBB16,FBB16-0-K3-2_L001_R1_001.fastq.gz,FBB16-0-K3-2_L001_R2_001.fastq.gz,2,FBB16
+FBB16-0-K3-3,KeminCaninePartOne,0,K3,FBB16,FBB16,FBB16,FBB16,FBB16,FBB16-0-K3-3_L001_R1_001.fastq.gz,FBB16-0-K3-3_L001_R2_001.fastq.gz,3,FBB16
+FBB16-0-K5-1,KeminCaninePartThree,0,K5,FBB16,FBB16,FBB16,FBB16,FBB16,FBB16-0-K5-1_L001_R1_001.fastq.gz,FBB16-0-K5-1_L001_R2_001.fastq.gz,1,FBB16
+FBB16-0-K5-2,KeminCaninePartTwo,0,K5,FBB16,FBB16,FBB16,FBB16,FBB16,FBB16-0-K5-2_L001_R1_001.fastq.gz,FBB16-0-K5-2_L001_R2_001.fastq.gz,2,FBB16
+FBB16-0-K5-3,KeminCaninePartOne,0,K5,FBB16,FBB16,FBB16,FBB16,FBB16,FBB16-0-K5-3_L001_R1_001.fastq.gz,FBB16-0-K5-3_L001_R2_001.fastq.gz,3,FBB16
+FBB16-0-K7-1,KeminCaninePartOne,0,K7,FBB16,FBB16,FBB16,FBB16,FBB16,FBB16-0-K7-1_L001_R1_001.fastq.gz,FBB16-0-K7-1_L001_R2_001.fastq.gz,1,FBB16
+FBB16-0-K7-2,KeminCaninePartTwo,0,K7,FBB16,FBB16,FBB16,FBB16,FBB16,FBB16-0-K7-2_L001_R1_001.fastq.gz,FBB16-0-K7-2_L001_R2_001.fastq.gz,2,FBB16
+FBB16-0-K7-3,KeminCaninePartThree,0,K7,FBB16,FBB16,FBB16,FBB16,FBB16,FBB16-0-K7-3_L001_R1_001.fastq.gz,FBB16-0-K7-3_L001_R2_001.fastq.gz,3,FBB16
+Ginger-1-K10-1,KeminCaninePartOne,1,K10,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-1-K10-1_L001_R1_001.fastq.gz,Ginger-1-K10-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-1-K10-2,KeminCaninePartThree,1,K10,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-1-K10-2_L001_R1_001.fastq.gz,Ginger-1-K10-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-1-K10-3,KeminCaninePartTwo,1,K10,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-1-K10-3_L001_R1_001.fastq.gz,Ginger-1-K10-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-1-K3-1,KeminCaninePartTwo,1,K3,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-1-K3-1_L001_R1_001.fastq.gz,Ginger-1-K3-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-1-K3-2,KeminCaninePartOne,1,K3,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-1-K3-2_L001_R1_001.fastq.gz,Ginger-1-K3-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-1-K3-3,KeminCaninePartThree,1,K3,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-1-K3-3_L001_R1_001.fastq.gz,Ginger-1-K3-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-1-K5-1,KeminCaninePartThree,1,K5,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-1-K5-1_L001_R1_001.fastq.gz,Ginger-1-K5-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-1-K5-2,KeminCaninePartOne,1,K5,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-1-K5-2_L001_R1_001.fastq.gz,Ginger-1-K5-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-1-K5-3,KeminCaninePartTwo,1,K5,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-1-K5-3_L001_R1_001.fastq.gz,Ginger-1-K5-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-1-K7-1,KeminCaninePartOne,1,K7,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-1-K7-1_L001_R1_001.fastq.gz,Ginger-1-K7-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-1-K7-2,KeminCaninePartThree,1,K7,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-1-K7-2_L001_R1_001.fastq.gz,Ginger-1-K7-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-1-K7-3,KeminCaninePartTwo,1,K7,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-1-K7-3_L001_R1_001.fastq.gz,Ginger-1-K7-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-10-K10-1,KeminCaninePartOne,10,K10,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-10-K10-1_L001_R1_001.fastq.gz,Ginger-10-K10-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-10-K10-2,KeminCaninePartThree,10,K10,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-10-K10-2_L001_R1_001.fastq.gz,Ginger-10-K10-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-10-K10-3,KeminCaninePartTwo,10,K10,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-10-K10-3_L001_R1_001.fastq.gz,Ginger-10-K10-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-10-K3-1,KeminCaninePartTwo,10,K3,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-10-K3-1_L001_R1_001.fastq.gz,Ginger-10-K3-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-10-K3-2,KeminCaninePartOne,10,K3,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-10-K3-2_L001_R1_001.fastq.gz,Ginger-10-K3-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-10-K3-3,KeminCaninePartThree,10,K3,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-10-K3-3_L001_R1_001.fastq.gz,Ginger-10-K3-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-10-K5-1,KeminCaninePartTwo,10,K5,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-10-K5-1_L001_R1_001.fastq.gz,Ginger-10-K5-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-10-K5-2,KeminCaninePartOne,10,K5,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-10-K5-2_L001_R1_001.fastq.gz,Ginger-10-K5-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-10-K5-3,KeminCaninePartThree,10,K5,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-10-K5-3_L001_R1_001.fastq.gz,Ginger-10-K5-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-10-K7-1,KeminCaninePartThree,10,K7,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-10-K7-1_L001_R1_001.fastq.gz,Ginger-10-K7-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-10-K7-2,KeminCaninePartTwo,10,K7,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-10-K7-2_L001_R1_001.fastq.gz,Ginger-10-K7-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-10-K7-3,KeminCaninePartOne,10,K7,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-10-K7-3_L001_R1_001.fastq.gz,Ginger-10-K7-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-20-K10-1,KeminCaninePartOne,20,K10,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-20-K10-1_L001_R1_001.fastq.gz,Ginger-20-K10-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-20-K10-2,KeminCaninePartTwo,20,K10,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-20-K10-2_L001_R1_001.fastq.gz,Ginger-20-K10-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-20-K10-3,KeminCaninePartThree,20,K10,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-20-K10-3_L001_R1_001.fastq.gz,Ginger-20-K10-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-20-K3-1,KeminCaninePartTwo,20,K3,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-20-K3-1_L001_R1_001.fastq.gz,Ginger-20-K3-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-20-K3-2,KeminCaninePartOne,20,K3,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-20-K3-2_L001_R1_001.fastq.gz,Ginger-20-K3-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-20-K3-3,KeminCaninePartThree,20,K3,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-20-K3-3_L001_R1_001.fastq.gz,Ginger-20-K3-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-20-K5-1,KeminCaninePartOne,20,K5,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-20-K5-1_L001_R1_001.fastq.gz,Ginger-20-K5-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-20-K5-2,KeminCaninePartThree,20,K5,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-20-K5-2_L001_R1_001.fastq.gz,Ginger-20-K5-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-20-K5-3,KeminCaninePartTwo,20,K5,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-20-K5-3_L001_R1_001.fastq.gz,Ginger-20-K5-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-20-K7-1,KeminCaninePartTwo,20,K7,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-20-K7-1_L001_R1_001.fastq.gz,Ginger-20-K7-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-20-K7-2,KeminCaninePartOne,20,K7,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-20-K7-2_L001_R1_001.fastq.gz,Ginger-20-K7-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-20-K7-3,KeminCaninePartThree,20,K7,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-20-K7-3_L001_R1_001.fastq.gz,Ginger-20-K7-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-5-K10-1,KeminCaninePartOne,5,K10,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-5-K10-1_L001_R1_001.fastq.gz,Ginger-5-K10-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-5-K10-2,KeminCaninePartTwo,5,K10,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-5-K10-2_L001_R1_001.fastq.gz,Ginger-5-K10-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-5-K10-3,KeminCaninePartThree,5,K10,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-5-K10-3_L001_R1_001.fastq.gz,Ginger-5-K10-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-5-K3-1,KeminCaninePartOne,5,K3,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-5-K3-1_L001_R1_001.fastq.gz,Ginger-5-K3-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-5-K3-2,KeminCaninePartTwo,5,K3,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-5-K3-2_L001_R1_001.fastq.gz,Ginger-5-K3-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-5-K3-3,KeminCaninePartThree,5,K3,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-5-K3-3_L001_R1_001.fastq.gz,Ginger-5-K3-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-5-K5-1,KeminCaninePartTwo,5,K5,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-5-K5-1_L001_R1_001.fastq.gz,Ginger-5-K5-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-5-K5-2,KeminCaninePartOne,5,K5,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-5-K5-2_L001_R1_001.fastq.gz,Ginger-5-K5-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-5-K5-3,KeminCaninePartThree,5,K5,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-5-K5-3_L001_R1_001.fastq.gz,Ginger-5-K5-3_L001_R2_001.fastq.gz,3,Ginger
+Ginger-5-K7-1,KeminCaninePartOne,5,K7,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-5-K7-1_L001_R1_001.fastq.gz,Ginger-5-K7-1_L001_R2_001.fastq.gz,1,Ginger
+Ginger-5-K7-2,KeminCaninePartTwo,5,K7,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-5-K7-2_L001_R1_001.fastq.gz,Ginger-5-K7-2_L001_R2_001.fastq.gz,2,Ginger
+Ginger-5-K7-3,KeminCaninePartThree,5,K7,Botanicals,15,ginger powder,20mg,"10,5,1mg",Ginger-5-K7-3_L001_R1_001.fastq.gz,Ginger-5-K7-3_L001_R2_001.fastq.gz,3,Ginger
+Grdbeet-1-K10-1,KeminCaninePartTwo,1,K10,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-1-K10-1_L001_R1_001.fastq.gz,Grdbeet-1-K10-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-1-K10-2,KeminCaninePartOne,1,K10,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-1-K10-2_L001_R1_001.fastq.gz,Grdbeet-1-K10-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-1-K10-3,KeminCaninePartThree,1,K10,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-1-K10-3_L001_R1_001.fastq.gz,Grdbeet-1-K10-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-1-K3-1,KeminCaninePartThree,1,K3,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-1-K3-1_L001_R1_001.fastq.gz,Grdbeet-1-K3-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-1-K3-2,KeminCaninePartTwo,1,K3,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-1-K3-2_L001_R1_001.fastq.gz,Grdbeet-1-K3-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-1-K3-3,KeminCaninePartOne,1,K3,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-1-K3-3_L001_R1_001.fastq.gz,Grdbeet-1-K3-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-1-K5-1,KeminCaninePartTwo,1,K5,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-1-K5-1_L001_R1_001.fastq.gz,Grdbeet-1-K5-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-1-K5-2,KeminCaninePartThree,1,K5,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-1-K5-2_L001_R1_001.fastq.gz,Grdbeet-1-K5-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-1-K5-3,KeminCaninePartOne,1,K5,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-1-K5-3_L001_R1_001.fastq.gz,Grdbeet-1-K5-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-1-K7-1,KeminCaninePartTwo,1,K7,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-1-K7-1_L001_R1_001.fastq.gz,Grdbeet-1-K7-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-1-K7-2,KeminCaninePartOne,1,K7,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-1-K7-2_L001_R1_001.fastq.gz,Grdbeet-1-K7-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-1-K7-3,KeminCaninePartThree,1,K7,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-1-K7-3_L001_R1_001.fastq.gz,Grdbeet-1-K7-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-10-K10-1,KeminCaninePartOne,10,K10,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-10-K10-1_L001_R1_001.fastq.gz,Grdbeet-10-K10-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-10-K10-2,KeminCaninePartTwo,10,K10,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-10-K10-2_L001_R1_001.fastq.gz,Grdbeet-10-K10-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-10-K10-3,KeminCaninePartThree,10,K10,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-10-K10-3_L001_R1_001.fastq.gz,Grdbeet-10-K10-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-10-K3-1,KeminCaninePartOne,10,K3,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-10-K3-1_L001_R1_001.fastq.gz,Grdbeet-10-K3-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-10-K3-2,KeminCaninePartThree,10,K3,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-10-K3-2_L001_R1_001.fastq.gz,Grdbeet-10-K3-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-10-K3-3,KeminCaninePartTwo,10,K3,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-10-K3-3_L001_R1_001.fastq.gz,Grdbeet-10-K3-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-10-K5-1,KeminCaninePartThree,10,K5,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-10-K5-1_L001_R1_001.fastq.gz,Grdbeet-10-K5-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-10-K5-2,KeminCaninePartOne,10,K5,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-10-K5-2_L001_R1_001.fastq.gz,Grdbeet-10-K5-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-10-K5-3,KeminCaninePartTwo,10,K5,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-10-K5-3_L001_R1_001.fastq.gz,Grdbeet-10-K5-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-10-K7-1,KeminCaninePartTwo,10,K7,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-10-K7-1_L001_R1_001.fastq.gz,Grdbeet-10-K7-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-10-K7-2,KeminCaninePartThree,10,K7,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-10-K7-2_L001_R1_001.fastq.gz,Grdbeet-10-K7-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-10-K7-3,KeminCaninePartOne,10,K7,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-10-K7-3_L001_R1_001.fastq.gz,Grdbeet-10-K7-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-20-K10-1,KeminCaninePartOne,20,K10,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-20-K10-1_L001_R1_001.fastq.gz,Grdbeet-20-K10-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-20-K10-2,KeminCaninePartTwo,20,K10,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-20-K10-2_L001_R1_001.fastq.gz,Grdbeet-20-K10-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-20-K10-3,KeminCaninePartThree,20,K10,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-20-K10-3_L001_R1_001.fastq.gz,Grdbeet-20-K10-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-20-K3-1,KeminCaninePartThree,20,K3,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-20-K3-1_L001_R1_001.fastq.gz,Grdbeet-20-K3-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-20-K3-2,KeminCaninePartTwo,20,K3,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-20-K3-2_L001_R1_001.fastq.gz,Grdbeet-20-K3-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-20-K3-3,KeminCaninePartOne,20,K3,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-20-K3-3_L001_R1_001.fastq.gz,Grdbeet-20-K3-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-20-K5-1,KeminCaninePartTwo,20,K5,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-20-K5-1_L001_R1_001.fastq.gz,Grdbeet-20-K5-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-20-K5-2,KeminCaninePartThree,20,K5,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-20-K5-2_L001_R1_001.fastq.gz,Grdbeet-20-K5-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-20-K5-3,KeminCaninePartOne,20,K5,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-20-K5-3_L001_R1_001.fastq.gz,Grdbeet-20-K5-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-20-K7-1,KeminCaninePartTwo,20,K7,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-20-K7-1_L001_R1_001.fastq.gz,Grdbeet-20-K7-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-20-K7-2,KeminCaninePartThree,20,K7,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-20-K7-2_L001_R1_001.fastq.gz,Grdbeet-20-K7-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-20-K7-3,KeminCaninePartOne,20,K7,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-20-K7-3_L001_R1_001.fastq.gz,Grdbeet-20-K7-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-5-K10-1,KeminCaninePartThree,5,K10,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-5-K10-1_L001_R1_001.fastq.gz,Grdbeet-5-K10-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-5-K10-2,KeminCaninePartOne,5,K10,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-5-K10-2_L001_R1_001.fastq.gz,Grdbeet-5-K10-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-5-K10-3,KeminCaninePartTwo,5,K10,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-5-K10-3_L001_R1_001.fastq.gz,Grdbeet-5-K10-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-5-K3-1,KeminCaninePartTwo,5,K3,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-5-K3-1_L001_R1_001.fastq.gz,Grdbeet-5-K3-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-5-K3-2,KeminCaninePartOne,5,K3,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-5-K3-2_L001_R1_001.fastq.gz,Grdbeet-5-K3-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-5-K3-3,KeminCaninePartThree,5,K3,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-5-K3-3_L001_R1_001.fastq.gz,Grdbeet-5-K3-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-5-K5-1,KeminCaninePartOne,5,K5,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-5-K5-1_L001_R1_001.fastq.gz,Grdbeet-5-K5-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-5-K5-2,KeminCaninePartTwo,5,K5,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-5-K5-2_L001_R1_001.fastq.gz,Grdbeet-5-K5-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-5-K5-3,KeminCaninePartThree,5,K5,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-5-K5-3_L001_R1_001.fastq.gz,Grdbeet-5-K5-3_L001_R2_001.fastq.gz,3,Grdbeet
+Grdbeet-5-K7-1,KeminCaninePartThree,5,K7,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-5-K7-1_L001_R1_001.fastq.gz,Grdbeet-5-K7-1_L001_R2_001.fastq.gz,1,Grdbeet
+Grdbeet-5-K7-2,KeminCaninePartOne,5,K7,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-5-K7-2_L001_R1_001.fastq.gz,Grdbeet-5-K7-2_L001_R2_001.fastq.gz,2,Grdbeet
+Grdbeet-5-K7-3,KeminCaninePartTwo,5,K7,Complex fiber,5,Ground Beet Pulp,20mg,"10,5,1mg",Grdbeet-5-K7-3_L001_R1_001.fastq.gz,Grdbeet-5-K7-3_L001_R2_001.fastq.gz,3,Grdbeet
+guar-1-K10-1,KeminCaninePartThree,1,K10,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-1-K10-1_L001_R1_001.fastq.gz,guar-1-K10-1_L001_R2_001.fastq.gz,1,guar
+guar-1-K10-2,KeminCaninePartOne,1,K10,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-1-K10-2_L001_R1_001.fastq.gz,guar-1-K10-2_L001_R2_001.fastq.gz,2,guar
+guar-1-K10-3,KeminCaninePartTwo,1,K10,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-1-K10-3_L001_R1_001.fastq.gz,guar-1-K10-3_L001_R2_001.fastq.gz,3,guar
+guar-1-K3-1,KeminCaninePartTwo,1,K3,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-1-K3-1_L001_R1_001.fastq.gz,guar-1-K3-1_L001_R2_001.fastq.gz,1,guar
+guar-1-K3-2,KeminCaninePartOne,1,K3,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-1-K3-2_L001_R1_001.fastq.gz,guar-1-K3-2_L001_R2_001.fastq.gz,2,guar
+guar-1-K3-3,KeminCaninePartThree,1,K3,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-1-K3-3_L001_R1_001.fastq.gz,guar-1-K3-3_L001_R2_001.fastq.gz,3,guar
+guar-1-K5-1,KeminCaninePartThree,1,K5,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-1-K5-1_L001_R1_001.fastq.gz,guar-1-K5-1_L001_R2_001.fastq.gz,1,guar
+guar-1-K5-2,KeminCaninePartTwo,1,K5,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-1-K5-2_L001_R1_001.fastq.gz,guar-1-K5-2_L001_R2_001.fastq.gz,2,guar
+guar-1-K5-3,KeminCaninePartOne,1,K5,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-1-K5-3_L001_R1_001.fastq.gz,guar-1-K5-3_L001_R2_001.fastq.gz,3,guar
+guar-1-K7-1,KeminCaninePartThree,1,K7,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-1-K7-1_L001_R1_001.fastq.gz,guar-1-K7-1_L001_R2_001.fastq.gz,1,guar
+guar-1-K7-2,KeminCaninePartTwo,1,K7,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-1-K7-2_L001_R1_001.fastq.gz,guar-1-K7-2_L001_R2_001.fastq.gz,2,guar
+guar-1-K7-3,KeminCaninePartOne,1,K7,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-1-K7-3_L001_R1_001.fastq.gz,guar-1-K7-3_L001_R2_001.fastq.gz,3,guar
+guar-10-K10-1,KeminCaninePartTwo,10,K10,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-10-K10-1_L001_R1_001.fastq.gz,guar-10-K10-1_L001_R2_001.fastq.gz,1,guar
+guar-10-K10-2,KeminCaninePartOne,10,K10,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-10-K10-2_L001_R1_001.fastq.gz,guar-10-K10-2_L001_R2_001.fastq.gz,2,guar
+guar-10-K10-3,KeminCaninePartThree,10,K10,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-10-K10-3_L001_R1_001.fastq.gz,guar-10-K10-3_L001_R2_001.fastq.gz,3,guar
+guar-10-K3-1,KeminCaninePartOne,10,K3,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-10-K3-1_L001_R1_001.fastq.gz,guar-10-K3-1_L001_R2_001.fastq.gz,1,guar
+guar-10-K3-2,KeminCaninePartTwo,10,K3,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-10-K3-2_L001_R1_001.fastq.gz,guar-10-K3-2_L001_R2_001.fastq.gz,2,guar
+guar-10-K3-3,KeminCaninePartThree,10,K3,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-10-K3-3_L001_R1_001.fastq.gz,guar-10-K3-3_L001_R2_001.fastq.gz,3,guar
+guar-10-K5-1,KeminCaninePartOne,10,K5,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-10-K5-1_L001_R1_001.fastq.gz,guar-10-K5-1_L001_R2_001.fastq.gz,1,guar
+guar-10-K5-2,KeminCaninePartTwo,10,K5,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-10-K5-2_L001_R1_001.fastq.gz,guar-10-K5-2_L001_R2_001.fastq.gz,2,guar
+guar-10-K5-3,KeminCaninePartThree,10,K5,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-10-K5-3_L001_R1_001.fastq.gz,guar-10-K5-3_L001_R2_001.fastq.gz,3,guar
+guar-10-K7-1,KeminCaninePartThree,10,K7,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-10-K7-1_L001_R1_001.fastq.gz,guar-10-K7-1_L001_R2_001.fastq.gz,1,guar
+guar-10-K7-2,KeminCaninePartOne,10,K7,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-10-K7-2_L001_R1_001.fastq.gz,guar-10-K7-2_L001_R2_001.fastq.gz,2,guar
+guar-10-K7-3,KeminCaninePartTwo,10,K7,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-10-K7-3_L001_R1_001.fastq.gz,guar-10-K7-3_L001_R2_001.fastq.gz,3,guar
+guar-20-K10-1,KeminCaninePartOne,20,K10,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-20-K10-1_L001_R1_001.fastq.gz,guar-20-K10-1_L001_R2_001.fastq.gz,1,guar
+guar-20-K10-2,KeminCaninePartThree,20,K10,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-20-K10-2_L001_R1_001.fastq.gz,guar-20-K10-2_L001_R2_001.fastq.gz,2,guar
+guar-20-K10-3,KeminCaninePartTwo,20,K10,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-20-K10-3_L001_R1_001.fastq.gz,guar-20-K10-3_L001_R2_001.fastq.gz,3,guar
+guar-20-K3-1,KeminCaninePartTwo,20,K3,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-20-K3-1_L001_R1_001.fastq.gz,guar-20-K3-1_L001_R2_001.fastq.gz,1,guar
+guar-20-K3-2,KeminCaninePartThree,20,K3,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-20-K3-2_L001_R1_001.fastq.gz,guar-20-K3-2_L001_R2_001.fastq.gz,2,guar
+guar-20-K3-3,KeminCaninePartOne,20,K3,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-20-K3-3_L001_R1_001.fastq.gz,guar-20-K3-3_L001_R2_001.fastq.gz,3,guar
+guar-20-K5-1,KeminCaninePartTwo,20,K5,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-20-K5-1_L001_R1_001.fastq.gz,guar-20-K5-1_L001_R2_001.fastq.gz,1,guar
+guar-20-K5-2,KeminCaninePartThree,20,K5,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-20-K5-2_L001_R1_001.fastq.gz,guar-20-K5-2_L001_R2_001.fastq.gz,2,guar
+guar-20-K5-3,KeminCaninePartOne,20,K5,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-20-K5-3_L001_R1_001.fastq.gz,guar-20-K5-3_L001_R2_001.fastq.gz,3,guar
+guar-20-K7-1,KeminCaninePartTwo,20,K7,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-20-K7-1_L001_R1_001.fastq.gz,guar-20-K7-1_L001_R2_001.fastq.gz,1,guar
+guar-20-K7-2,KeminCaninePartThree,20,K7,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-20-K7-2_L001_R1_001.fastq.gz,guar-20-K7-2_L001_R2_001.fastq.gz,2,guar
+guar-20-K7-3,KeminCaninePartOne,20,K7,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-20-K7-3_L001_R1_001.fastq.gz,guar-20-K7-3_L001_R2_001.fastq.gz,3,guar
+guar-5-K10-1,KeminCaninePartThree,5,K10,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-5-K10-1_L001_R1_001.fastq.gz,guar-5-K10-1_L001_R2_001.fastq.gz,1,guar
+guar-5-K10-2,KeminCaninePartTwo,5,K10,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-5-K10-2_L001_R1_001.fastq.gz,guar-5-K10-2_L001_R2_001.fastq.gz,2,guar
+guar-5-K10-3,KeminCaninePartOne,5,K10,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-5-K10-3_L001_R1_001.fastq.gz,guar-5-K10-3_L001_R2_001.fastq.gz,3,guar
+guar-5-K3-1,KeminCaninePartThree,5,K3,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-5-K3-1_L001_R1_001.fastq.gz,guar-5-K3-1_L001_R2_001.fastq.gz,1,guar
+guar-5-K3-2,KeminCaninePartOne,5,K3,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-5-K3-2_L001_R1_001.fastq.gz,guar-5-K3-2_L001_R2_001.fastq.gz,2,guar
+guar-5-K3-3,KeminCaninePartTwo,5,K3,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-5-K3-3_L001_R1_001.fastq.gz,guar-5-K3-3_L001_R2_001.fastq.gz,3,guar
+guar-5-K5-1,KeminCaninePartThree,5,K5,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-5-K5-1_L001_R1_001.fastq.gz,guar-5-K5-1_L001_R2_001.fastq.gz,1,guar
+guar-5-K5-2,KeminCaninePartTwo,5,K5,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-5-K5-2_L001_R1_001.fastq.gz,guar-5-K5-2_L001_R2_001.fastq.gz,2,guar
+guar-5-K5-3,KeminCaninePartOne,5,K5,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-5-K5-3_L001_R1_001.fastq.gz,guar-5-K5-3_L001_R2_001.fastq.gz,3,guar
+guar-5-K7-1,KeminCaninePartTwo,5,K7,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-5-K7-1_L001_R1_001.fastq.gz,guar-5-K7-1_L001_R2_001.fastq.gz,1,guar
+guar-5-K7-2,KeminCaninePartThree,5,K7,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-5-K7-2_L001_R1_001.fastq.gz,guar-5-K7-2_L001_R2_001.fastq.gz,2,guar
+guar-5-K7-3,KeminCaninePartOne,5,K7,Gums,20,guar gum,1mg,"0.5, 0.25, 0.05mg",guar-5-K7-3_L001_R1_001.fastq.gz,guar-5-K7-3_L001_R2_001.fastq.gz,3,guar
+HFSfiber-1-K10-1,KeminCaninePartTwo,1,K10,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-1-K10-1_L001_R1_001.fastq.gz,HFSfiber-1-K10-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-1-K10-2,KeminCaninePartOne,1,K10,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-1-K10-2_L001_R1_001.fastq.gz,HFSfiber-1-K10-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-1-K10-3,KeminCaninePartThree,1,K10,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-1-K10-3_L001_R1_001.fastq.gz,HFSfiber-1-K10-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-1-K3-1,KeminCaninePartTwo,1,K3,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-1-K3-1_L001_R1_001.fastq.gz,HFSfiber-1-K3-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-1-K3-2,KeminCaninePartOne,1,K3,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-1-K3-2_L001_R1_001.fastq.gz,HFSfiber-1-K3-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-1-K3-3,KeminCaninePartThree,1,K3,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-1-K3-3_L001_R1_001.fastq.gz,HFSfiber-1-K3-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-1-K5-1,KeminCaninePartThree,1,K5,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-1-K5-1_L001_R1_001.fastq.gz,HFSfiber-1-K5-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-1-K5-2,KeminCaninePartTwo,1,K5,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-1-K5-2_L001_R1_001.fastq.gz,HFSfiber-1-K5-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-1-K5-3,KeminCaninePartOne,1,K5,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-1-K5-3_L001_R1_001.fastq.gz,HFSfiber-1-K5-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-1-K7-1,KeminCaninePartTwo,1,K7,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-1-K7-1_L001_R1_001.fastq.gz,HFSfiber-1-K7-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-1-K7-2,KeminCaninePartThree,1,K7,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-1-K7-2_L001_R1_001.fastq.gz,HFSfiber-1-K7-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-1-K7-3,KeminCaninePartOne,1,K7,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-1-K7-3_L001_R1_001.fastq.gz,HFSfiber-1-K7-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-10-K10-1,KeminCaninePartOne,10,K10,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-10-K10-1_L001_R1_001.fastq.gz,HFSfiber-10-K10-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-10-K10-2,KeminCaninePartThree,10,K10,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-10-K10-2_L001_R1_001.fastq.gz,HFSfiber-10-K10-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-10-K10-3,KeminCaninePartTwo,10,K10,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-10-K10-3_L001_R1_001.fastq.gz,HFSfiber-10-K10-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-10-K3-1,KeminCaninePartTwo,10,K3,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-10-K3-1_L001_R1_001.fastq.gz,HFSfiber-10-K3-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-10-K3-2,KeminCaninePartThree,10,K3,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-10-K3-2_L001_R1_001.fastq.gz,HFSfiber-10-K3-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-10-K3-3,KeminCaninePartOne,10,K3,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-10-K3-3_L001_R1_001.fastq.gz,HFSfiber-10-K3-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-10-K5-1,KeminCaninePartTwo,10,K5,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-10-K5-1_L001_R1_001.fastq.gz,HFSfiber-10-K5-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-10-K5-2,KeminCaninePartThree,10,K5,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-10-K5-2_L001_R1_001.fastq.gz,HFSfiber-10-K5-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-10-K5-3,KeminCaninePartOne,10,K5,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-10-K5-3_L001_R1_001.fastq.gz,HFSfiber-10-K5-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-10-K7-1,KeminCaninePartOne,10,K7,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-10-K7-1_L001_R1_001.fastq.gz,HFSfiber-10-K7-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-10-K7-2,KeminCaninePartTwo,10,K7,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-10-K7-2_L001_R1_001.fastq.gz,HFSfiber-10-K7-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-10-K7-3,KeminCaninePartThree,10,K7,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-10-K7-3_L001_R1_001.fastq.gz,HFSfiber-10-K7-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-20-K10-1,KeminCaninePartOne,20,K10,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-20-K10-1_L001_R1_001.fastq.gz,HFSfiber-20-K10-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-20-K10-2,KeminCaninePartThree,20,K10,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-20-K10-2_L001_R1_001.fastq.gz,HFSfiber-20-K10-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-20-K10-3,KeminCaninePartTwo,20,K10,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-20-K10-3_L001_R1_001.fastq.gz,HFSfiber-20-K10-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-20-K3-1,KeminCaninePartOne,20,K3,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-20-K3-1_L001_R1_001.fastq.gz,HFSfiber-20-K3-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-20-K3-2,KeminCaninePartTwo,20,K3,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-20-K3-2_L001_R1_001.fastq.gz,HFSfiber-20-K3-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-20-K3-3,KeminCaninePartThree,20,K3,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-20-K3-3_L001_R1_001.fastq.gz,HFSfiber-20-K3-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-20-K5-1,KeminCaninePartThree,20,K5,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-20-K5-1_L001_R1_001.fastq.gz,HFSfiber-20-K5-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-20-K5-2,KeminCaninePartOne,20,K5,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-20-K5-2_L001_R1_001.fastq.gz,HFSfiber-20-K5-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-20-K5-3,KeminCaninePartTwo,20,K5,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-20-K5-3_L001_R1_001.fastq.gz,HFSfiber-20-K5-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-20-K7-1,KeminCaninePartThree,20,K7,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-20-K7-1_L001_R1_001.fastq.gz,HFSfiber-20-K7-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-20-K7-2,KeminCaninePartOne,20,K7,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-20-K7-2_L001_R1_001.fastq.gz,HFSfiber-20-K7-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-20-K7-3,KeminCaninePartTwo,20,K7,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-20-K7-3_L001_R1_001.fastq.gz,HFSfiber-20-K7-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-5-K10-1,KeminCaninePartTwo,5,K10,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-5-K10-1_L001_R1_001.fastq.gz,HFSfiber-5-K10-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-5-K10-2,KeminCaninePartThree,5,K10,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-5-K10-2_L001_R1_001.fastq.gz,HFSfiber-5-K10-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-5-K10-3,KeminCaninePartOne,5,K10,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-5-K10-3_L001_R1_001.fastq.gz,HFSfiber-5-K10-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-5-K3-1,KeminCaninePartTwo,5,K3,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-5-K3-1_L001_R1_001.fastq.gz,HFSfiber-5-K3-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-5-K3-2,KeminCaninePartOne,5,K3,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-5-K3-2_L001_R1_001.fastq.gz,HFSfiber-5-K3-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-5-K3-3,KeminCaninePartThree,5,K3,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-5-K3-3_L001_R1_001.fastq.gz,HFSfiber-5-K3-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-5-K5-1,KeminCaninePartTwo,5,K5,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-5-K5-1_L001_R1_001.fastq.gz,HFSfiber-5-K5-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-5-K5-2,KeminCaninePartOne,5,K5,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-5-K5-2_L001_R1_001.fastq.gz,HFSfiber-5-K5-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-5-K5-3,KeminCaninePartThree,5,K5,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-5-K5-3_L001_R1_001.fastq.gz,HFSfiber-5-K5-3_L001_R2_001.fastq.gz,3,HFSfiber
+HFSfiber-5-K7-1,KeminCaninePartOne,5,K7,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-5-K7-1_L001_R1_001.fastq.gz,HFSfiber-5-K7-1_L001_R2_001.fastq.gz,1,HFSfiber
+HFSfiber-5-K7-2,KeminCaninePartThree,5,K7,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-5-K7-2_L001_R1_001.fastq.gz,HFSfiber-5-K7-2_L001_R2_001.fastq.gz,2,HFSfiber
+HFSfiber-5-K7-3,KeminCaninePartTwo,5,K7,Complex fiber,8,HiSmooth flax seed fiber,5mg,"2.5,1.25, 0.25mg",HFSfiber-5-K7-3_L001_R1_001.fastq.gz,HFSfiber-5-K7-3_L001_R2_001.fastq.gz,3,HFSfiber
+Jerusalem-1-K10-1,KeminCaninePartOne,1,K10,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-1-K10-1_L001_R1_001.fastq.gz,Jerusalem-1-K10-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-1-K10-2,KeminCaninePartTwo,1,K10,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-1-K10-2_L001_R1_001.fastq.gz,Jerusalem-1-K10-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-1-K10-3,KeminCaninePartThree,1,K10,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-1-K10-3_L001_R1_001.fastq.gz,Jerusalem-1-K10-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-1-K3-1,KeminCaninePartOne,1,K3,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-1-K3-1_L001_R1_001.fastq.gz,Jerusalem-1-K3-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-1-K3-2,KeminCaninePartThree,1,K3,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-1-K3-2_L001_R1_001.fastq.gz,Jerusalem-1-K3-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-1-K3-3,KeminCaninePartTwo,1,K3,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-1-K3-3_L001_R1_001.fastq.gz,Jerusalem-1-K3-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-1-K5-1,KeminCaninePartThree,1,K5,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-1-K5-1_L001_R1_001.fastq.gz,Jerusalem-1-K5-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-1-K5-2,KeminCaninePartTwo,1,K5,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-1-K5-2_L001_R1_001.fastq.gz,Jerusalem-1-K5-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-1-K5-3,KeminCaninePartOne,1,K5,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-1-K5-3_L001_R1_001.fastq.gz,Jerusalem-1-K5-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-1-K7-1,KeminCaninePartThree,1,K7,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-1-K7-1_L001_R1_001.fastq.gz,Jerusalem-1-K7-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-1-K7-2,KeminCaninePartOne,1,K7,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-1-K7-2_L001_R1_001.fastq.gz,Jerusalem-1-K7-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-1-K7-3,KeminCaninePartTwo,1,K7,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-1-K7-3_L001_R1_001.fastq.gz,Jerusalem-1-K7-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-10-K10-1,KeminCaninePartOne,10,K10,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-10-K10-1_L001_R1_001.fastq.gz,Jerusalem-10-K10-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-10-K10-2,KeminCaninePartThree,10,K10,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-10-K10-2_L001_R1_001.fastq.gz,Jerusalem-10-K10-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-10-K10-3,KeminCaninePartTwo,10,K10,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-10-K10-3_L001_R1_001.fastq.gz,Jerusalem-10-K10-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-10-K3-1,KeminCaninePartTwo,10,K3,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-10-K3-1_L001_R1_001.fastq.gz,Jerusalem-10-K3-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-10-K3-2,KeminCaninePartThree,10,K3,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-10-K3-2_L001_R1_001.fastq.gz,Jerusalem-10-K3-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-10-K3-3,KeminCaninePartOne,10,K3,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-10-K3-3_L001_R1_001.fastq.gz,Jerusalem-10-K3-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-10-K5-1,KeminCaninePartTwo,10,K5,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-10-K5-1_L001_R1_001.fastq.gz,Jerusalem-10-K5-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-10-K5-2,KeminCaninePartOne,10,K5,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-10-K5-2_L001_R1_001.fastq.gz,Jerusalem-10-K5-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-10-K5-3,KeminCaninePartThree,10,K5,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-10-K5-3_L001_R1_001.fastq.gz,Jerusalem-10-K5-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-10-K7-1,KeminCaninePartOne,10,K7,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-10-K7-1_L001_R1_001.fastq.gz,Jerusalem-10-K7-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-10-K7-2,KeminCaninePartTwo,10,K7,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-10-K7-2_L001_R1_001.fastq.gz,Jerusalem-10-K7-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-10-K7-3,KeminCaninePartThree,10,K7,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-10-K7-3_L001_R1_001.fastq.gz,Jerusalem-10-K7-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-20-K10-1,KeminCaninePartTwo,20,K10,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-20-K10-1_L001_R1_001.fastq.gz,Jerusalem-20-K10-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-20-K10-2,KeminCaninePartOne,20,K10,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-20-K10-2_L001_R1_001.fastq.gz,Jerusalem-20-K10-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-20-K10-3,KeminCaninePartThree,20,K10,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-20-K10-3_L001_R1_001.fastq.gz,Jerusalem-20-K10-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-20-K3-1,KeminCaninePartOne,20,K3,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-20-K3-1_L001_R1_001.fastq.gz,Jerusalem-20-K3-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-20-K3-2,KeminCaninePartThree,20,K3,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-20-K3-2_L001_R1_001.fastq.gz,Jerusalem-20-K3-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-20-K3-3,KeminCaninePartTwo,20,K3,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-20-K3-3_L001_R1_001.fastq.gz,Jerusalem-20-K3-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-20-K5-1,KeminCaninePartOne,20,K5,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-20-K5-1_L001_R1_001.fastq.gz,Jerusalem-20-K5-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-20-K5-2,KeminCaninePartTwo,20,K5,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-20-K5-2_L001_R1_001.fastq.gz,Jerusalem-20-K5-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-20-K5-3,KeminCaninePartThree,20,K5,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-20-K5-3_L001_R1_001.fastq.gz,Jerusalem-20-K5-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-20-K7-1,KeminCaninePartThree,20,K7,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-20-K7-1_L001_R1_001.fastq.gz,Jerusalem-20-K7-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-20-K7-2,KeminCaninePartTwo,20,K7,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-20-K7-2_L001_R1_001.fastq.gz,Jerusalem-20-K7-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-20-K7-3,KeminCaninePartOne,20,K7,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-20-K7-3_L001_R1_001.fastq.gz,Jerusalem-20-K7-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-5-K10-1,KeminCaninePartOne,5,K10,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-5-K10-1_L001_R1_001.fastq.gz,Jerusalem-5-K10-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-5-K10-2,KeminCaninePartTwo,5,K10,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-5-K10-2_L001_R1_001.fastq.gz,Jerusalem-5-K10-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-5-K10-3,KeminCaninePartThree,5,K10,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-5-K10-3_L001_R1_001.fastq.gz,Jerusalem-5-K10-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-5-K3-1,KeminCaninePartOne,5,K3,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-5-K3-1_L001_R1_001.fastq.gz,Jerusalem-5-K3-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-5-K3-2,KeminCaninePartThree,5,K3,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-5-K3-2_L001_R1_001.fastq.gz,Jerusalem-5-K3-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-5-K3-3,KeminCaninePartTwo,5,K3,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-5-K3-3_L001_R1_001.fastq.gz,Jerusalem-5-K3-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-5-K5-1,KeminCaninePartOne,5,K5,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-5-K5-1_L001_R1_001.fastq.gz,Jerusalem-5-K5-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-5-K5-2,KeminCaninePartTwo,5,K5,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-5-K5-2_L001_R1_001.fastq.gz,Jerusalem-5-K5-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-5-K5-3,KeminCaninePartThree,5,K5,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-5-K5-3_L001_R1_001.fastq.gz,Jerusalem-5-K5-3_L001_R2_001.fastq.gz,3,Jerusalem
+Jerusalem-5-K7-1,KeminCaninePartTwo,5,K7,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-5-K7-1_L001_R1_001.fastq.gz,Jerusalem-5-K7-1_L001_R2_001.fastq.gz,1,Jerusalem
+Jerusalem-5-K7-2,KeminCaninePartThree,5,K7,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-5-K7-2_L001_R1_001.fastq.gz,Jerusalem-5-K7-2_L001_R2_001.fastq.gz,2,Jerusalem
+Jerusalem-5-K7-3,KeminCaninePartOne,5,K7,Oligosaccharrides,22,Jerusalum articohoke powder (inulin),20mg,"10,5,1mg",Jerusalem-5-K7-3_L001_R1_001.fastq.gz,Jerusalem-5-K7-3_L001_R2_001.fastq.gz,3,Jerusalem
+kappa-1-K10-1,KeminCaninePartOne,1,K10,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-1-K10-1_L001_R1_001.fastq.gz,kappa-1-K10-1_L001_R2_001.fastq.gz,1,kappa
+kappa-1-K10-2,KeminCaninePartThree,1,K10,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-1-K10-2_L001_R1_001.fastq.gz,kappa-1-K10-2_L001_R2_001.fastq.gz,2,kappa
+kappa-1-K10-3,KeminCaninePartTwo,1,K10,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-1-K10-3_L001_R1_001.fastq.gz,kappa-1-K10-3_L001_R2_001.fastq.gz,3,kappa
+kappa-1-K3-1,KeminCaninePartThree,1,K3,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-1-K3-1_L001_R1_001.fastq.gz,kappa-1-K3-1_L001_R2_001.fastq.gz,1,kappa
+kappa-1-K3-2,KeminCaninePartTwo,1,K3,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-1-K3-2_L001_R1_001.fastq.gz,kappa-1-K3-2_L001_R2_001.fastq.gz,2,kappa
+kappa-1-K3-3,KeminCaninePartOne,1,K3,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-1-K3-3_L001_R1_001.fastq.gz,kappa-1-K3-3_L001_R2_001.fastq.gz,3,kappa
+kappa-1-K5-1,KeminCaninePartTwo,1,K5,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-1-K5-1_L001_R1_001.fastq.gz,kappa-1-K5-1_L001_R2_001.fastq.gz,1,kappa
+kappa-1-K5-2,KeminCaninePartThree,1,K5,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-1-K5-2_L001_R1_001.fastq.gz,kappa-1-K5-2_L001_R2_001.fastq.gz,2,kappa
+kappa-1-K5-3,KeminCaninePartOne,1,K5,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-1-K5-3_L001_R1_001.fastq.gz,kappa-1-K5-3_L001_R2_001.fastq.gz,3,kappa
+kappa-1-K7-1,KeminCaninePartTwo,1,K7,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-1-K7-1_L001_R1_001.fastq.gz,kappa-1-K7-1_L001_R2_001.fastq.gz,1,kappa
+kappa-1-K7-2,KeminCaninePartOne,1,K7,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-1-K7-2_L001_R1_001.fastq.gz,kappa-1-K7-2_L001_R2_001.fastq.gz,2,kappa
+kappa-1-K7-3,KeminCaninePartThree,1,K7,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-1-K7-3_L001_R1_001.fastq.gz,kappa-1-K7-3_L001_R2_001.fastq.gz,3,kappa
+kappa-10-K10-1,KeminCaninePartOne,10,K10,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-10-K10-1_L001_R1_001.fastq.gz,kappa-10-K10-1_L001_R2_001.fastq.gz,1,kappa
+kappa-10-K10-2,KeminCaninePartTwo,10,K10,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-10-K10-2_L001_R1_001.fastq.gz,kappa-10-K10-2_L001_R2_001.fastq.gz,2,kappa
+kappa-10-K10-3,KeminCaninePartThree,10,K10,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-10-K10-3_L001_R1_001.fastq.gz,kappa-10-K10-3_L001_R2_001.fastq.gz,3,kappa
+kappa-10-K3-1,KeminCaninePartThree,10,K3,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-10-K3-1_L001_R1_001.fastq.gz,kappa-10-K3-1_L001_R2_001.fastq.gz,1,kappa
+kappa-10-K3-2,KeminCaninePartTwo,10,K3,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-10-K3-2_L001_R1_001.fastq.gz,kappa-10-K3-2_L001_R2_001.fastq.gz,2,kappa
+kappa-10-K3-3,KeminCaninePartOne,10,K3,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-10-K3-3_L001_R1_001.fastq.gz,kappa-10-K3-3_L001_R2_001.fastq.gz,3,kappa
+kappa-10-K5-1,KeminCaninePartThree,10,K5,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-10-K5-1_L001_R1_001.fastq.gz,kappa-10-K5-1_L001_R2_001.fastq.gz,1,kappa
+kappa-10-K5-2,KeminCaninePartTwo,10,K5,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-10-K5-2_L001_R1_001.fastq.gz,kappa-10-K5-2_L001_R2_001.fastq.gz,2,kappa
+kappa-10-K5-3,KeminCaninePartOne,10,K5,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-10-K5-3_L001_R1_001.fastq.gz,kappa-10-K5-3_L001_R2_001.fastq.gz,3,kappa
+kappa-10-K7-1,KeminCaninePartThree,10,K7,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-10-K7-1_L001_R1_001.fastq.gz,kappa-10-K7-1_L001_R2_001.fastq.gz,1,kappa
+kappa-10-K7-2,KeminCaninePartTwo,10,K7,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-10-K7-2_L001_R1_001.fastq.gz,kappa-10-K7-2_L001_R2_001.fastq.gz,2,kappa
+kappa-10-K7-3,KeminCaninePartOne,10,K7,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-10-K7-3_L001_R1_001.fastq.gz,kappa-10-K7-3_L001_R2_001.fastq.gz,3,kappa
+kappa-20-K10-1,KeminCaninePartThree,20,K10,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-20-K10-1_L001_R1_001.fastq.gz,kappa-20-K10-1_L001_R2_001.fastq.gz,1,kappa
+kappa-20-K10-2,KeminCaninePartOne,20,K10,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-20-K10-2_L001_R1_001.fastq.gz,kappa-20-K10-2_L001_R2_001.fastq.gz,2,kappa
+kappa-20-K10-3,KeminCaninePartTwo,20,K10,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-20-K10-3_L001_R1_001.fastq.gz,kappa-20-K10-3_L001_R2_001.fastq.gz,3,kappa
+kappa-20-K3-1,KeminCaninePartTwo,20,K3,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-20-K3-1_L001_R1_001.fastq.gz,kappa-20-K3-1_L001_R2_001.fastq.gz,1,kappa
+kappa-20-K3-2,KeminCaninePartOne,20,K3,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-20-K3-2_L001_R1_001.fastq.gz,kappa-20-K3-2_L001_R2_001.fastq.gz,2,kappa
+kappa-20-K3-3,KeminCaninePartThree,20,K3,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-20-K3-3_L001_R1_001.fastq.gz,kappa-20-K3-3_L001_R2_001.fastq.gz,3,kappa
+kappa-20-K5-1,KeminCaninePartOne,20,K5,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-20-K5-1_L001_R1_001.fastq.gz,kappa-20-K5-1_L001_R2_001.fastq.gz,1,kappa
+kappa-20-K5-2,KeminCaninePartTwo,20,K5,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-20-K5-2_L001_R1_001.fastq.gz,kappa-20-K5-2_L001_R2_001.fastq.gz,2,kappa
+kappa-20-K5-3,KeminCaninePartThree,20,K5,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-20-K5-3_L001_R1_001.fastq.gz,kappa-20-K5-3_L001_R2_001.fastq.gz,3,kappa
+kappa-20-K7-1,KeminCaninePartOne,20,K7,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-20-K7-1_L001_R1_001.fastq.gz,kappa-20-K7-1_L001_R2_001.fastq.gz,1,kappa
+kappa-20-K7-2,KeminCaninePartTwo,20,K7,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-20-K7-2_L001_R1_001.fastq.gz,kappa-20-K7-2_L001_R2_001.fastq.gz,2,kappa
+kappa-20-K7-3,KeminCaninePartThree,20,K7,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-20-K7-3_L001_R1_001.fastq.gz,kappa-20-K7-3_L001_R2_001.fastq.gz,3,kappa
+kappa-5-K10-1,KeminCaninePartOne,5,K10,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-5-K10-1_L001_R1_001.fastq.gz,kappa-5-K10-1_L001_R2_001.fastq.gz,1,kappa
+kappa-5-K10-2,KeminCaninePartThree,5,K10,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-5-K10-2_L001_R1_001.fastq.gz,kappa-5-K10-2_L001_R2_001.fastq.gz,2,kappa
+kappa-5-K10-3,KeminCaninePartTwo,5,K10,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-5-K10-3_L001_R1_001.fastq.gz,kappa-5-K10-3_L001_R2_001.fastq.gz,3,kappa
+kappa-5-K3-1,KeminCaninePartOne,5,K3,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-5-K3-1_L001_R1_001.fastq.gz,kappa-5-K3-1_L001_R2_001.fastq.gz,1,kappa
+kappa-5-K3-2,KeminCaninePartTwo,5,K3,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-5-K3-2_L001_R1_001.fastq.gz,kappa-5-K3-2_L001_R2_001.fastq.gz,2,kappa
+kappa-5-K3-3,KeminCaninePartThree,5,K3,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-5-K3-3_L001_R1_001.fastq.gz,kappa-5-K3-3_L001_R2_001.fastq.gz,3,kappa
+kappa-5-K5-1,KeminCaninePartOne,5,K5,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-5-K5-1_L001_R1_001.fastq.gz,kappa-5-K5-1_L001_R2_001.fastq.gz,1,kappa
+kappa-5-K5-2,KeminCaninePartThree,5,K5,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-5-K5-2_L001_R1_001.fastq.gz,kappa-5-K5-2_L001_R2_001.fastq.gz,2,kappa
+kappa-5-K5-3,KeminCaninePartTwo,5,K5,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-5-K5-3_L001_R1_001.fastq.gz,kappa-5-K5-3_L001_R2_001.fastq.gz,3,kappa
+kappa-5-K7-1,KeminCaninePartTwo,5,K7,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-5-K7-1_L001_R1_001.fastq.gz,kappa-5-K7-1_L001_R2_001.fastq.gz,1,kappa
+kappa-5-K7-2,KeminCaninePartThree,5,K7,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-5-K7-2_L001_R1_001.fastq.gz,kappa-5-K7-2_L001_R2_001.fastq.gz,2,kappa
+kappa-5-K7-3,KeminCaninePartOne,5,K7,Gums,19,kappa carageenan ,1mg,"0.5, 0.25, 0.05mg",kappa-5-K7-3_L001_R1_001.fastq.gz,kappa-5-K7-3_L001_R2_001.fastq.gz,3,kappa
+Lemon-1-K10-1,KeminCaninePartTwo,1,K10,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-1-K10-1_L001_R1_001.fastq.gz,Lemon-1-K10-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-1-K10-2,KeminCaninePartThree,1,K10,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-1-K10-2_L001_R1_001.fastq.gz,Lemon-1-K10-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-1-K10-3,KeminCaninePartOne,1,K10,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-1-K10-3_L001_R1_001.fastq.gz,Lemon-1-K10-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-1-K3-1,KeminCaninePartTwo,1,K3,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-1-K3-1_L001_R1_001.fastq.gz,Lemon-1-K3-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-1-K3-2,KeminCaninePartThree,1,K3,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-1-K3-2_L001_R1_001.fastq.gz,Lemon-1-K3-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-1-K3-3,KeminCaninePartOne,1,K3,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-1-K3-3_L001_R1_001.fastq.gz,Lemon-1-K3-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-1-K5-1,KeminCaninePartOne,1,K5,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-1-K5-1_L001_R1_001.fastq.gz,Lemon-1-K5-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-1-K5-2,KeminCaninePartThree,1,K5,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-1-K5-2_L001_R1_001.fastq.gz,Lemon-1-K5-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-1-K5-3,KeminCaninePartTwo,1,K5,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-1-K5-3_L001_R1_001.fastq.gz,Lemon-1-K5-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-1-K7-1,KeminCaninePartTwo,1,K7,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-1-K7-1_L001_R1_001.fastq.gz,Lemon-1-K7-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-1-K7-2,KeminCaninePartThree,1,K7,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-1-K7-2_L001_R1_001.fastq.gz,Lemon-1-K7-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-1-K7-3,KeminCaninePartOne,1,K7,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-1-K7-3_L001_R1_001.fastq.gz,Lemon-1-K7-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-10-K10-1,KeminCaninePartOne,10,K10,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-10-K10-1_L001_R1_001.fastq.gz,Lemon-10-K10-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-10-K10-2,KeminCaninePartThree,10,K10,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-10-K10-2_L001_R1_001.fastq.gz,Lemon-10-K10-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-10-K10-3,KeminCaninePartTwo,10,K10,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-10-K10-3_L001_R1_001.fastq.gz,Lemon-10-K10-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-10-K3-1,KeminCaninePartTwo,10,K3,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-10-K3-1_L001_R1_001.fastq.gz,Lemon-10-K3-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-10-K3-2,KeminCaninePartOne,10,K3,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-10-K3-2_L001_R1_001.fastq.gz,Lemon-10-K3-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-10-K3-3,KeminCaninePartThree,10,K3,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-10-K3-3_L001_R1_001.fastq.gz,Lemon-10-K3-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-10-K5-1,KeminCaninePartTwo,10,K5,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-10-K5-1_L001_R1_001.fastq.gz,Lemon-10-K5-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-10-K5-2,KeminCaninePartThree,10,K5,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-10-K5-2_L001_R1_001.fastq.gz,Lemon-10-K5-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-10-K5-3,KeminCaninePartOne,10,K5,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-10-K5-3_L001_R1_001.fastq.gz,Lemon-10-K5-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-10-K7-1,KeminCaninePartThree,10,K7,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-10-K7-1_L001_R1_001.fastq.gz,Lemon-10-K7-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-10-K7-2,KeminCaninePartTwo,10,K7,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-10-K7-2_L001_R1_001.fastq.gz,Lemon-10-K7-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-10-K7-3,KeminCaninePartOne,10,K7,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-10-K7-3_L001_R1_001.fastq.gz,Lemon-10-K7-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-20-K10-1,KeminCaninePartThree,20,K10,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-20-K10-1_L001_R1_001.fastq.gz,Lemon-20-K10-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-20-K10-2,KeminCaninePartTwo,20,K10,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-20-K10-2_L001_R1_001.fastq.gz,Lemon-20-K10-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-20-K10-3,KeminCaninePartOne,20,K10,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-20-K10-3_L001_R1_001.fastq.gz,Lemon-20-K10-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-20-K3-1,KeminCaninePartOne,20,K3,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-20-K3-1_L001_R1_001.fastq.gz,Lemon-20-K3-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-20-K3-2,KeminCaninePartThree,20,K3,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-20-K3-2_L001_R1_001.fastq.gz,Lemon-20-K3-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-20-K3-3,KeminCaninePartTwo,20,K3,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-20-K3-3_L001_R1_001.fastq.gz,Lemon-20-K3-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-20-K5-1,KeminCaninePartOne,20,K5,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-20-K5-1_L001_R1_001.fastq.gz,Lemon-20-K5-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-20-K5-2,KeminCaninePartThree,20,K5,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-20-K5-2_L001_R1_001.fastq.gz,Lemon-20-K5-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-20-K5-3,KeminCaninePartTwo,20,K5,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-20-K5-3_L001_R1_001.fastq.gz,Lemon-20-K5-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-20-K7-1,KeminCaninePartOne,20,K7,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-20-K7-1_L001_R1_001.fastq.gz,Lemon-20-K7-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-20-K7-2,KeminCaninePartTwo,20,K7,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-20-K7-2_L001_R1_001.fastq.gz,Lemon-20-K7-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-20-K7-3,KeminCaninePartThree,20,K7,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-20-K7-3_L001_R1_001.fastq.gz,Lemon-20-K7-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-5-K10-1,KeminCaninePartThree,5,K10,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-5-K10-1_L001_R1_001.fastq.gz,Lemon-5-K10-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-5-K10-2,KeminCaninePartTwo,5,K10,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-5-K10-2_L001_R1_001.fastq.gz,Lemon-5-K10-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-5-K10-3,KeminCaninePartOne,5,K10,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-5-K10-3_L001_R1_001.fastq.gz,Lemon-5-K10-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-5-K3-1,KeminCaninePartOne,5,K3,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-5-K3-1_L001_R1_001.fastq.gz,Lemon-5-K3-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-5-K3-2,KeminCaninePartTwo,5,K3,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-5-K3-2_L001_R1_001.fastq.gz,Lemon-5-K3-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-5-K3-3,KeminCaninePartThree,5,K3,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-5-K3-3_L001_R1_001.fastq.gz,Lemon-5-K3-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-5-K5-1,KeminCaninePartOne,5,K5,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-5-K5-1_L001_R1_001.fastq.gz,Lemon-5-K5-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-5-K5-2,KeminCaninePartThree,5,K5,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-5-K5-2_L001_R1_001.fastq.gz,Lemon-5-K5-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-5-K5-3,KeminCaninePartTwo,5,K5,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-5-K5-3_L001_R1_001.fastq.gz,Lemon-5-K5-3_L001_R2_001.fastq.gz,3,Lemon
+Lemon-5-K7-1,KeminCaninePartThree,5,K7,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-5-K7-1_L001_R1_001.fastq.gz,Lemon-5-K7-1_L001_R2_001.fastq.gz,1,Lemon
+Lemon-5-K7-2,KeminCaninePartTwo,5,K7,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-5-K7-2_L001_R1_001.fastq.gz,Lemon-5-K7-2_L001_R2_001.fastq.gz,2,Lemon
+Lemon-5-K7-3,KeminCaninePartOne,5,K7,Botanicals,13,lemon powder,10mg,"5,2.5,0.5mg",Lemon-5-K7-3_L001_R1_001.fastq.gz,Lemon-5-K7-3_L001_R2_001.fastq.gz,3,Lemon
+locust-1-K10-1,KeminCaninePartTwo,1,K10,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-1-K10-1_L001_R1_001.fastq.gz,locust-1-K10-1_L001_R2_001.fastq.gz,1,locust
+locust-1-K10-2,KeminCaninePartThree,1,K10,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-1-K10-2_L001_R1_001.fastq.gz,locust-1-K10-2_L001_R2_001.fastq.gz,2,locust
+locust-1-K10-3,KeminCaninePartOne,1,K10,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-1-K10-3_L001_R1_001.fastq.gz,locust-1-K10-3_L001_R2_001.fastq.gz,3,locust
+locust-1-K3-1,KeminCaninePartThree,1,K3,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-1-K3-1_L001_R1_001.fastq.gz,locust-1-K3-1_L001_R2_001.fastq.gz,1,locust
+locust-1-K3-2,KeminCaninePartTwo,1,K3,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-1-K3-2_L001_R1_001.fastq.gz,locust-1-K3-2_L001_R2_001.fastq.gz,2,locust
+locust-1-K3-3,KeminCaninePartOne,1,K3,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-1-K3-3_L001_R1_001.fastq.gz,locust-1-K3-3_L001_R2_001.fastq.gz,3,locust
+locust-1-K5-1,KeminCaninePartThree,1,K5,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-1-K5-1_L001_R1_001.fastq.gz,locust-1-K5-1_L001_R2_001.fastq.gz,1,locust
+locust-1-K5-2,KeminCaninePartOne,1,K5,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-1-K5-2_L001_R1_001.fastq.gz,locust-1-K5-2_L001_R2_001.fastq.gz,2,locust
+locust-1-K5-3,KeminCaninePartTwo,1,K5,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-1-K5-3_L001_R1_001.fastq.gz,locust-1-K5-3_L001_R2_001.fastq.gz,3,locust
+locust-1-K7-1,KeminCaninePartThree,1,K7,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-1-K7-1_L001_R1_001.fastq.gz,locust-1-K7-1_L001_R2_001.fastq.gz,1,locust
+locust-1-K7-2,KeminCaninePartTwo,1,K7,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-1-K7-2_L001_R1_001.fastq.gz,locust-1-K7-2_L001_R2_001.fastq.gz,2,locust
+locust-1-K7-3,KeminCaninePartOne,1,K7,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-1-K7-3_L001_R1_001.fastq.gz,locust-1-K7-3_L001_R2_001.fastq.gz,3,locust
+locust-10-K10-1,KeminCaninePartOne,10,K10,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-10-K10-1_L001_R1_001.fastq.gz,locust-10-K10-1_L001_R2_001.fastq.gz,1,locust
+locust-10-K10-2,KeminCaninePartThree,10,K10,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-10-K10-2_L001_R1_001.fastq.gz,locust-10-K10-2_L001_R2_001.fastq.gz,2,locust
+locust-10-K10-3,KeminCaninePartTwo,10,K10,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-10-K10-3_L001_R1_001.fastq.gz,locust-10-K10-3_L001_R2_001.fastq.gz,3,locust
+locust-10-K3-1,KeminCaninePartThree,10,K3,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-10-K3-1_L001_R1_001.fastq.gz,locust-10-K3-1_L001_R2_001.fastq.gz,1,locust
+locust-10-K3-2,KeminCaninePartTwo,10,K3,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-10-K3-2_L001_R1_001.fastq.gz,locust-10-K3-2_L001_R2_001.fastq.gz,2,locust
+locust-10-K3-3,KeminCaninePartOne,10,K3,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-10-K3-3_L001_R1_001.fastq.gz,locust-10-K3-3_L001_R2_001.fastq.gz,3,locust
+locust-10-K5-1,KeminCaninePartThree,10,K5,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-10-K5-1_L001_R1_001.fastq.gz,locust-10-K5-1_L001_R2_001.fastq.gz,1,locust
+locust-10-K5-2,KeminCaninePartTwo,10,K5,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-10-K5-2_L001_R1_001.fastq.gz,locust-10-K5-2_L001_R2_001.fastq.gz,2,locust
+locust-10-K5-3,KeminCaninePartOne,10,K5,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-10-K5-3_L001_R1_001.fastq.gz,locust-10-K5-3_L001_R2_001.fastq.gz,3,locust
+locust-10-K7-1,KeminCaninePartThree,10,K7,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-10-K7-1_L001_R1_001.fastq.gz,locust-10-K7-1_L001_R2_001.fastq.gz,1,locust
+locust-10-K7-2,KeminCaninePartTwo,10,K7,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-10-K7-2_L001_R1_001.fastq.gz,locust-10-K7-2_L001_R2_001.fastq.gz,2,locust
+locust-10-K7-3,KeminCaninePartOne,10,K7,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-10-K7-3_L001_R1_001.fastq.gz,locust-10-K7-3_L001_R2_001.fastq.gz,3,locust
+locust-20-K10-1,KeminCaninePartThree,20,K10,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-20-K10-1_L001_R1_001.fastq.gz,locust-20-K10-1_L001_R2_001.fastq.gz,1,locust
+locust-20-K10-2,KeminCaninePartOne,20,K10,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-20-K10-2_L001_R1_001.fastq.gz,locust-20-K10-2_L001_R2_001.fastq.gz,2,locust
+locust-20-K10-3,KeminCaninePartTwo,20,K10,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-20-K10-3_L001_R1_001.fastq.gz,locust-20-K10-3_L001_R2_001.fastq.gz,3,locust
+locust-20-K3-1,KeminCaninePartTwo,20,K3,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-20-K3-1_L001_R1_001.fastq.gz,locust-20-K3-1_L001_R2_001.fastq.gz,1,locust
+locust-20-K3-2,KeminCaninePartOne,20,K3,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-20-K3-2_L001_R1_001.fastq.gz,locust-20-K3-2_L001_R2_001.fastq.gz,2,locust
+locust-20-K3-3,KeminCaninePartThree,20,K3,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-20-K3-3_L001_R1_001.fastq.gz,locust-20-K3-3_L001_R2_001.fastq.gz,3,locust
+locust-20-K5-1,KeminCaninePartOne,20,K5,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-20-K5-1_L001_R1_001.fastq.gz,locust-20-K5-1_L001_R2_001.fastq.gz,1,locust
+locust-20-K5-2,KeminCaninePartThree,20,K5,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-20-K5-2_L001_R1_001.fastq.gz,locust-20-K5-2_L001_R2_001.fastq.gz,2,locust
+locust-20-K5-3,KeminCaninePartTwo,20,K5,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-20-K5-3_L001_R1_001.fastq.gz,locust-20-K5-3_L001_R2_001.fastq.gz,3,locust
+locust-20-K7-1,KeminCaninePartOne,20,K7,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-20-K7-1_L001_R1_001.fastq.gz,locust-20-K7-1_L001_R2_001.fastq.gz,1,locust
+locust-20-K7-2,KeminCaninePartTwo,20,K7,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-20-K7-2_L001_R1_001.fastq.gz,locust-20-K7-2_L001_R2_001.fastq.gz,2,locust
+locust-20-K7-3,KeminCaninePartThree,20,K7,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-20-K7-3_L001_R1_001.fastq.gz,locust-20-K7-3_L001_R2_001.fastq.gz,3,locust
+locust-5-K10-1,KeminCaninePartTwo,5,K10,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-5-K10-1_L001_R1_001.fastq.gz,locust-5-K10-1_L001_R2_001.fastq.gz,1,locust
+locust-5-K10-2,KeminCaninePartThree,5,K10,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-5-K10-2_L001_R1_001.fastq.gz,locust-5-K10-2_L001_R2_001.fastq.gz,2,locust
+locust-5-K10-3,KeminCaninePartOne,5,K10,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-5-K10-3_L001_R1_001.fastq.gz,locust-5-K10-3_L001_R2_001.fastq.gz,3,locust
+locust-5-K3-1,KeminCaninePartOne,5,K3,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-5-K3-1_L001_R1_001.fastq.gz,locust-5-K3-1_L001_R2_001.fastq.gz,1,locust
+locust-5-K3-2,KeminCaninePartThree,5,K3,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-5-K3-2_L001_R1_001.fastq.gz,locust-5-K3-2_L001_R2_001.fastq.gz,2,locust
+locust-5-K3-3,KeminCaninePartTwo,5,K3,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-5-K3-3_L001_R1_001.fastq.gz,locust-5-K3-3_L001_R2_001.fastq.gz,3,locust
+locust-5-K5-1,KeminCaninePartOne,5,K5,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-5-K5-1_L001_R1_001.fastq.gz,locust-5-K5-1_L001_R2_001.fastq.gz,1,locust
+locust-5-K5-2,KeminCaninePartTwo,5,K5,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-5-K5-2_L001_R1_001.fastq.gz,locust-5-K5-2_L001_R2_001.fastq.gz,2,locust
+locust-5-K5-3,KeminCaninePartThree,5,K5,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-5-K5-3_L001_R1_001.fastq.gz,locust-5-K5-3_L001_R2_001.fastq.gz,3,locust
+locust-5-K7-1,KeminCaninePartOne,5,K7,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-5-K7-1_L001_R1_001.fastq.gz,locust-5-K7-1_L001_R2_001.fastq.gz,1,locust
+locust-5-K7-2,KeminCaninePartTwo,5,K7,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-5-K7-2_L001_R1_001.fastq.gz,locust-5-K7-2_L001_R2_001.fastq.gz,2,locust
+locust-5-K7-3,KeminCaninePartThree,5,K7,Gums,21,locust bean gum,1mg,"0.5, 0.25, 0.05mg",locust-5-K7-3_L001_R1_001.fastq.gz,locust-5-K7-3_L001_R2_001.fastq.gz,3,locust
+MCfiber-1-K10-1,KeminCaninePartOne,1,K10,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-1-K10-1_L001_R1_001.fastq.gz,MCfiber-1-K10-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-1-K10-2,KeminCaninePartTwo,1,K10,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-1-K10-2_L001_R1_001.fastq.gz,MCfiber-1-K10-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-1-K10-3,KeminCaninePartThree,1,K10,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-1-K10-3_L001_R1_001.fastq.gz,MCfiber-1-K10-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-1-K3-1,KeminCaninePartOne,1,K3,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-1-K3-1_L001_R1_001.fastq.gz,MCfiber-1-K3-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-1-K3-2,KeminCaninePartThree,1,K3,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-1-K3-2_L001_R1_001.fastq.gz,MCfiber-1-K3-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-1-K3-3,KeminCaninePartTwo,1,K3,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-1-K3-3_L001_R1_001.fastq.gz,MCfiber-1-K3-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-1-K5-1,KeminCaninePartTwo,1,K5,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-1-K5-1_L001_R1_001.fastq.gz,MCfiber-1-K5-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-1-K5-2,KeminCaninePartThree,1,K5,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-1-K5-2_L001_R1_001.fastq.gz,MCfiber-1-K5-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-1-K5-3,KeminCaninePartOne,1,K5,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-1-K5-3_L001_R1_001.fastq.gz,MCfiber-1-K5-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-1-K7-1,KeminCaninePartOne,1,K7,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-1-K7-1_L001_R1_001.fastq.gz,MCfiber-1-K7-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-1-K7-2,KeminCaninePartThree,1,K7,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-1-K7-2_L001_R1_001.fastq.gz,MCfiber-1-K7-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-1-K7-3,KeminCaninePartTwo,1,K7,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-1-K7-3_L001_R1_001.fastq.gz,MCfiber-1-K7-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-10-K10-1,KeminCaninePartThree,10,K10,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-10-K10-1_L001_R1_001.fastq.gz,MCfiber-10-K10-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-10-K10-2,KeminCaninePartTwo,10,K10,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-10-K10-2_L001_R1_001.fastq.gz,MCfiber-10-K10-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-10-K10-3,KeminCaninePartOne,10,K10,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-10-K10-3_L001_R1_001.fastq.gz,MCfiber-10-K10-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-10-K3-1,KeminCaninePartTwo,10,K3,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-10-K3-1_L001_R1_001.fastq.gz,MCfiber-10-K3-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-10-K3-2,KeminCaninePartThree,10,K3,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-10-K3-2_L001_R1_001.fastq.gz,MCfiber-10-K3-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-10-K3-3,KeminCaninePartOne,10,K3,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-10-K3-3_L001_R1_001.fastq.gz,MCfiber-10-K3-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-10-K5-1,KeminCaninePartOne,10,K5,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-10-K5-1_L001_R1_001.fastq.gz,MCfiber-10-K5-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-10-K5-2,KeminCaninePartTwo,10,K5,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-10-K5-2_L001_R1_001.fastq.gz,MCfiber-10-K5-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-10-K5-3,KeminCaninePartThree,10,K5,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-10-K5-3_L001_R1_001.fastq.gz,MCfiber-10-K5-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-10-K7-1,KeminCaninePartThree,10,K7,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-10-K7-1_L001_R1_001.fastq.gz,MCfiber-10-K7-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-10-K7-2,KeminCaninePartTwo,10,K7,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-10-K7-2_L001_R1_001.fastq.gz,MCfiber-10-K7-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-10-K7-3,KeminCaninePartOne,10,K7,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-10-K7-3_L001_R1_001.fastq.gz,MCfiber-10-K7-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-20-K10-1,KeminCaninePartTwo,20,K10,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-20-K10-1_L001_R1_001.fastq.gz,MCfiber-20-K10-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-20-K10-2,KeminCaninePartThree,20,K10,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-20-K10-2_L001_R1_001.fastq.gz,MCfiber-20-K10-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-20-K10-3,KeminCaninePartOne,20,K10,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-20-K10-3_L001_R1_001.fastq.gz,MCfiber-20-K10-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-20-K3-1,KeminCaninePartTwo,20,K3,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-20-K3-1_L001_R1_001.fastq.gz,MCfiber-20-K3-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-20-K3-2,KeminCaninePartOne,20,K3,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-20-K3-2_L001_R1_001.fastq.gz,MCfiber-20-K3-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-20-K3-3,KeminCaninePartThree,20,K3,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-20-K3-3_L001_R1_001.fastq.gz,MCfiber-20-K3-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-20-K5-1,KeminCaninePartThree,20,K5,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-20-K5-1_L001_R1_001.fastq.gz,MCfiber-20-K5-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-20-K5-2,KeminCaninePartTwo,20,K5,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-20-K5-2_L001_R1_001.fastq.gz,MCfiber-20-K5-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-20-K5-3,KeminCaninePartOne,20,K5,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-20-K5-3_L001_R1_001.fastq.gz,MCfiber-20-K5-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-20-K7-1,KeminCaninePartOne,20,K7,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-20-K7-1_L001_R1_001.fastq.gz,MCfiber-20-K7-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-20-K7-2,KeminCaninePartTwo,20,K7,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-20-K7-2_L001_R1_001.fastq.gz,MCfiber-20-K7-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-20-K7-3,KeminCaninePartThree,20,K7,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-20-K7-3_L001_R1_001.fastq.gz,MCfiber-20-K7-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-5-K10-1,KeminCaninePartThree,5,K10,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-5-K10-1_L001_R1_001.fastq.gz,MCfiber-5-K10-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-5-K10-2,KeminCaninePartTwo,5,K10,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-5-K10-2_L001_R1_001.fastq.gz,MCfiber-5-K10-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-5-K10-3,KeminCaninePartOne,5,K10,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-5-K10-3_L001_R1_001.fastq.gz,MCfiber-5-K10-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-5-K3-1,KeminCaninePartOne,5,K3,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-5-K3-1_L001_R1_001.fastq.gz,MCfiber-5-K3-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-5-K3-2,KeminCaninePartTwo,5,K3,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-5-K3-2_L001_R1_001.fastq.gz,MCfiber-5-K3-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-5-K3-3,KeminCaninePartThree,5,K3,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-5-K3-3_L001_R1_001.fastq.gz,MCfiber-5-K3-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-5-K5-1,KeminCaninePartThree,5,K5,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-5-K5-1_L001_R1_001.fastq.gz,MCfiber-5-K5-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-5-K5-2,KeminCaninePartOne,5,K5,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-5-K5-2_L001_R1_001.fastq.gz,MCfiber-5-K5-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-5-K5-3,KeminCaninePartTwo,5,K5,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-5-K5-3_L001_R1_001.fastq.gz,MCfiber-5-K5-3_L001_R2_001.fastq.gz,3,MCfiber
+MCfiber-5-K7-1,KeminCaninePartThree,5,K7,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-5-K7-1_L001_R1_001.fastq.gz,MCfiber-5-K7-1_L001_R2_001.fastq.gz,1,MCfiber
+MCfiber-5-K7-2,KeminCaninePartOne,5,K7,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-5-K7-2_L001_R1_001.fastq.gz,MCfiber-5-K7-2_L001_R2_001.fastq.gz,2,MCfiber
+MCfiber-5-K7-3,KeminCaninePartTwo,5,K7,Complex fiber,4,Micronized cassava fiber,20mg,"10,5,1mg",MCfiber-5-K7-3_L001_R1_001.fastq.gz,MCfiber-5-K7-3_L001_R2_001.fastq.gz,3,MCfiber
+Mushroom-1-K10-1,KeminCaninePartTwo,1,K10,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-1-K10-1_L001_R1_001.fastq.gz,Mushroom-1-K10-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-1-K10-2,KeminCaninePartThree,1,K10,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-1-K10-2_L001_R1_001.fastq.gz,Mushroom-1-K10-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-1-K10-3,KeminCaninePartOne,1,K10,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-1-K10-3_L001_R1_001.fastq.gz,Mushroom-1-K10-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-1-K3-1,KeminCaninePartThree,1,K3,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-1-K3-1_L001_R1_001.fastq.gz,Mushroom-1-K3-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-1-K3-2,KeminCaninePartOne,1,K3,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-1-K3-2_L001_R1_001.fastq.gz,Mushroom-1-K3-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-1-K3-3,KeminCaninePartTwo,1,K3,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-1-K3-3_L001_R1_001.fastq.gz,Mushroom-1-K3-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-1-K5-1,KeminCaninePartTwo,1,K5,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-1-K5-1_L001_R1_001.fastq.gz,Mushroom-1-K5-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-1-K5-2,KeminCaninePartThree,1,K5,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-1-K5-2_L001_R1_001.fastq.gz,Mushroom-1-K5-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-1-K5-3,KeminCaninePartOne,1,K5,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-1-K5-3_L001_R1_001.fastq.gz,Mushroom-1-K5-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-1-K7-1,KeminCaninePartThree,1,K7,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-1-K7-1_L001_R1_001.fastq.gz,Mushroom-1-K7-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-1-K7-2,KeminCaninePartTwo,1,K7,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-1-K7-2_L001_R1_001.fastq.gz,Mushroom-1-K7-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-1-K7-3,KeminCaninePartOne,1,K7,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-1-K7-3_L001_R1_001.fastq.gz,Mushroom-1-K7-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-10-K10-1,KeminCaninePartThree,10,K10,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-10-K10-1_L001_R1_001.fastq.gz,Mushroom-10-K10-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-10-K10-2,KeminCaninePartOne,10,K10,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-10-K10-2_L001_R1_001.fastq.gz,Mushroom-10-K10-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-10-K10-3,KeminCaninePartTwo,10,K10,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-10-K10-3_L001_R1_001.fastq.gz,Mushroom-10-K10-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-10-K3-1,KeminCaninePartTwo,10,K3,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-10-K3-1_L001_R1_001.fastq.gz,Mushroom-10-K3-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-10-K3-2,KeminCaninePartOne,10,K3,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-10-K3-2_L001_R1_001.fastq.gz,Mushroom-10-K3-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-10-K3-3,KeminCaninePartThree,10,K3,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-10-K3-3_L001_R1_001.fastq.gz,Mushroom-10-K3-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-10-K5-1,KeminCaninePartTwo,10,K5,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-10-K5-1_L001_R1_001.fastq.gz,Mushroom-10-K5-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-10-K5-2,KeminCaninePartOne,10,K5,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-10-K5-2_L001_R1_001.fastq.gz,Mushroom-10-K5-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-10-K5-3,KeminCaninePartThree,10,K5,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-10-K5-3_L001_R1_001.fastq.gz,Mushroom-10-K5-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-10-K7-1,KeminCaninePartTwo,10,K7,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-10-K7-1_L001_R1_001.fastq.gz,Mushroom-10-K7-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-10-K7-2,KeminCaninePartThree,10,K7,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-10-K7-2_L001_R1_001.fastq.gz,Mushroom-10-K7-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-10-K7-3,KeminCaninePartOne,10,K7,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-10-K7-3_L001_R1_001.fastq.gz,Mushroom-10-K7-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-20-K10-1,KeminCaninePartOne,20,K10,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-20-K10-1_L001_R1_001.fastq.gz,Mushroom-20-K10-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-20-K10-2,KeminCaninePartTwo,20,K10,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-20-K10-2_L001_R1_001.fastq.gz,Mushroom-20-K10-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-20-K10-3,KeminCaninePartThree,20,K10,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-20-K10-3_L001_R1_001.fastq.gz,Mushroom-20-K10-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-20-K3-1,KeminCaninePartOne,20,K3,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-20-K3-1_L001_R1_001.fastq.gz,Mushroom-20-K3-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-20-K3-2,KeminCaninePartTwo,20,K3,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-20-K3-2_L001_R1_001.fastq.gz,Mushroom-20-K3-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-20-K3-3,KeminCaninePartThree,20,K3,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-20-K3-3_L001_R1_001.fastq.gz,Mushroom-20-K3-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-20-K5-1,KeminCaninePartTwo,20,K5,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-20-K5-1_L001_R1_001.fastq.gz,Mushroom-20-K5-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-20-K5-2,KeminCaninePartThree,20,K5,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-20-K5-2_L001_R1_001.fastq.gz,Mushroom-20-K5-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-20-K5-3,KeminCaninePartOne,20,K5,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-20-K5-3_L001_R1_001.fastq.gz,Mushroom-20-K5-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-20-K7-1,KeminCaninePartThree,20,K7,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-20-K7-1_L001_R1_001.fastq.gz,Mushroom-20-K7-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-20-K7-2,KeminCaninePartOne,20,K7,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-20-K7-2_L001_R1_001.fastq.gz,Mushroom-20-K7-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-20-K7-3,KeminCaninePartTwo,20,K7,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-20-K7-3_L001_R1_001.fastq.gz,Mushroom-20-K7-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-5-K10-1,KeminCaninePartOne,5,K10,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-5-K10-1_L001_R1_001.fastq.gz,Mushroom-5-K10-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-5-K10-2,KeminCaninePartThree,5,K10,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-5-K10-2_L001_R1_001.fastq.gz,Mushroom-5-K10-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-5-K10-3,KeminCaninePartTwo,5,K10,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-5-K10-3_L001_R1_001.fastq.gz,Mushroom-5-K10-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-5-K3-1,KeminCaninePartThree,5,K3,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-5-K3-1_L001_R1_001.fastq.gz,Mushroom-5-K3-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-5-K3-2,KeminCaninePartTwo,5,K3,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-5-K3-2_L001_R1_001.fastq.gz,Mushroom-5-K3-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-5-K3-3,KeminCaninePartOne,5,K3,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-5-K3-3_L001_R1_001.fastq.gz,Mushroom-5-K3-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-5-K5-1,KeminCaninePartThree,5,K5,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-5-K5-1_L001_R1_001.fastq.gz,Mushroom-5-K5-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-5-K5-2,KeminCaninePartOne,5,K5,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-5-K5-2_L001_R1_001.fastq.gz,Mushroom-5-K5-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-5-K5-3,KeminCaninePartTwo,5,K5,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-5-K5-3_L001_R1_001.fastq.gz,Mushroom-5-K5-3_L001_R2_001.fastq.gz,3,Mushroom
+Mushroom-5-K7-1,KeminCaninePartThree,5,K7,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-5-K7-1_L001_R1_001.fastq.gz,Mushroom-5-K7-1_L001_R2_001.fastq.gz,1,Mushroom
+Mushroom-5-K7-2,KeminCaninePartOne,5,K7,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-5-K7-2_L001_R1_001.fastq.gz,Mushroom-5-K7-2_L001_R2_001.fastq.gz,2,Mushroom
+Mushroom-5-K7-3,KeminCaninePartTwo,5,K7,Oligosaccharrides,23,Mushroom chitosan,20mg,"10,5,1mg",Mushroom-5-K7-3_L001_R1_001.fastq.gz,Mushroom-5-K7-3_L001_R2_001.fastq.gz,3,Mushroom
+Oat-B-1-K10-1,KeminCaninePartOne,1,K10,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-1-K10-1_L001_R1_001.fastq.gz,Oat-B-1-K10-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-1-K10-2,KeminCaninePartTwo,1,K10,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-1-K10-2_L001_R1_001.fastq.gz,Oat-B-1-K10-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-1-K10-3,KeminCaninePartThree,1,K10,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-1-K10-3_L001_R1_001.fastq.gz,Oat-B-1-K10-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-1-K3-1,KeminCaninePartTwo,1,K3,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-1-K3-1_L001_R1_001.fastq.gz,Oat-B-1-K3-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-1-K3-2,KeminCaninePartOne,1,K3,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-1-K3-2_L001_R1_001.fastq.gz,Oat-B-1-K3-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-1-K3-3,KeminCaninePartThree,1,K3,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-1-K3-3_L001_R1_001.fastq.gz,Oat-B-1-K3-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-1-K5-1,KeminCaninePartThree,1,K5,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-1-K5-1_L001_R1_001.fastq.gz,Oat-B-1-K5-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-1-K5-2,KeminCaninePartTwo,1,K5,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-1-K5-2_L001_R1_001.fastq.gz,Oat-B-1-K5-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-1-K5-3,KeminCaninePartOne,1,K5,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-1-K5-3_L001_R1_001.fastq.gz,Oat-B-1-K5-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-1-K7-1,KeminCaninePartOne,1,K7,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-1-K7-1_L001_R1_001.fastq.gz,Oat-B-1-K7-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-1-K7-2,KeminCaninePartTwo,1,K7,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-1-K7-2_L001_R1_001.fastq.gz,Oat-B-1-K7-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-1-K7-3,KeminCaninePartThree,1,K7,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-1-K7-3_L001_R1_001.fastq.gz,Oat-B-1-K7-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-10-K10-1,KeminCaninePartThree,10,K10,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-10-K10-1_L001_R1_001.fastq.gz,Oat-B-10-K10-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-10-K10-2,KeminCaninePartOne,10,K10,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-10-K10-2_L001_R1_001.fastq.gz,Oat-B-10-K10-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-10-K10-3,KeminCaninePartTwo,10,K10,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-10-K10-3_L001_R1_001.fastq.gz,Oat-B-10-K10-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-10-K3-1,KeminCaninePartThree,10,K3,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-10-K3-1_L001_R1_001.fastq.gz,Oat-B-10-K3-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-10-K3-2,KeminCaninePartTwo,10,K3,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-10-K3-2_L001_R1_001.fastq.gz,Oat-B-10-K3-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-10-K3-3,KeminCaninePartOne,10,K3,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-10-K3-3_L001_R1_001.fastq.gz,Oat-B-10-K3-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-10-K5-1,KeminCaninePartOne,10,K5,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-10-K5-1_L001_R1_001.fastq.gz,Oat-B-10-K5-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-10-K5-2,KeminCaninePartThree,10,K5,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-10-K5-2_L001_R1_001.fastq.gz,Oat-B-10-K5-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-10-K5-3,KeminCaninePartTwo,10,K5,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-10-K5-3_L001_R1_001.fastq.gz,Oat-B-10-K5-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-10-K7-1,KeminCaninePartOne,10,K7,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-10-K7-1_L001_R1_001.fastq.gz,Oat-B-10-K7-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-10-K7-2,KeminCaninePartThree,10,K7,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-10-K7-2_L001_R1_001.fastq.gz,Oat-B-10-K7-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-10-K7-3,KeminCaninePartTwo,10,K7,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-10-K7-3_L001_R1_001.fastq.gz,Oat-B-10-K7-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-20-K10-1,KeminCaninePartThree,20,K10,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-20-K10-1_L001_R1_001.fastq.gz,Oat-B-20-K10-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-20-K10-2,KeminCaninePartTwo,20,K10,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-20-K10-2_L001_R1_001.fastq.gz,Oat-B-20-K10-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-20-K10-3,KeminCaninePartOne,20,K10,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-20-K10-3_L001_R1_001.fastq.gz,Oat-B-20-K10-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-20-K3-1,KeminCaninePartThree,20,K3,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-20-K3-1_L001_R1_001.fastq.gz,Oat-B-20-K3-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-20-K3-2,KeminCaninePartTwo,20,K3,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-20-K3-2_L001_R1_001.fastq.gz,Oat-B-20-K3-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-20-K3-3,KeminCaninePartOne,20,K3,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-20-K3-3_L001_R1_001.fastq.gz,Oat-B-20-K3-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-20-K5-1,KeminCaninePartTwo,20,K5,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-20-K5-1_L001_R1_001.fastq.gz,Oat-B-20-K5-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-20-K5-2,KeminCaninePartThree,20,K5,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-20-K5-2_L001_R1_001.fastq.gz,Oat-B-20-K5-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-20-K5-3,KeminCaninePartOne,20,K5,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-20-K5-3_L001_R1_001.fastq.gz,Oat-B-20-K5-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-20-K7-1,KeminCaninePartTwo,20,K7,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-20-K7-1_L001_R1_001.fastq.gz,Oat-B-20-K7-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-20-K7-2,KeminCaninePartOne,20,K7,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-20-K7-2_L001_R1_001.fastq.gz,Oat-B-20-K7-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-20-K7-3,KeminCaninePartThree,20,K7,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-20-K7-3_L001_R1_001.fastq.gz,Oat-B-20-K7-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-5-K10-1,KeminCaninePartThree,5,K10,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-5-K10-1_L001_R1_001.fastq.gz,Oat-B-5-K10-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-5-K10-2,KeminCaninePartTwo,5,K10,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-5-K10-2_L001_R1_001.fastq.gz,Oat-B-5-K10-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-5-K10-3,KeminCaninePartOne,5,K10,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-5-K10-3_L001_R1_001.fastq.gz,Oat-B-5-K10-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-5-K3-1,KeminCaninePartOne,5,K3,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-5-K3-1_L001_R1_001.fastq.gz,Oat-B-5-K3-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-5-K3-2,KeminCaninePartThree,5,K3,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-5-K3-2_L001_R1_001.fastq.gz,Oat-B-5-K3-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-5-K3-3,KeminCaninePartTwo,5,K3,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-5-K3-3_L001_R1_001.fastq.gz,Oat-B-5-K3-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-5-K5-1,KeminCaninePartThree,5,K5,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-5-K5-1_L001_R1_001.fastq.gz,Oat-B-5-K5-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-5-K5-2,KeminCaninePartOne,5,K5,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-5-K5-2_L001_R1_001.fastq.gz,Oat-B-5-K5-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-5-K5-3,KeminCaninePartTwo,5,K5,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-5-K5-3_L001_R1_001.fastq.gz,Oat-B-5-K5-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-B-5-K7-1,KeminCaninePartThree,5,K7,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-5-K7-1_L001_R1_001.fastq.gz,Oat-B-5-K7-1_L001_R2_001.fastq.gz,1,Oat-B
+Oat-B-5-K7-2,KeminCaninePartOne,5,K7,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-5-K7-2_L001_R1_001.fastq.gz,Oat-B-5-K7-2_L001_R2_001.fastq.gz,2,Oat-B
+Oat-B-5-K7-3,KeminCaninePartTwo,5,K7,b-glucan,2,Oat Bagasse hydrolysate-(B),20mg,"10,5,1mg",Oat-B-5-K7-3_L001_R1_001.fastq.gz,Oat-B-5-K7-3_L001_R2_001.fastq.gz,3,Oat-B
+Oat-C-1-K10-1,KeminCaninePartOne,1,K10,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-1-K10-1_L001_R1_001.fastq.gz,Oat-C-1-K10-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-1-K10-2,KeminCaninePartThree,1,K10,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-1-K10-2_L001_R1_001.fastq.gz,Oat-C-1-K10-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-1-K10-3,KeminCaninePartTwo,1,K10,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-1-K10-3_L001_R1_001.fastq.gz,Oat-C-1-K10-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-1-K3-1,KeminCaninePartThree,1,K3,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-1-K3-1_L001_R1_001.fastq.gz,Oat-C-1-K3-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-1-K3-2,KeminCaninePartTwo,1,K3,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-1-K3-2_L001_R1_001.fastq.gz,Oat-C-1-K3-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-1-K3-3,KeminCaninePartOne,1,K3,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-1-K3-3_L001_R1_001.fastq.gz,Oat-C-1-K3-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-1-K5-1,KeminCaninePartTwo,1,K5,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-1-K5-1_L001_R1_001.fastq.gz,Oat-C-1-K5-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-1-K5-2,KeminCaninePartThree,1,K5,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-1-K5-2_L001_R1_001.fastq.gz,Oat-C-1-K5-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-1-K5-3,KeminCaninePartOne,1,K5,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-1-K5-3_L001_R1_001.fastq.gz,Oat-C-1-K5-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-1-K7-1,KeminCaninePartOne,1,K7,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-1-K7-1_L001_R1_001.fastq.gz,Oat-C-1-K7-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-1-K7-2,KeminCaninePartThree,1,K7,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-1-K7-2_L001_R1_001.fastq.gz,Oat-C-1-K7-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-1-K7-3,KeminCaninePartTwo,1,K7,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-1-K7-3_L001_R1_001.fastq.gz,Oat-C-1-K7-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-10-K10-1,KeminCaninePartOne,10,K10,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-10-K10-1_L001_R1_001.fastq.gz,Oat-C-10-K10-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-10-K10-2,KeminCaninePartThree,10,K10,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-10-K10-2_L001_R1_001.fastq.gz,Oat-C-10-K10-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-10-K10-3,KeminCaninePartTwo,10,K10,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-10-K10-3_L001_R1_001.fastq.gz,Oat-C-10-K10-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-10-K3-1,KeminCaninePartThree,10,K3,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-10-K3-1_L001_R1_001.fastq.gz,Oat-C-10-K3-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-10-K3-2,KeminCaninePartOne,10,K3,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-10-K3-2_L001_R1_001.fastq.gz,Oat-C-10-K3-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-10-K3-3,KeminCaninePartTwo,10,K3,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-10-K3-3_L001_R1_001.fastq.gz,Oat-C-10-K3-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-10-K5-1,KeminCaninePartOne,10,K5,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-10-K5-1_L001_R1_001.fastq.gz,Oat-C-10-K5-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-10-K5-2,KeminCaninePartTwo,10,K5,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-10-K5-2_L001_R1_001.fastq.gz,Oat-C-10-K5-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-10-K5-3,KeminCaninePartThree,10,K5,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-10-K5-3_L001_R1_001.fastq.gz,Oat-C-10-K5-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-10-K7-1,KeminCaninePartThree,10,K7,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-10-K7-1_L001_R1_001.fastq.gz,Oat-C-10-K7-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-10-K7-2,KeminCaninePartTwo,10,K7,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-10-K7-2_L001_R1_001.fastq.gz,Oat-C-10-K7-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-10-K7-3,KeminCaninePartOne,10,K7,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-10-K7-3_L001_R1_001.fastq.gz,Oat-C-10-K7-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-20-K10-1,KeminCaninePartTwo,20,K10,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-20-K10-1_L001_R1_001.fastq.gz,Oat-C-20-K10-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-20-K10-2,KeminCaninePartThree,20,K10,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-20-K10-2_L001_R1_001.fastq.gz,Oat-C-20-K10-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-20-K10-3,KeminCaninePartOne,20,K10,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-20-K10-3_L001_R1_001.fastq.gz,Oat-C-20-K10-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-20-K3-1,KeminCaninePartTwo,20,K3,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-20-K3-1_L001_R1_001.fastq.gz,Oat-C-20-K3-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-20-K3-2,KeminCaninePartOne,20,K3,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-20-K3-2_L001_R1_001.fastq.gz,Oat-C-20-K3-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-20-K3-3,KeminCaninePartThree,20,K3,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-20-K3-3_L001_R1_001.fastq.gz,Oat-C-20-K3-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-20-K5-1,KeminCaninePartThree,20,K5,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-20-K5-1_L001_R1_001.fastq.gz,Oat-C-20-K5-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-20-K5-2,KeminCaninePartTwo,20,K5,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-20-K5-2_L001_R1_001.fastq.gz,Oat-C-20-K5-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-20-K5-3,KeminCaninePartOne,20,K5,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-20-K5-3_L001_R1_001.fastq.gz,Oat-C-20-K5-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-20-K7-1,KeminCaninePartThree,20,K7,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-20-K7-1_L001_R1_001.fastq.gz,Oat-C-20-K7-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-20-K7-2,KeminCaninePartTwo,20,K7,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-20-K7-2_L001_R1_001.fastq.gz,Oat-C-20-K7-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-20-K7-3,KeminCaninePartOne,20,K7,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-20-K7-3_L001_R1_001.fastq.gz,Oat-C-20-K7-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-5-K10-1,KeminCaninePartThree,5,K10,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-5-K10-1_L001_R1_001.fastq.gz,Oat-C-5-K10-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-5-K10-2,KeminCaninePartOne,5,K10,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-5-K10-2_L001_R1_001.fastq.gz,Oat-C-5-K10-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-5-K10-3,KeminCaninePartTwo,5,K10,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-5-K10-3_L001_R1_001.fastq.gz,Oat-C-5-K10-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-5-K3-1,KeminCaninePartThree,5,K3,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-5-K3-1_L001_R1_001.fastq.gz,Oat-C-5-K3-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-5-K3-2,KeminCaninePartTwo,5,K3,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-5-K3-2_L001_R1_001.fastq.gz,Oat-C-5-K3-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-5-K3-3,KeminCaninePartOne,5,K3,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-5-K3-3_L001_R1_001.fastq.gz,Oat-C-5-K3-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-5-K5-1,KeminCaninePartTwo,5,K5,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-5-K5-1_L001_R1_001.fastq.gz,Oat-C-5-K5-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-5-K5-2,KeminCaninePartOne,5,K5,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-5-K5-2_L001_R1_001.fastq.gz,Oat-C-5-K5-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-5-K5-3,KeminCaninePartThree,5,K5,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-5-K5-3_L001_R1_001.fastq.gz,Oat-C-5-K5-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-C-5-K7-1,KeminCaninePartTwo,5,K7,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-5-K7-1_L001_R1_001.fastq.gz,Oat-C-5-K7-1_L001_R2_001.fastq.gz,1,Oat-C
+Oat-C-5-K7-2,KeminCaninePartThree,5,K7,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-5-K7-2_L001_R1_001.fastq.gz,Oat-C-5-K7-2_L001_R2_001.fastq.gz,2,Oat-C
+Oat-C-5-K7-3,KeminCaninePartOne,5,K7,b-glucan,1,Oat Bagasse-Control,20mg,"10,5,1mg",Oat-C-5-K7-3_L001_R1_001.fastq.gz,Oat-C-5-K7-3_L001_R2_001.fastq.gz,3,Oat-C
+Oat-PBV-1-K10-1,KeminCaninePartThree,1,K10,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-1-K10-1_L001_R1_001.fastq.gz,Oat-PBV-1-K10-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-1-K10-2,KeminCaninePartOne,1,K10,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-1-K10-2_L001_R1_001.fastq.gz,Oat-PBV-1-K10-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-1-K10-3,KeminCaninePartTwo,1,K10,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-1-K10-3_L001_R1_001.fastq.gz,Oat-PBV-1-K10-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-1-K3-1,KeminCaninePartThree,1,K3,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-1-K3-1_L001_R1_001.fastq.gz,Oat-PBV-1-K3-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-1-K3-2,KeminCaninePartOne,1,K3,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-1-K3-2_L001_R1_001.fastq.gz,Oat-PBV-1-K3-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-1-K3-3,KeminCaninePartTwo,1,K3,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-1-K3-3_L001_R1_001.fastq.gz,Oat-PBV-1-K3-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-1-K5-1,KeminCaninePartOne,1,K5,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-1-K5-1_L001_R1_001.fastq.gz,Oat-PBV-1-K5-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-1-K5-2,KeminCaninePartTwo,1,K5,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-1-K5-2_L001_R1_001.fastq.gz,Oat-PBV-1-K5-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-1-K5-3,KeminCaninePartThree,1,K5,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-1-K5-3_L001_R1_001.fastq.gz,Oat-PBV-1-K5-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-1-K7-1,KeminCaninePartThree,1,K7,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-1-K7-1_L001_R1_001.fastq.gz,Oat-PBV-1-K7-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-1-K7-2,KeminCaninePartTwo,1,K7,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-1-K7-2_L001_R1_001.fastq.gz,Oat-PBV-1-K7-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-1-K7-3,KeminCaninePartOne,1,K7,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-1-K7-3_L001_R1_001.fastq.gz,Oat-PBV-1-K7-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-10-K10-1,KeminCaninePartOne,10,K10,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-10-K10-1_L001_R1_001.fastq.gz,Oat-PBV-10-K10-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-10-K10-2,KeminCaninePartThree,10,K10,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-10-K10-2_L001_R1_001.fastq.gz,Oat-PBV-10-K10-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-10-K10-3,KeminCaninePartTwo,10,K10,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-10-K10-3_L001_R1_001.fastq.gz,Oat-PBV-10-K10-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-10-K3-1,KeminCaninePartThree,10,K3,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-10-K3-1_L001_R1_001.fastq.gz,Oat-PBV-10-K3-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-10-K3-2,KeminCaninePartOne,10,K3,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-10-K3-2_L001_R1_001.fastq.gz,Oat-PBV-10-K3-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-10-K3-3,KeminCaninePartTwo,10,K3,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-10-K3-3_L001_R1_001.fastq.gz,Oat-PBV-10-K3-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-10-K5-1,KeminCaninePartThree,10,K5,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-10-K5-1_L001_R1_001.fastq.gz,Oat-PBV-10-K5-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-10-K5-2,KeminCaninePartTwo,10,K5,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-10-K5-2_L001_R1_001.fastq.gz,Oat-PBV-10-K5-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-10-K5-3,KeminCaninePartOne,10,K5,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-10-K5-3_L001_R1_001.fastq.gz,Oat-PBV-10-K5-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-10-K7-1,KeminCaninePartThree,10,K7,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-10-K7-1_L001_R1_001.fastq.gz,Oat-PBV-10-K7-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-10-K7-2,KeminCaninePartOne,10,K7,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-10-K7-2_L001_R1_001.fastq.gz,Oat-PBV-10-K7-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-10-K7-3,KeminCaninePartTwo,10,K7,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-10-K7-3_L001_R1_001.fastq.gz,Oat-PBV-10-K7-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-20-K10-1,KeminCaninePartOne,20,K10,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-20-K10-1_L001_R1_001.fastq.gz,Oat-PBV-20-K10-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-20-K10-2,KeminCaninePartThree,20,K10,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-20-K10-2_L001_R1_001.fastq.gz,Oat-PBV-20-K10-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-20-K10-3,KeminCaninePartTwo,20,K10,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-20-K10-3_L001_R1_001.fastq.gz,Oat-PBV-20-K10-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-20-K3-1,KeminCaninePartOne,20,K3,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-20-K3-1_L001_R1_001.fastq.gz,Oat-PBV-20-K3-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-20-K3-2,KeminCaninePartTwo,20,K3,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-20-K3-2_L001_R1_001.fastq.gz,Oat-PBV-20-K3-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-20-K3-3,KeminCaninePartThree,20,K3,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-20-K3-3_L001_R1_001.fastq.gz,Oat-PBV-20-K3-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-20-K5-1,KeminCaninePartThree,20,K5,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-20-K5-1_L001_R1_001.fastq.gz,Oat-PBV-20-K5-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-20-K5-2,KeminCaninePartOne,20,K5,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-20-K5-2_L001_R1_001.fastq.gz,Oat-PBV-20-K5-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-20-K5-3,KeminCaninePartTwo,20,K5,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-20-K5-3_L001_R1_001.fastq.gz,Oat-PBV-20-K5-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-20-K7-1,KeminCaninePartOne,20,K7,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-20-K7-1_L001_R1_001.fastq.gz,Oat-PBV-20-K7-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-20-K7-2,KeminCaninePartTwo,20,K7,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-20-K7-2_L001_R1_001.fastq.gz,Oat-PBV-20-K7-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-20-K7-3,KeminCaninePartThree,20,K7,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-20-K7-3_L001_R1_001.fastq.gz,Oat-PBV-20-K7-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-5-K10-1,KeminCaninePartOne,5,K10,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-5-K10-1_L001_R1_001.fastq.gz,Oat-PBV-5-K10-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-5-K10-2,KeminCaninePartTwo,5,K10,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-5-K10-2_L001_R1_001.fastq.gz,Oat-PBV-5-K10-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-5-K10-3,KeminCaninePartThree,5,K10,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-5-K10-3_L001_R1_001.fastq.gz,Oat-PBV-5-K10-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-5-K3-1,KeminCaninePartOne,5,K3,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-5-K3-1_L001_R1_001.fastq.gz,Oat-PBV-5-K3-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-5-K3-2,KeminCaninePartTwo,5,K3,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-5-K3-2_L001_R1_001.fastq.gz,Oat-PBV-5-K3-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-5-K3-3,KeminCaninePartThree,5,K3,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-5-K3-3_L001_R1_001.fastq.gz,Oat-PBV-5-K3-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-5-K5-1,KeminCaninePartOne,5,K5,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-5-K5-1_L001_R1_001.fastq.gz,Oat-PBV-5-K5-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-5-K5-2,KeminCaninePartThree,5,K5,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-5-K5-2_L001_R1_001.fastq.gz,Oat-PBV-5-K5-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-5-K5-3,KeminCaninePartTwo,5,K5,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-5-K5-3_L001_R1_001.fastq.gz,Oat-PBV-5-K5-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Oat-PBV-5-K7-1,KeminCaninePartThree,5,K7,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-5-K7-1_L001_R1_001.fastq.gz,Oat-PBV-5-K7-1_L001_R2_001.fastq.gz,1,Oat-PBV
+Oat-PBV-5-K7-2,KeminCaninePartTwo,5,K7,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-5-K7-2_L001_R1_001.fastq.gz,Oat-PBV-5-K7-2_L001_R2_001.fastq.gz,2,Oat-PBV
+Oat-PBV-5-K7-3,KeminCaninePartOne,5,K7,b-glucan,3,Oat Bagasse hydrolysate-(PBV),20mg,"10,5,1mg",Oat-PBV-5-K7-3_L001_R1_001.fastq.gz,Oat-PBV-5-K7-3_L001_R2_001.fastq.gz,3,Oat-PBV
+Olive-1-K10-1,KeminCaninePartTwo,1,K10,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-1-K10-1_L001_R1_001.fastq.gz,Olive-1-K10-1_L001_R2_001.fastq.gz,1,Olive
+Olive-1-K10-2,KeminCaninePartOne,1,K10,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-1-K10-2_L001_R1_001.fastq.gz,Olive-1-K10-2_L001_R2_001.fastq.gz,2,Olive
+Olive-1-K10-3,KeminCaninePartThree,1,K10,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-1-K10-3_L001_R1_001.fastq.gz,Olive-1-K10-3_L001_R2_001.fastq.gz,3,Olive
+Olive-1-K3-1,KeminCaninePartOne,1,K3,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-1-K3-1_L001_R1_001.fastq.gz,Olive-1-K3-1_L001_R2_001.fastq.gz,1,Olive
+Olive-1-K3-2,KeminCaninePartThree,1,K3,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-1-K3-2_L001_R1_001.fastq.gz,Olive-1-K3-2_L001_R2_001.fastq.gz,2,Olive
+Olive-1-K3-3,KeminCaninePartTwo,1,K3,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-1-K3-3_L001_R1_001.fastq.gz,Olive-1-K3-3_L001_R2_001.fastq.gz,3,Olive
+Olive-1-K5-1,KeminCaninePartOne,1,K5,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-1-K5-1_L001_R1_001.fastq.gz,Olive-1-K5-1_L001_R2_001.fastq.gz,1,Olive
+Olive-1-K5-2,KeminCaninePartThree,1,K5,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-1-K5-2_L001_R1_001.fastq.gz,Olive-1-K5-2_L001_R2_001.fastq.gz,2,Olive
+Olive-1-K5-3,KeminCaninePartTwo,1,K5,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-1-K5-3_L001_R1_001.fastq.gz,Olive-1-K5-3_L001_R2_001.fastq.gz,3,Olive
+Olive-1-K7-1,KeminCaninePartOne,1,K7,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-1-K7-1_L001_R1_001.fastq.gz,Olive-1-K7-1_L001_R2_001.fastq.gz,1,Olive
+Olive-1-K7-2,KeminCaninePartTwo,1,K7,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-1-K7-2_L001_R1_001.fastq.gz,Olive-1-K7-2_L001_R2_001.fastq.gz,2,Olive
+Olive-1-K7-3,KeminCaninePartThree,1,K7,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-1-K7-3_L001_R1_001.fastq.gz,Olive-1-K7-3_L001_R2_001.fastq.gz,3,Olive
+Olive-10-K10-1,KeminCaninePartOne,10,K10,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-10-K10-1_L001_R1_001.fastq.gz,Olive-10-K10-1_L001_R2_001.fastq.gz,1,Olive
+Olive-10-K10-2,KeminCaninePartTwo,10,K10,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-10-K10-2_L001_R1_001.fastq.gz,Olive-10-K10-2_L001_R2_001.fastq.gz,2,Olive
+Olive-10-K10-3,KeminCaninePartThree,10,K10,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-10-K10-3_L001_R1_001.fastq.gz,Olive-10-K10-3_L001_R2_001.fastq.gz,3,Olive
+Olive-10-K3-1,KeminCaninePartTwo,10,K3,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-10-K3-1_L001_R1_001.fastq.gz,Olive-10-K3-1_L001_R2_001.fastq.gz,1,Olive
+Olive-10-K3-2,KeminCaninePartOne,10,K3,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-10-K3-2_L001_R1_001.fastq.gz,Olive-10-K3-2_L001_R2_001.fastq.gz,2,Olive
+Olive-10-K3-3,KeminCaninePartThree,10,K3,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-10-K3-3_L001_R1_001.fastq.gz,Olive-10-K3-3_L001_R2_001.fastq.gz,3,Olive
+Olive-10-K5-1,KeminCaninePartThree,10,K5,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-10-K5-1_L001_R1_001.fastq.gz,Olive-10-K5-1_L001_R2_001.fastq.gz,1,Olive
+Olive-10-K5-2,KeminCaninePartOne,10,K5,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-10-K5-2_L001_R1_001.fastq.gz,Olive-10-K5-2_L001_R2_001.fastq.gz,2,Olive
+Olive-10-K5-3,KeminCaninePartTwo,10,K5,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-10-K5-3_L001_R1_001.fastq.gz,Olive-10-K5-3_L001_R2_001.fastq.gz,3,Olive
+Olive-10-K7-1,KeminCaninePartOne,10,K7,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-10-K7-1_L001_R1_001.fastq.gz,Olive-10-K7-1_L001_R2_001.fastq.gz,1,Olive
+Olive-10-K7-2,KeminCaninePartThree,10,K7,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-10-K7-2_L001_R1_001.fastq.gz,Olive-10-K7-2_L001_R2_001.fastq.gz,2,Olive
+Olive-10-K7-3,KeminCaninePartTwo,10,K7,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-10-K7-3_L001_R1_001.fastq.gz,Olive-10-K7-3_L001_R2_001.fastq.gz,3,Olive
+Olive-20-K10-1,KeminCaninePartThree,20,K10,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-20-K10-1_L001_R1_001.fastq.gz,Olive-20-K10-1_L001_R2_001.fastq.gz,1,Olive
+Olive-20-K10-2,KeminCaninePartTwo,20,K10,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-20-K10-2_L001_R1_001.fastq.gz,Olive-20-K10-2_L001_R2_001.fastq.gz,2,Olive
+Olive-20-K10-3,KeminCaninePartOne,20,K10,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-20-K10-3_L001_R1_001.fastq.gz,Olive-20-K10-3_L001_R2_001.fastq.gz,3,Olive
+Olive-20-K3-1,KeminCaninePartOne,20,K3,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-20-K3-1_L001_R1_001.fastq.gz,Olive-20-K3-1_L001_R2_001.fastq.gz,1,Olive
+Olive-20-K3-2,KeminCaninePartThree,20,K3,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-20-K3-2_L001_R1_001.fastq.gz,Olive-20-K3-2_L001_R2_001.fastq.gz,2,Olive
+Olive-20-K3-3,KeminCaninePartTwo,20,K3,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-20-K3-3_L001_R1_001.fastq.gz,Olive-20-K3-3_L001_R2_001.fastq.gz,3,Olive
+Olive-20-K5-1,KeminCaninePartOne,20,K5,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-20-K5-1_L001_R1_001.fastq.gz,Olive-20-K5-1_L001_R2_001.fastq.gz,1,Olive
+Olive-20-K5-2,KeminCaninePartThree,20,K5,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-20-K5-2_L001_R1_001.fastq.gz,Olive-20-K5-2_L001_R2_001.fastq.gz,2,Olive
+Olive-20-K5-3,KeminCaninePartTwo,20,K5,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-20-K5-3_L001_R1_001.fastq.gz,Olive-20-K5-3_L001_R2_001.fastq.gz,3,Olive
+Olive-20-K7-1,KeminCaninePartTwo,20,K7,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-20-K7-1_L001_R1_001.fastq.gz,Olive-20-K7-1_L001_R2_001.fastq.gz,1,Olive
+Olive-20-K7-2,KeminCaninePartThree,20,K7,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-20-K7-2_L001_R1_001.fastq.gz,Olive-20-K7-2_L001_R2_001.fastq.gz,2,Olive
+Olive-20-K7-3,KeminCaninePartOne,20,K7,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-20-K7-3_L001_R1_001.fastq.gz,Olive-20-K7-3_L001_R2_001.fastq.gz,3,Olive
+Olive-5-K10-1,KeminCaninePartThree,5,K10,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-5-K10-1_L001_R1_001.fastq.gz,Olive-5-K10-1_L001_R2_001.fastq.gz,1,Olive
+Olive-5-K10-2,KeminCaninePartOne,5,K10,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-5-K10-2_L001_R1_001.fastq.gz,Olive-5-K10-2_L001_R2_001.fastq.gz,2,Olive
+Olive-5-K10-3,KeminCaninePartTwo,5,K10,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-5-K10-3_L001_R1_001.fastq.gz,Olive-5-K10-3_L001_R2_001.fastq.gz,3,Olive
+Olive-5-K3-1,KeminCaninePartTwo,5,K3,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-5-K3-1_L001_R1_001.fastq.gz,Olive-5-K3-1_L001_R2_001.fastq.gz,1,Olive
+Olive-5-K3-2,KeminCaninePartThree,5,K3,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-5-K3-2_L001_R1_001.fastq.gz,Olive-5-K3-2_L001_R2_001.fastq.gz,2,Olive
+Olive-5-K3-3,KeminCaninePartOne,5,K3,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-5-K3-3_L001_R1_001.fastq.gz,Olive-5-K3-3_L001_R2_001.fastq.gz,3,Olive
+Olive-5-K5-1,KeminCaninePartOne,5,K5,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-5-K5-1_L001_R1_001.fastq.gz,Olive-5-K5-1_L001_R2_001.fastq.gz,1,Olive
+Olive-5-K5-2,KeminCaninePartTwo,5,K5,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-5-K5-2_L001_R1_001.fastq.gz,Olive-5-K5-2_L001_R2_001.fastq.gz,2,Olive
+Olive-5-K5-3,KeminCaninePartThree,5,K5,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-5-K5-3_L001_R1_001.fastq.gz,Olive-5-K5-3_L001_R2_001.fastq.gz,3,Olive
+Olive-5-K7-1,KeminCaninePartThree,5,K7,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-5-K7-1_L001_R1_001.fastq.gz,Olive-5-K7-1_L001_R2_001.fastq.gz,1,Olive
+Olive-5-K7-2,KeminCaninePartOne,5,K7,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-5-K7-2_L001_R1_001.fastq.gz,Olive-5-K7-2_L001_R2_001.fastq.gz,2,Olive
+Olive-5-K7-3,KeminCaninePartTwo,5,K7,Botanicals,11,Olive Flour,20mg,"10,5,1mg",Olive-5-K7-3_L001_R1_001.fastq.gz,Olive-5-K7-3_L001_R2_001.fastq.gz,3,Olive
+Pomegranate-1-K10-1,KeminCaninePartOne,1,K10,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-1-K10-1_L001_R1_001.fastq.gz,Pomegranate-1-K10-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-1-K10-2,KeminCaninePartTwo,1,K10,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-1-K10-2_L001_R1_001.fastq.gz,Pomegranate-1-K10-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-1-K10-3,KeminCaninePartThree,1,K10,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-1-K10-3_L001_R1_001.fastq.gz,Pomegranate-1-K10-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-1-K3-1,KeminCaninePartOne,1,K3,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-1-K3-1_L001_R1_001.fastq.gz,Pomegranate-1-K3-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-1-K3-2,KeminCaninePartTwo,1,K3,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-1-K3-2_L001_R1_001.fastq.gz,Pomegranate-1-K3-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-1-K3-3,KeminCaninePartThree,1,K3,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-1-K3-3_L001_R1_001.fastq.gz,Pomegranate-1-K3-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-1-K5-1,KeminCaninePartTwo,1,K5,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-1-K5-1_L001_R1_001.fastq.gz,Pomegranate-1-K5-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-1-K5-2,KeminCaninePartOne,1,K5,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-1-K5-2_L001_R1_001.fastq.gz,Pomegranate-1-K5-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-1-K5-3,KeminCaninePartThree,1,K5,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-1-K5-3_L001_R1_001.fastq.gz,Pomegranate-1-K5-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-1-K7-1,KeminCaninePartOne,1,K7,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-1-K7-1_L001_R1_001.fastq.gz,Pomegranate-1-K7-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-1-K7-2,KeminCaninePartTwo,1,K7,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-1-K7-2_L001_R1_001.fastq.gz,Pomegranate-1-K7-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-1-K7-3,KeminCaninePartThree,1,K7,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-1-K7-3_L001_R1_001.fastq.gz,Pomegranate-1-K7-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-10-K10-1,KeminCaninePartOne,10,K10,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-10-K10-1_L001_R1_001.fastq.gz,Pomegranate-10-K10-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-10-K10-2,KeminCaninePartThree,10,K10,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-10-K10-2_L001_R1_001.fastq.gz,Pomegranate-10-K10-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-10-K10-3,KeminCaninePartTwo,10,K10,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-10-K10-3_L001_R1_001.fastq.gz,Pomegranate-10-K10-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-10-K3-1,KeminCaninePartOne,10,K3,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-10-K3-1_L001_R1_001.fastq.gz,Pomegranate-10-K3-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-10-K3-2,KeminCaninePartTwo,10,K3,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-10-K3-2_L001_R1_001.fastq.gz,Pomegranate-10-K3-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-10-K3-3,KeminCaninePartThree,10,K3,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-10-K3-3_L001_R1_001.fastq.gz,Pomegranate-10-K3-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-10-K5-1,KeminCaninePartThree,10,K5,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-10-K5-1_L001_R1_001.fastq.gz,Pomegranate-10-K5-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-10-K5-2,KeminCaninePartTwo,10,K5,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-10-K5-2_L001_R1_001.fastq.gz,Pomegranate-10-K5-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-10-K5-3,KeminCaninePartOne,10,K5,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-10-K5-3_L001_R1_001.fastq.gz,Pomegranate-10-K5-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-10-K7-1,KeminCaninePartOne,10,K7,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-10-K7-1_L001_R1_001.fastq.gz,Pomegranate-10-K7-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-10-K7-2,KeminCaninePartThree,10,K7,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-10-K7-2_L001_R1_001.fastq.gz,Pomegranate-10-K7-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-10-K7-3,KeminCaninePartTwo,10,K7,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-10-K7-3_L001_R1_001.fastq.gz,Pomegranate-10-K7-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-20-K10-1,KeminCaninePartTwo,20,K10,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-20-K10-1_L001_R1_001.fastq.gz,Pomegranate-20-K10-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-20-K10-2,KeminCaninePartThree,20,K10,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-20-K10-2_L001_R1_001.fastq.gz,Pomegranate-20-K10-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-20-K10-3,KeminCaninePartOne,20,K10,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-20-K10-3_L001_R1_001.fastq.gz,Pomegranate-20-K10-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-20-K3-1,KeminCaninePartThree,20,K3,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-20-K3-1_L001_R1_001.fastq.gz,Pomegranate-20-K3-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-20-K3-2,KeminCaninePartOne,20,K3,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-20-K3-2_L001_R1_001.fastq.gz,Pomegranate-20-K3-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-20-K3-3,KeminCaninePartTwo,20,K3,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-20-K3-3_L001_R1_001.fastq.gz,Pomegranate-20-K3-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-20-K5-1,KeminCaninePartTwo,20,K5,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-20-K5-1_L001_R1_001.fastq.gz,Pomegranate-20-K5-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-20-K5-2,KeminCaninePartThree,20,K5,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-20-K5-2_L001_R1_001.fastq.gz,Pomegranate-20-K5-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-20-K5-3,KeminCaninePartOne,20,K5,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-20-K5-3_L001_R1_001.fastq.gz,Pomegranate-20-K5-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-20-K7-1,KeminCaninePartTwo,20,K7,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-20-K7-1_L001_R1_001.fastq.gz,Pomegranate-20-K7-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-20-K7-2,KeminCaninePartThree,20,K7,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-20-K7-2_L001_R1_001.fastq.gz,Pomegranate-20-K7-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-20-K7-3,KeminCaninePartOne,20,K7,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-20-K7-3_L001_R1_001.fastq.gz,Pomegranate-20-K7-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-5-K10-1,KeminCaninePartTwo,5,K10,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-5-K10-1_L001_R1_001.fastq.gz,Pomegranate-5-K10-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-5-K10-2,KeminCaninePartThree,5,K10,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-5-K10-2_L001_R1_001.fastq.gz,Pomegranate-5-K10-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-5-K10-3,KeminCaninePartOne,5,K10,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-5-K10-3_L001_R1_001.fastq.gz,Pomegranate-5-K10-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-5-K3-1,KeminCaninePartThree,5,K3,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-5-K3-1_L001_R1_001.fastq.gz,Pomegranate-5-K3-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-5-K3-2,KeminCaninePartOne,5,K3,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-5-K3-2_L001_R1_001.fastq.gz,Pomegranate-5-K3-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-5-K3-3,KeminCaninePartTwo,5,K3,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-5-K3-3_L001_R1_001.fastq.gz,Pomegranate-5-K3-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-5-K5-1,KeminCaninePartTwo,5,K5,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-5-K5-1_L001_R1_001.fastq.gz,Pomegranate-5-K5-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-5-K5-2,KeminCaninePartOne,5,K5,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-5-K5-2_L001_R1_001.fastq.gz,Pomegranate-5-K5-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-5-K5-3,KeminCaninePartThree,5,K5,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-5-K5-3_L001_R1_001.fastq.gz,Pomegranate-5-K5-3_L001_R2_001.fastq.gz,3,Pomegranate
+Pomegranate-5-K7-1,KeminCaninePartThree,5,K7,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-5-K7-1_L001_R1_001.fastq.gz,Pomegranate-5-K7-1_L001_R2_001.fastq.gz,1,Pomegranate
+Pomegranate-5-K7-2,KeminCaninePartOne,5,K7,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-5-K7-2_L001_R1_001.fastq.gz,Pomegranate-5-K7-2_L001_R2_001.fastq.gz,2,Pomegranate
+Pomegranate-5-K7-3,KeminCaninePartTwo,5,K7,Botanicals,14,pomegranate powder,20mg,"10,5,1mg",Pomegranate-5-K7-3_L001_R1_001.fastq.gz,Pomegranate-5-K7-3_L001_R2_001.fastq.gz,3,Pomegranate
+Psyllium-1-K10-1,KeminCaninePartTwo,1,K10,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-1-K10-1_L001_R1_001.fastq.gz,Psyllium-1-K10-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-1-K10-2,KeminCaninePartOne,1,K10,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-1-K10-2_L001_R1_001.fastq.gz,Psyllium-1-K10-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-1-K10-3,KeminCaninePartThree,1,K10,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-1-K10-3_L001_R1_001.fastq.gz,Psyllium-1-K10-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-1-K3-1,KeminCaninePartThree,1,K3,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-1-K3-1_L001_R1_001.fastq.gz,Psyllium-1-K3-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-1-K3-2,KeminCaninePartOne,1,K3,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-1-K3-2_L001_R1_001.fastq.gz,Psyllium-1-K3-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-1-K3-3,KeminCaninePartTwo,1,K3,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-1-K3-3_L001_R1_001.fastq.gz,Psyllium-1-K3-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-1-K5-1,KeminCaninePartThree,1,K5,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-1-K5-1_L001_R1_001.fastq.gz,Psyllium-1-K5-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-1-K5-2,KeminCaninePartTwo,1,K5,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-1-K5-2_L001_R1_001.fastq.gz,Psyllium-1-K5-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-1-K5-3,KeminCaninePartOne,1,K5,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-1-K5-3_L001_R1_001.fastq.gz,Psyllium-1-K5-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-1-K7-1,KeminCaninePartTwo,1,K7,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-1-K7-1_L001_R1_001.fastq.gz,Psyllium-1-K7-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-1-K7-2,KeminCaninePartThree,1,K7,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-1-K7-2_L001_R1_001.fastq.gz,Psyllium-1-K7-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-1-K7-3,KeminCaninePartOne,1,K7,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-1-K7-3_L001_R1_001.fastq.gz,Psyllium-1-K7-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-10-K10-1,KeminCaninePartOne,10,K10,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-10-K10-1_L001_R1_001.fastq.gz,Psyllium-10-K10-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-10-K10-2,KeminCaninePartThree,10,K10,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-10-K10-2_L001_R1_001.fastq.gz,Psyllium-10-K10-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-10-K10-3,KeminCaninePartTwo,10,K10,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-10-K10-3_L001_R1_001.fastq.gz,Psyllium-10-K10-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-10-K3-1,KeminCaninePartTwo,10,K3,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-10-K3-1_L001_R1_001.fastq.gz,Psyllium-10-K3-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-10-K3-2,KeminCaninePartThree,10,K3,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-10-K3-2_L001_R1_001.fastq.gz,Psyllium-10-K3-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-10-K3-3,KeminCaninePartOne,10,K3,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-10-K3-3_L001_R1_001.fastq.gz,Psyllium-10-K3-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-10-K5-1,KeminCaninePartOne,10,K5,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-10-K5-1_L001_R1_001.fastq.gz,Psyllium-10-K5-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-10-K5-2,KeminCaninePartThree,10,K5,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-10-K5-2_L001_R1_001.fastq.gz,Psyllium-10-K5-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-10-K5-3,KeminCaninePartTwo,10,K5,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-10-K5-3_L001_R1_001.fastq.gz,Psyllium-10-K5-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-10-K7-1,KeminCaninePartOne,10,K7,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-10-K7-1_L001_R1_001.fastq.gz,Psyllium-10-K7-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-10-K7-2,KeminCaninePartThree,10,K7,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-10-K7-2_L001_R1_001.fastq.gz,Psyllium-10-K7-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-10-K7-3,KeminCaninePartTwo,10,K7,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-10-K7-3_L001_R1_001.fastq.gz,Psyllium-10-K7-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-20-K10-1,KeminCaninePartOne,20,K10,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-20-K10-1_L001_R1_001.fastq.gz,Psyllium-20-K10-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-20-K10-2,KeminCaninePartThree,20,K10,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-20-K10-2_L001_R1_001.fastq.gz,Psyllium-20-K10-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-20-K10-3,KeminCaninePartTwo,20,K10,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-20-K10-3_L001_R1_001.fastq.gz,Psyllium-20-K10-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-20-K3-1,KeminCaninePartThree,20,K3,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-20-K3-1_L001_R1_001.fastq.gz,Psyllium-20-K3-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-20-K3-2,KeminCaninePartTwo,20,K3,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-20-K3-2_L001_R1_001.fastq.gz,Psyllium-20-K3-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-20-K3-3,KeminCaninePartOne,20,K3,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-20-K3-3_L001_R1_001.fastq.gz,Psyllium-20-K3-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-20-K5-1,KeminCaninePartOne,20,K5,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-20-K5-1_L001_R1_001.fastq.gz,Psyllium-20-K5-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-20-K5-2,KeminCaninePartThree,20,K5,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-20-K5-2_L001_R1_001.fastq.gz,Psyllium-20-K5-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-20-K5-3,KeminCaninePartTwo,20,K5,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-20-K5-3_L001_R1_001.fastq.gz,Psyllium-20-K5-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-20-K7-1,KeminCaninePartOne,20,K7,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-20-K7-1_L001_R1_001.fastq.gz,Psyllium-20-K7-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-20-K7-2,KeminCaninePartTwo,20,K7,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-20-K7-2_L001_R1_001.fastq.gz,Psyllium-20-K7-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-20-K7-3,KeminCaninePartThree,20,K7,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-20-K7-3_L001_R1_001.fastq.gz,Psyllium-20-K7-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-5-K10-1,KeminCaninePartTwo,5,K10,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-5-K10-1_L001_R1_001.fastq.gz,Psyllium-5-K10-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-5-K10-2,KeminCaninePartOne,5,K10,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-5-K10-2_L001_R1_001.fastq.gz,Psyllium-5-K10-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-5-K10-3,KeminCaninePartThree,5,K10,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-5-K10-3_L001_R1_001.fastq.gz,Psyllium-5-K10-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-5-K3-1,KeminCaninePartTwo,5,K3,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-5-K3-1_L001_R1_001.fastq.gz,Psyllium-5-K3-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-5-K3-2,KeminCaninePartThree,5,K3,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-5-K3-2_L001_R1_001.fastq.gz,Psyllium-5-K3-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-5-K3-3,KeminCaninePartOne,5,K3,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-5-K3-3_L001_R1_001.fastq.gz,Psyllium-5-K3-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-5-K5-1,KeminCaninePartOne,5,K5,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-5-K5-1_L001_R1_001.fastq.gz,Psyllium-5-K5-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-5-K5-2,KeminCaninePartTwo,5,K5,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-5-K5-2_L001_R1_001.fastq.gz,Psyllium-5-K5-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-5-K5-3,KeminCaninePartThree,5,K5,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-5-K5-3_L001_R1_001.fastq.gz,Psyllium-5-K5-3_L001_R2_001.fastq.gz,3,Psyllium
+Psyllium-5-K7-1,KeminCaninePartOne,5,K7,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-5-K7-1_L001_R1_001.fastq.gz,Psyllium-5-K7-1_L001_R2_001.fastq.gz,1,Psyllium
+Psyllium-5-K7-2,KeminCaninePartTwo,5,K7,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-5-K7-2_L001_R1_001.fastq.gz,Psyllium-5-K7-2_L001_R2_001.fastq.gz,2,Psyllium
+Psyllium-5-K7-3,KeminCaninePartThree,5,K7,Complex fiber,7,Psyllium Husk,5mg,"2.5,1.25, 0.25mg",Psyllium-5-K7-3_L001_R1_001.fastq.gz,Psyllium-5-K7-3_L001_R2_001.fastq.gz,3,Psyllium
+xanthan-1-K10-1,KeminCaninePartOne,1,K10,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-1-K10-1_L001_R1_001.fastq.gz,xanthan-1-K10-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-1-K10-2,KeminCaninePartTwo,1,K10,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-1-K10-2_L001_R1_001.fastq.gz,xanthan-1-K10-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-1-K10-3,KeminCaninePartThree,1,K10,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-1-K10-3_L001_R1_001.fastq.gz,xanthan-1-K10-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-1-K3-1,KeminCaninePartTwo,1,K3,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-1-K3-1_L001_R1_001.fastq.gz,xanthan-1-K3-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-1-K3-2,KeminCaninePartOne,1,K3,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-1-K3-2_L001_R1_001.fastq.gz,xanthan-1-K3-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-1-K3-3,KeminCaninePartThree,1,K3,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-1-K3-3_L001_R1_001.fastq.gz,xanthan-1-K3-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-1-K5-1,KeminCaninePartOne,1,K5,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-1-K5-1_L001_R1_001.fastq.gz,xanthan-1-K5-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-1-K5-2,KeminCaninePartTwo,1,K5,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-1-K5-2_L001_R1_001.fastq.gz,xanthan-1-K5-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-1-K5-3,KeminCaninePartThree,1,K5,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-1-K5-3_L001_R1_001.fastq.gz,xanthan-1-K5-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-1-K7-1,KeminCaninePartThree,1,K7,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-1-K7-1_L001_R1_001.fastq.gz,xanthan-1-K7-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-1-K7-2,KeminCaninePartOne,1,K7,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-1-K7-2_L001_R1_001.fastq.gz,xanthan-1-K7-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-1-K7-3,KeminCaninePartTwo,1,K7,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-1-K7-3_L001_R1_001.fastq.gz,xanthan-1-K7-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-10-K10-1,KeminCaninePartThree,10,K10,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-10-K10-1_L001_R1_001.fastq.gz,xanthan-10-K10-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-10-K10-2,KeminCaninePartOne,10,K10,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-10-K10-2_L001_R1_001.fastq.gz,xanthan-10-K10-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-10-K10-3,KeminCaninePartTwo,10,K10,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-10-K10-3_L001_R1_001.fastq.gz,xanthan-10-K10-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-10-K3-1,KeminCaninePartOne,10,K3,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-10-K3-1_L001_R1_001.fastq.gz,xanthan-10-K3-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-10-K3-2,KeminCaninePartThree,10,K3,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-10-K3-2_L001_R1_001.fastq.gz,xanthan-10-K3-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-10-K3-3,KeminCaninePartTwo,10,K3,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-10-K3-3_L001_R1_001.fastq.gz,xanthan-10-K3-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-10-K5-1,KeminCaninePartOne,10,K5,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-10-K5-1_L001_R1_001.fastq.gz,xanthan-10-K5-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-10-K5-2,KeminCaninePartThree,10,K5,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-10-K5-2_L001_R1_001.fastq.gz,xanthan-10-K5-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-10-K5-3,KeminCaninePartTwo,10,K5,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-10-K5-3_L001_R1_001.fastq.gz,xanthan-10-K5-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-10-K7-1,KeminCaninePartThree,10,K7,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-10-K7-1_L001_R1_001.fastq.gz,xanthan-10-K7-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-10-K7-2,KeminCaninePartOne,10,K7,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-10-K7-2_L001_R1_001.fastq.gz,xanthan-10-K7-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-10-K7-3,KeminCaninePartTwo,10,K7,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-10-K7-3_L001_R1_001.fastq.gz,xanthan-10-K7-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-20-K10-1,KeminCaninePartOne,20,K10,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-20-K10-1_L001_R1_001.fastq.gz,xanthan-20-K10-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-20-K10-2,KeminCaninePartThree,20,K10,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-20-K10-2_L001_R1_001.fastq.gz,xanthan-20-K10-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-20-K10-3,KeminCaninePartTwo,20,K10,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-20-K10-3_L001_R1_001.fastq.gz,xanthan-20-K10-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-20-K3-1,KeminCaninePartOne,20,K3,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-20-K3-1_L001_R1_001.fastq.gz,xanthan-20-K3-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-20-K3-2,KeminCaninePartThree,20,K3,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-20-K3-2_L001_R1_001.fastq.gz,xanthan-20-K3-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-20-K3-3,KeminCaninePartTwo,20,K3,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-20-K3-3_L001_R1_001.fastq.gz,xanthan-20-K3-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-20-K5-1,KeminCaninePartThree,20,K5,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-20-K5-1_L001_R1_001.fastq.gz,xanthan-20-K5-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-20-K5-2,KeminCaninePartTwo,20,K5,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-20-K5-2_L001_R1_001.fastq.gz,xanthan-20-K5-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-20-K5-3,KeminCaninePartOne,20,K5,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-20-K5-3_L001_R1_001.fastq.gz,xanthan-20-K5-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-20-K7-1,KeminCaninePartTwo,20,K7,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-20-K7-1_L001_R1_001.fastq.gz,xanthan-20-K7-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-20-K7-2,KeminCaninePartThree,20,K7,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-20-K7-2_L001_R1_001.fastq.gz,xanthan-20-K7-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-20-K7-3,KeminCaninePartOne,20,K7,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-20-K7-3_L001_R1_001.fastq.gz,xanthan-20-K7-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-5-K10-1,KeminCaninePartTwo,5,K10,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-5-K10-1_L001_R1_001.fastq.gz,xanthan-5-K10-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-5-K10-2,KeminCaninePartThree,5,K10,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-5-K10-2_L001_R1_001.fastq.gz,xanthan-5-K10-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-5-K10-3,KeminCaninePartOne,5,K10,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-5-K10-3_L001_R1_001.fastq.gz,xanthan-5-K10-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-5-K3-1,KeminCaninePartThree,5,K3,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-5-K3-1_L001_R1_001.fastq.gz,xanthan-5-K3-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-5-K3-2,KeminCaninePartTwo,5,K3,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-5-K3-2_L001_R1_001.fastq.gz,xanthan-5-K3-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-5-K3-3,KeminCaninePartOne,5,K3,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-5-K3-3_L001_R1_001.fastq.gz,xanthan-5-K3-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-5-K5-1,KeminCaninePartTwo,5,K5,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-5-K5-1_L001_R1_001.fastq.gz,xanthan-5-K5-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-5-K5-2,KeminCaninePartThree,5,K5,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-5-K5-2_L001_R1_001.fastq.gz,xanthan-5-K5-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-5-K5-3,KeminCaninePartOne,5,K5,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-5-K5-3_L001_R1_001.fastq.gz,xanthan-5-K5-3_L001_R2_001.fastq.gz,3,xanthan
+xanthan-5-K7-1,KeminCaninePartTwo,5,K7,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-5-K7-1_L001_R1_001.fastq.gz,xanthan-5-K7-1_L001_R2_001.fastq.gz,1,xanthan
+xanthan-5-K7-2,KeminCaninePartOne,5,K7,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-5-K7-2_L001_R1_001.fastq.gz,xanthan-5-K7-2_L001_R2_001.fastq.gz,2,xanthan
+xanthan-5-K7-3,KeminCaninePartThree,5,K7,Gums,18,xanthan gum,1mg,"0.5, 0.25, 0.05mg",xanthan-5-K7-3_L001_R1_001.fastq.gz,xanthan-5-K7-3_L001_R2_001.fastq.gz,3,xanthan
