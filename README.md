@@ -1,5 +1,5 @@
 #
-16S rRNA Gene Sequencing and Microbiome Analysis
+#16S rRNA Gene Sequencing and Microbiome Analysis
 ##
 Raw 16S rRNA gene sequencing data were processed using the DADA2 pipeline (v1.30) in R. 
 Only forward reads were retained for downstream analysis. Primer sequences and low-quality regions were removed by truncating reads at 250 bp and trimming 20 bases from the 5′ end. Reads exceeding a maximum expected error threshold of 2 (maxEE = 2) were discarded. Following quality filtering, reads were dereplicated, and chimeric sequences were removed. Amplicon sequence variants (ASVs) were inferred and taxonomically classified using the SILVA reference database (release 138.2).
